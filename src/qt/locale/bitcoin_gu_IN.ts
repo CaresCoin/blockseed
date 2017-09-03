@@ -1,10 +1,10 @@
-<?xml version="1.0" ?><!DOCTYPE TS><TS language="ach" version="2.0">
+<?xml version="1.0" ?><!DOCTYPE TS><TS language="gu_IN" version="2.0">
 <context>
     <name>AboutDialog</name>
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
         <source>About CaresCoin</source>
-        <translation type="unfinished"/>
+        <translation>બીટકોઈન વિષે</translation>
     </message>
     <message>
         <location line="+39"/>

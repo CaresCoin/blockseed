@@ -1,15 +1,15 @@
-<?xml version="1.0" ?><!DOCTYPE TS><TS language="ach" version="2.0">
+<?xml version="1.0" ?><!DOCTYPE TS><TS language="de" version="2.0">
 <context>
     <name>AboutDialog</name>
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
         <source>About CaresCoin</source>
-        <translation type="unfinished"/>
+        <translation>Über CaresCoin</translation>
     </message>
     <message>
         <location line="+39"/>
         <source>&lt;b&gt;CaresCoin&lt;/b&gt; version</source>
-        <translation type="unfinished"/>
+        <translation>&lt;b&gt;CaresCoin&lt;/b&gt;-Version</translation>
     </message>
     <message>
         <location line="+57"/>
@@ -19,17 +19,22 @@ This is experimental software.
 Distributed under the MIT/X11 software license, see the accompanying file COPYING or http://www.opensource.org/licenses/mit-license.php.
 
 This product includes software developed by the OpenSSL Project for use in the OpenSSL Toolkit (http://www.openssl.org/) and cryptographic software written by Eric Young (eay@cryptsoft.com) and UPnP software written by Thomas Bernard.</source>
-        <translation type="unfinished"/>
+        <translation>
+Dies ist experimentelle Software.
+
+Veröffentlicht unter der MIT/X11-Softwarelizenz, siehe beiligende Datei COPYING oder http://www.opensource.org/licenses/mit-license.php.
+
+Dieses Produkt enthält Software, die vom OpenSSL-Projekt zur Verwendung im OpenSSL-Toolkit (http://www.openssl.org/) entwickelt wurde, sowie kryptographische Software geschrieben von Eric Young (eay@cryptsoft.com) und UPnP-Software geschrieben von Thomas Bernard.</translation>
     </message>
     <message>
         <location filename="../aboutdialog.cpp" line="+14"/>
         <source>Copyright</source>
-        <translation type="unfinished"/>
+        <translation>Copyright</translation>
     </message>
     <message>
         <location line="+0"/>
         <source>The CaresCoin developers</source>
-        <translation type="unfinished"/>
+        <translation>Die CaresCoinentwickler</translation>
     </message>
 </context>
 <context>
@@ -37,122 +42,122 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location filename="../forms/addressbookpage.ui" line="+14"/>
         <source>Address Book</source>
-        <translation type="unfinished"/>
+        <translation>Adressbuch</translation>
     </message>
     <message>
         <location line="+19"/>
         <source>Double-click to edit address or label</source>
-        <translation type="unfinished"/>
+        <translation>Doppelklicken, um die Adresse oder die Bezeichnung zu bearbeiten</translation>
     </message>
     <message>
         <location line="+27"/>
         <source>Create a new address</source>
-        <translation type="unfinished"/>
+        <translation>Eine neue Adresse erstellen</translation>
     </message>
     <message>
         <location line="+14"/>
         <source>Copy the currently selected address to the system clipboard</source>
-        <translation type="unfinished"/>
+        <translation>Ausgewählte Adresse in die Zwischenablage kopieren</translation>
     </message>
     <message>
         <location line="-11"/>
         <source>&amp;New Address</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Neue Adresse</translation>
     </message>
     <message>
         <location filename="../addressbookpage.cpp" line="+63"/>
         <source>These are your CaresCoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
-        <translation type="unfinished"/>
+        <translation>Dies sind Ihre CaresCoin-Adressen zum Empfangen von Zahlungen. Es steht Ihnen frei, jedem Absender eine Andere mitzuteilen, um einen besseren Überblick über eingehende Zahlungen zu erhalten.</translation>
     </message>
     <message>
         <location filename="../forms/addressbookpage.ui" line="+14"/>
         <source>&amp;Copy Address</source>
-        <translation type="unfinished"/>
+        <translation>Adresse &amp;kopieren</translation>
     </message>
     <message>
         <location line="+11"/>
         <source>Show &amp;QR Code</source>
-        <translation type="unfinished"/>
+        <translation>&amp;QR-Code anzeigen</translation>
     </message>
     <message>
         <location line="+11"/>
         <source>Sign a message to prove you own a CaresCoin address</source>
-        <translation type="unfinished"/>
+        <translation>Eine Nachricht signieren, um den Besitz einer CaresCoin-Adresse zu beweisen</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Sign &amp;Message</source>
-        <translation type="unfinished"/>
+        <translation>Nachricht &amp;signieren</translation>
     </message>
     <message>
         <location line="+25"/>
         <source>Delete the currently selected address from the list</source>
-        <translation type="unfinished"/>
+        <translation>Die ausgewählte Adresse aus der Liste entfernen.</translation>
     </message>
     <message>
         <location line="+27"/>
         <source>Export the data in the current tab to a file</source>
-        <translation type="unfinished"/>
+        <translation>Daten der aktuellen Ansicht in eine Datei exportieren</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>&amp;Export</source>
-        <translation type="unfinished"/>
+        <translation>E&amp;xportieren</translation>
     </message>
     <message>
         <location line="-44"/>
         <source>Verify a message to ensure it was signed with a specified CaresCoin address</source>
-        <translation type="unfinished"/>
+        <translation>Eine Nachricht verifizieren, um sicherzustellen, dass diese mit einer angegebenen CaresCoin-Adresse signiert wurde</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>&amp;Verify Message</source>
-        <translation type="unfinished"/>
+        <translation>Nachricht &amp;verifizieren</translation>
     </message>
     <message>
         <location line="+14"/>
         <source>&amp;Delete</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Löschen</translation>
     </message>
     <message>
         <location filename="../addressbookpage.cpp" line="-5"/>
         <source>These are your CaresCoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
-        <translation type="unfinished"/>
+        <translation>Dies sind Ihre CaresCoin-Adressen zum Tätigen von Überweisungen. Bitte prüfen Sie den Betrag und die Empfangsadresse, bevor Sie CaresCoins überweisen.</translation>
     </message>
     <message>
         <location line="+13"/>
         <source>Copy &amp;Label</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Bezeichnung kopieren</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>&amp;Edit</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Editieren</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Send &amp;Coins</source>
-        <translation type="unfinished"/>
+        <translation>CaresCoins &amp;überweisen</translation>
     </message>
     <message>
         <location line="+265"/>
         <source>Export Address Book Data</source>
-        <translation type="unfinished"/>
+        <translation>Adressbuch exportieren</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Comma separated file (*.csv)</source>
-        <translation type="unfinished"/>
+        <translation>Kommagetrennte-Datei (*.csv)</translation>
     </message>
     <message>
         <location line="+13"/>
         <source>Error exporting</source>
-        <translation type="unfinished"/>
+        <translation>Fehler beim Exportieren</translation>
     </message>
     <message>
         <location line="+0"/>
         <source>Could not write to file %1.</source>
-        <translation type="unfinished"/>
+        <translation>Konnte nicht in Datei %1 schreiben.</translation>
     </message>
 </context>
 <context>
@@ -160,17 +165,17 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location filename="../addresstablemodel.cpp" line="+144"/>
         <source>Label</source>
-        <translation type="unfinished"/>
+        <translation>Bezeichnung</translation>
     </message>
     <message>
         <location line="+0"/>
         <source>Address</source>
-        <translation type="unfinished"/>
+        <translation>Adresse</translation>
     </message>
     <message>
         <location line="+36"/>
         <source>(no label)</source>
-        <translation type="unfinished"/>
+        <translation>(keine Bezeichnung)</translation>
     </message>
 </context>
 <context>
@@ -178,99 +183,99 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location filename="../forms/askpassphrasedialog.ui" line="+26"/>
         <source>Passphrase Dialog</source>
-        <translation type="unfinished"/>
+        <translation>Passphrasendialog</translation>
     </message>
     <message>
         <location line="+21"/>
         <source>Enter passphrase</source>
-        <translation type="unfinished"/>
+        <translation>Passphrase eingeben</translation>
     </message>
     <message>
         <location line="+14"/>
         <source>New passphrase</source>
-        <translation type="unfinished"/>
+        <translation>Neue Passphrase</translation>
     </message>
     <message>
         <location line="+14"/>
         <source>Repeat new passphrase</source>
-        <translation type="unfinished"/>
+        <translation>Neue Passphrase wiederholen</translation>
     </message>
     <message>
         <location filename="../askpassphrasedialog.cpp" line="+33"/>
         <source>Enter the new passphrase to the wallet.&lt;br/&gt;Please use a passphrase of &lt;b&gt;10 or more random characters&lt;/b&gt;, or &lt;b&gt;eight or more words&lt;/b&gt;.</source>
-        <translation type="unfinished"/>
+        <translation>Geben Sie die neue Passphrase für die Brieftasche ein.&lt;br&gt;Bitte benutzen Sie eine Passphrase bestehend aus &lt;b&gt;10 oder mehr zufälligen Zeichen&lt;/b&gt; oder &lt;b&gt;8 oder mehr Wörtern&lt;/b&gt;.</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Encrypt wallet</source>
-        <translation type="unfinished"/>
+        <translation>Brieftasche verschlüsseln</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>This operation needs your wallet passphrase to unlock the wallet.</source>
-        <translation type="unfinished"/>
+        <translation>Dieser Vorgang benötigt Ihre Passphrase, um die Brieftasche zu entsperren.</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Unlock wallet</source>
-        <translation type="unfinished"/>
+        <translation>Brieftasche entsperren</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>This operation needs your wallet passphrase to decrypt the wallet.</source>
-        <translation type="unfinished"/>
+        <translation>Dieser Vorgang benötigt Ihre Passphrase, um die Brieftasche zu entschlüsseln.</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Decrypt wallet</source>
-        <translation type="unfinished"/>
+        <translation>Brieftasche entschlüsseln</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Change passphrase</source>
-        <translation type="unfinished"/>
+        <translation>Passphrase ändern</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Enter the old and new passphrase to the wallet.</source>
-        <translation type="unfinished"/>
+        <translation>Geben Sie die alte und neue Passphrase der Brieftasche ein.</translation>
     </message>
     <message>
         <location line="+46"/>
         <source>Confirm wallet encryption</source>
-        <translation type="unfinished"/>
+        <translation>Verschlüsselung der Brieftasche bestätigen</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR BITCOINS&lt;/b&gt;!</source>
-        <translation type="unfinished"/>
+        <translation>Warnung: Wenn Sie Ihre Brieftasche verschlüsseln und Ihre Passphrase verlieren, werden Sie &lt;b&gt;alle Ihre CaresCoins verlieren&lt;/b&gt;!</translation>
     </message>
     <message>
         <location line="+0"/>
         <source>Are you sure you wish to encrypt your wallet?</source>
-        <translation type="unfinished"/>
+        <translation>Sind Sie sich sicher, dass Sie Ihre Brieftasche verschlüsseln möchten?</translation>
     </message>
     <message>
         <location line="+15"/>
         <source>IMPORTANT: Any previous backups you have made of your wallet file should be replaced with the newly generated, encrypted wallet file. For security reasons, previous backups of the unencrypted wallet file will become useless as soon as you start using the new, encrypted wallet.</source>
-        <translation type="unfinished"/>
+        <translation>WICHTIG: Alle vorherigen Sicherungen Ihrer Brieftasche sollten durch die neu erzeugte, verschlüsselte Brieftasche ersetzt werden. Aus Sicherheitsgründen werden vorherige Sicherungen der unverschlüsselten Brieftasche nutzlos, sobald Sie die neue, verschlüsselte Brieftasche verwenden.</translation>
     </message>
     <message>
         <location line="+100"/>
         <location line="+24"/>
         <source>Warning: The Caps Lock key is on!</source>
-        <translation type="unfinished"/>
+        <translation>Warnung: Die Feststelltaste ist aktiviert!</translation>
     </message>
     <message>
         <location line="-130"/>
         <location line="+58"/>
         <source>Wallet encrypted</source>
-        <translation type="unfinished"/>
+        <translation>Brieftasche verschlüsselt</translation>
     </message>
     <message>
         <location line="-56"/>
         <source>CaresCoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your carescoins from being stolen by malware infecting your computer.</source>
-        <translation type="unfinished"/>
+        <translation>CaresCoin wird jetzt beendet, um den Verschlüsselungsprozess abzuschließen. Bitte beachten Sie, dass die Verschlüsselung Ihrer Brieftasche nicht vollständig vor Diebstahl Ihrer CaresCoins durch Schadsoftware schützt, die Ihren Computer befällt.</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -278,40 +283,40 @@ This product includes software developed by the OpenSSL Project for use in the O
         <location line="+42"/>
         <location line="+6"/>
         <source>Wallet encryption failed</source>
-        <translation type="unfinished"/>
+        <translation>Verschlüsselung der Brieftasche fehlgeschlagen</translation>
     </message>
     <message>
         <location line="-54"/>
         <source>Wallet encryption failed due to an internal error. Your wallet was not encrypted.</source>
-        <translation type="unfinished"/>
+        <translation>Die Verschlüsselung der Brieftasche ist aufgrund eines internen Fehlers fehlgeschlagen. Ihre Brieftasche wurde nicht verschlüsselt.</translation>
     </message>
     <message>
         <location line="+7"/>
         <location line="+48"/>
         <source>The supplied passphrases do not match.</source>
-        <translation type="unfinished"/>
+        <translation>Die eingegebenen Passphrasen stimmen nicht überein.</translation>
     </message>
     <message>
         <location line="-37"/>
         <source>Wallet unlock failed</source>
-        <translation type="unfinished"/>
+        <translation>Entsperrung der Brieftasche fehlgeschlagen</translation>
     </message>
     <message>
         <location line="+1"/>
         <location line="+11"/>
         <location line="+19"/>
         <source>The passphrase entered for the wallet decryption was incorrect.</source>
-        <translation type="unfinished"/>
+        <translation>Die eingegebene Passphrase zum Entschlüsseln der Brieftasche war nicht korrekt.</translation>
     </message>
     <message>
         <location line="-20"/>
         <source>Wallet decryption failed</source>
-        <translation type="unfinished"/>
+        <translation>Entschlüsselung der Brieftasche fehlgeschlagen</translation>
     </message>
     <message>
         <location line="+14"/>
         <source>Wallet passphrase was successfully changed.</source>
-        <translation type="unfinished"/>
+        <translation>Die Passphrase der Brieftasche wurde erfolgreich geändert.</translation>
     </message>
 </context>
 <context>
@@ -319,319 +324,319 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location filename="../bitcoingui.cpp" line="+254"/>
         <source>Sign &amp;message...</source>
-        <translation type="unfinished"/>
+        <translation>Nachricht s&amp;ignieren...</translation>
     </message>
     <message>
         <location line="+246"/>
         <source>Synchronizing with network...</source>
-        <translation type="unfinished"/>
+        <translation>Synchronisiere mit Netzwerk...</translation>
     </message>
     <message>
         <location line="-321"/>
         <source>&amp;Overview</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Übersicht</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Show general overview of wallet</source>
-        <translation type="unfinished"/>
+        <translation>Allgemeine Übersicht der Brieftasche anzeigen</translation>
     </message>
     <message>
         <location line="+20"/>
         <source>&amp;Transactions</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Transaktionen</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Browse transaction history</source>
-        <translation type="unfinished"/>
+        <translation>Transaktionsverlauf durchsehen</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>Edit the list of stored addresses and labels</source>
-        <translation type="unfinished"/>
+        <translation>Liste der gespeicherten Zahlungsadressen und Bezeichnungen bearbeiten</translation>
     </message>
     <message>
         <location line="-14"/>
         <source>Show the list of addresses for receiving payments</source>
-        <translation type="unfinished"/>
+        <translation>Liste der Empfangsadressen anzeigen</translation>
     </message>
     <message>
         <location line="+31"/>
         <source>E&amp;xit</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Beenden</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Quit application</source>
-        <translation type="unfinished"/>
+        <translation>Anwendung beenden</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>Show information about CaresCoin</source>
-        <translation type="unfinished"/>
+        <translation>Informationen über CaresCoin anzeigen</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>About &amp;Qt</source>
-        <translation type="unfinished"/>
+        <translation>Über &amp;Qt</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Show information about Qt</source>
-        <translation type="unfinished"/>
+        <translation>Informationen über Qt anzeigen</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>&amp;Options...</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Konfiguration...</translation>
     </message>
     <message>
         <location line="+9"/>
         <source>&amp;Encrypt Wallet...</source>
-        <translation type="unfinished"/>
+        <translation>Brieftasche &amp;verschlüsseln...</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>&amp;Backup Wallet...</source>
-        <translation type="unfinished"/>
+        <translation>Brieftasche &amp;sichern...</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>&amp;Change Passphrase...</source>
-        <translation type="unfinished"/>
+        <translation>Passphrase &amp;ändern...</translation>
     </message>
     <message>
         <location line="+251"/>
         <source>Importing blocks from disk...</source>
-        <translation type="unfinished"/>
+        <translation>Importiere Blöcke von Laufwerk...</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Reindexing blocks on disk...</source>
-        <translation type="unfinished"/>
+        <translation>Reindiziere Blöcke auf Laufwerk...</translation>
     </message>
     <message>
         <location line="-319"/>
         <source>Send coins to a CaresCoin address</source>
-        <translation type="unfinished"/>
+        <translation>CaresCoins an eine CaresCoin-Adresse überweisen</translation>
     </message>
     <message>
         <location line="+52"/>
         <source>Modify configuration options for CaresCoin</source>
-        <translation type="unfinished"/>
+        <translation>Die Konfiguration des Clients bearbeiten</translation>
     </message>
     <message>
         <location line="+12"/>
         <source>Backup wallet to another location</source>
-        <translation type="unfinished"/>
+        <translation>Eine Sicherungskopie der Brieftasche erstellen und abspeichern</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Change the passphrase used for wallet encryption</source>
-        <translation type="unfinished"/>
+        <translation>Ändert die Passphrase, die für die Verschlüsselung der Brieftasche benutzt wird</translation>
     </message>
     <message>
         <location line="+6"/>
         <source>&amp;Debug window</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Debugfenster</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Open debugging and diagnostic console</source>
-        <translation type="unfinished"/>
+        <translation>Debugging- und Diagnosekonsole öffnen</translation>
     </message>
     <message>
         <location line="-4"/>
         <source>&amp;Verify message...</source>
-        <translation type="unfinished"/>
+        <translation>Nachricht &amp;verifizieren...</translation>
     </message>
     <message>
         <location line="-183"/>
         <location line="+6"/>
         <location line="+508"/>
         <source>CaresCoin</source>
-        <translation type="unfinished"/>
+        <translation>CaresCoin</translation>
     </message>
     <message>
         <location line="-514"/>
         <location line="+6"/>
         <source>Wallet</source>
-        <translation type="unfinished"/>
+        <translation>Brieftasche</translation>
     </message>
     <message>
         <location line="+107"/>
         <source>&amp;Send</source>
-        <translation type="unfinished"/>
+        <translation>Überweisen</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>&amp;Receive</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Empfangen</translation>
     </message>
     <message>
         <location line="+14"/>
         <source>&amp;Addresses</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Adressen</translation>
     </message>
     <message>
         <location line="+23"/>
         <location line="+2"/>
         <source>&amp;About CaresCoin</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Über CaresCoin</translation>
     </message>
     <message>
         <location line="+10"/>
         <location line="+2"/>
         <source>&amp;Show / Hide</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Anzeigen / Verstecken</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Show or hide the main Window</source>
-        <translation type="unfinished"/>
+        <translation>Das Hauptfenster anzeigen oder verstecken</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Encrypt the private keys that belong to your wallet</source>
-        <translation type="unfinished"/>
+        <translation>Verschlüsselt die zu Ihrer Brieftasche gehörenden privaten Schlüssel</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>Sign messages with your CaresCoin addresses to prove you own them</source>
-        <translation type="unfinished"/>
+        <translation>Nachrichten signieren, um den Besitz Ihrer CaresCoin-Adressen zu beweisen</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Verify messages to ensure they were signed with specified CaresCoin addresses</source>
-        <translation type="unfinished"/>
+        <translation>Nachrichten verifizieren, um sicherzustellen, dass diese mit den angegebenen CaresCoin-Adressen signiert wurden</translation>
     </message>
     <message>
         <location line="+28"/>
         <source>&amp;File</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Datei</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>&amp;Settings</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Einstellungen</translation>
     </message>
     <message>
         <location line="+6"/>
         <source>&amp;Help</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Hilfe</translation>
     </message>
     <message>
         <location line="+9"/>
         <source>Tabs toolbar</source>
-        <translation type="unfinished"/>
+        <translation>Registerkartenleiste</translation>
     </message>
     <message>
         <location line="-228"/>
         <location line="+288"/>
         <source>[testnet]</source>
-        <translation type="unfinished"/>
+        <translation>[Testnetz]</translation>
     </message>
     <message>
         <location line="-5"/>
         <location line="+5"/>
         <source>CaresCoin client</source>
-        <translation type="unfinished"/>
+        <translation>CaresCoin-Client</translation>
     </message>
     <message numerus="yes">
         <location line="+121"/>
         <source>%n active connection(s) to CaresCoin network</source>
-        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform></translation>
+        <translation><numerusform>%n aktive Verbindung zum CaresCoin-Netzwerk</numerusform><numerusform>%n aktive Verbindungen zum CaresCoin-Netzwerk</numerusform></translation>
     </message>
     <message>
         <location line="+22"/>
         <source>No block source available...</source>
-        <translation type="unfinished"/>
+        <translation>Keine Blockquelle verfügbar...</translation>
     </message>
     <message>
         <location line="+12"/>
         <source>Processed %1 of %2 (estimated) blocks of transaction history.</source>
-        <translation type="unfinished"/>
+        <translation>%1 von (geschätzten) %2 Blöcken des Transaktionsverlaufs verarbeitet.</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>Processed %1 blocks of transaction history.</source>
-        <translation type="unfinished"/>
+        <translation>%1 Blöcke des Transaktionsverlaufs verarbeitet.</translation>
     </message>
     <message numerus="yes">
         <location line="+20"/>
         <source>%n hour(s)</source>
-        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform></translation>
+        <translation><numerusform>%n Stunde</numerusform><numerusform>%n Stunden</numerusform></translation>
     </message>
     <message numerus="yes">
         <location line="+4"/>
         <source>%n day(s)</source>
-        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform></translation>
+        <translation><numerusform>%n Tag</numerusform><numerusform>%n Tage</numerusform></translation>
     </message>
     <message numerus="yes">
         <location line="+4"/>
         <source>%n week(s)</source>
-        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform></translation>
+        <translation><numerusform>%n Woche</numerusform><numerusform>%n Wochen</numerusform></translation>
     </message>
     <message>
         <location line="+4"/>
         <source>%1 behind</source>
-        <translation type="unfinished"/>
+        <translation>%1 im Rückstand</translation>
     </message>
     <message>
         <location line="+14"/>
         <source>Last received block was generated %1 ago.</source>
-        <translation type="unfinished"/>
+        <translation>Der letzte empfangene Block ist %1 alt.</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Transactions after this will not yet be visible.</source>
-        <translation type="unfinished"/>
+        <translation>Transaktionen hiernach werden noch nicht angezeigt.</translation>
     </message>
     <message>
         <location line="+22"/>
         <source>Error</source>
-        <translation type="unfinished"/>
+        <translation>Fehler</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Warning</source>
-        <translation type="unfinished"/>
+        <translation>Warnung</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Information</source>
-        <translation type="unfinished"/>
+        <translation>Hinweis</translation>
     </message>
     <message>
         <location line="+70"/>
         <source>This transaction is over the size limit. You can still send it for a fee of %1, which goes to the nodes that process your transaction and helps to support the network. Do you want to pay the fee?</source>
-        <translation type="unfinished"/>
+        <translation>Die Transaktion übersteigt das Größenlimit. Sie können sie trotzdem senden, wenn Sie eine zusätzliche Transaktionsgebühr in Höhe von %1 zahlen. Diese wird an die Knoten verteilt, die Ihre Transaktion bearbeiten und unterstützt damit das CaresCoin-Netzwerk. Möchten Sie die Gebühr bezahlen?</translation>
     </message>
     <message>
         <location line="-140"/>
         <source>Up to date</source>
-        <translation type="unfinished"/>
+        <translation>Auf aktuellem Stand</translation>
     </message>
     <message>
         <location line="+31"/>
         <source>Catching up...</source>
-        <translation type="unfinished"/>
+        <translation>Hole auf...</translation>
     </message>
     <message>
         <location line="+113"/>
         <source>Confirm transaction fee</source>
-        <translation type="unfinished"/>
+        <translation>Transaktionsgebühr bestätigen</translation>
     </message>
     <message>
         <location line="+8"/>
         <source>Sent transaction</source>
-        <translation type="unfinished"/>
+        <translation>Gesendete Transaktion</translation>
     </message>
     <message>
         <location line="+0"/>
         <source>Incoming transaction</source>
-        <translation type="unfinished"/>
+        <translation>Eingehende Transaktion</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -640,34 +645,37 @@ Amount: %2
 Type: %3
 Address: %4
 </source>
-        <translation type="unfinished"/>
+        <translation>Datum: %1
+Betrag: %2
+Typ: %3
+Adresse: %4</translation>
     </message>
     <message>
         <location line="+33"/>
         <location line="+23"/>
         <source>URI handling</source>
-        <translation type="unfinished"/>
+        <translation>URI Verarbeitung</translation>
     </message>
     <message>
         <location line="-23"/>
         <location line="+23"/>
         <source>URI can not be parsed! This can be caused by an invalid CaresCoin address or malformed URI parameters.</source>
-        <translation type="unfinished"/>
+        <translation>URI kann nicht analysiert werden! Dies kann durch eine ungültige CaresCoin-Adresse oder fehlerhafte URI-Parameter verursacht werden.</translation>
     </message>
     <message>
         <location line="+17"/>
         <source>Wallet is &lt;b&gt;encrypted&lt;/b&gt; and currently &lt;b&gt;unlocked&lt;/b&gt;</source>
-        <translation type="unfinished"/>
+        <translation>Brieftasche ist &lt;b&gt;verschlüsselt&lt;/b&gt; und aktuell &lt;b&gt;entsperrt&lt;/b&gt;</translation>
     </message>
     <message>
         <location line="+8"/>
         <source>Wallet is &lt;b&gt;encrypted&lt;/b&gt; and currently &lt;b&gt;locked&lt;/b&gt;</source>
-        <translation type="unfinished"/>
+        <translation>Brieftasche ist &lt;b&gt;verschlüsselt&lt;/b&gt; und aktuell &lt;b&gt;gesperrt&lt;/b&gt;</translation>
     </message>
     <message>
         <location filename="../bitcoin.cpp" line="+110"/>
         <source>A fatal error occurred. CaresCoin can no longer continue safely and will quit.</source>
-        <translation type="unfinished"/>
+        <translation>Ein schwerer Fehler ist aufgetreten. CaresCoin kann nicht stabil weiter ausgeführt werden und wird beendet.</translation>
     </message>
 </context>
 <context>
@@ -675,7 +683,7 @@ Address: %4
     <message>
         <location filename="../clientmodel.cpp" line="+105"/>
         <source>Network Alert</source>
-        <translation type="unfinished"/>
+        <translation>Netzwerkalarm</translation>
     </message>
 </context>
 <context>
@@ -683,67 +691,67 @@ Address: %4
     <message>
         <location filename="../forms/editaddressdialog.ui" line="+14"/>
         <source>Edit Address</source>
-        <translation type="unfinished"/>
+        <translation>Adresse bearbeiten</translation>
     </message>
     <message>
         <location line="+11"/>
         <source>&amp;Label</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Bezeichnung</translation>
     </message>
     <message>
         <location line="+10"/>
         <source>The label associated with this address book entry</source>
-        <translation type="unfinished"/>
+        <translation>Die Bezeichnung dieses Adressbuchseintrags</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>&amp;Address</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Adresse</translation>
     </message>
     <message>
         <location line="+10"/>
         <source>The address associated with this address book entry. This can only be modified for sending addresses.</source>
-        <translation type="unfinished"/>
+        <translation>Die Adresse des Adressbucheintrags. Diese kann nur für Zahlungsadressen bearbeitet werden.</translation>
     </message>
     <message>
         <location filename="../editaddressdialog.cpp" line="+21"/>
         <source>New receiving address</source>
-        <translation type="unfinished"/>
+        <translation>Neue Empfangsadresse</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>New sending address</source>
-        <translation type="unfinished"/>
+        <translation>Neue Zahlungsadresse</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Edit receiving address</source>
-        <translation type="unfinished"/>
+        <translation>Empfangsadresse bearbeiten</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>Edit sending address</source>
-        <translation type="unfinished"/>
+        <translation>Zahlungsadresse bearbeiten</translation>
     </message>
     <message>
         <location line="+76"/>
         <source>The entered address &quot;%1&quot; is already in the address book.</source>
-        <translation type="unfinished"/>
+        <translation>Die eingegebene Adresse &quot;%1&quot; befindet sich bereits im Adressbuch.</translation>
     </message>
     <message>
         <location line="-5"/>
         <source>The entered address &quot;%1&quot; is not a valid CaresCoin address.</source>
-        <translation type="unfinished"/>
+        <translation>Die eingegebene Adresse &quot;%1&quot; ist keine gültige CaresCoin-Adresse.</translation>
     </message>
     <message>
         <location line="+10"/>
         <source>Could not unlock wallet.</source>
-        <translation type="unfinished"/>
+        <translation>Die Brieftasche konnte nicht entsperrt werden.</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>New key generation failed.</source>
-        <translation type="unfinished"/>
+        <translation>Generierung eines neuen Schlüssels fehlgeschlagen.</translation>
     </message>
 </context>
 <context>
@@ -751,27 +759,27 @@ Address: %4
     <message>
         <location filename="../intro.cpp" line="+61"/>
         <source>A new data directory will be created.</source>
-        <translation type="unfinished"/>
+        <translation>Es wird ein neues Datenverzeichnis angelegt.</translation>
     </message>
     <message>
         <location line="+22"/>
         <source>name</source>
-        <translation type="unfinished"/>
+        <translation>Name</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Directory already exists. Add %1 if you intend to create a new directory here.</source>
-        <translation type="unfinished"/>
+        <translation>Verzeichnis existiert bereits. Fügen Sie %1 an, wenn Sie beabsichtigen hier ein neues Verzeichnis anzulegen.</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Path already exists, and is not a directory.</source>
-        <translation type="unfinished"/>
+        <translation>Pfad existiert bereits und ist kein Verzeichnis.</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>Cannot create data directory here.</source>
-        <translation type="unfinished"/>
+        <translation>Datenverzeichnis kann hier nicht angelegt werden.</translation>
     </message>
 </context>
 <context>
@@ -780,47 +788,47 @@ Address: %4
         <location filename="../guiutil.cpp" line="+517"/>
         <location line="+13"/>
         <source>CaresCoin-Qt</source>
-        <translation type="unfinished"/>
+        <translation>CaresCoin-Qt</translation>
     </message>
     <message>
         <location line="-13"/>
         <source>version</source>
-        <translation type="unfinished"/>
+        <translation>Version</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Usage:</source>
-        <translation type="unfinished"/>
+        <translation>Benutzung:</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>command-line options</source>
-        <translation type="unfinished"/>
+        <translation>Kommandozeilenoptionen</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>UI options</source>
-        <translation type="unfinished"/>
+        <translation>UI-Optionen</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Set language, for example &quot;de_DE&quot; (default: system locale)</source>
-        <translation type="unfinished"/>
+        <translation>Sprache festlegen, z.B. &quot;de_DE&quot; (Standard: System Locale)</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Start minimized</source>
-        <translation type="unfinished"/>
+        <translation>Minimiert starten</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Show splash screen on startup (default: 1)</source>
-        <translation type="unfinished"/>
+        <translation>Startbildschirm beim Starten anzeigen (Standard: 1)</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Choose data directory on startup (default: 0)</source>
-        <translation type="unfinished"/>
+        <translation>Datenverzeichnis beim Starten auswählen (Standard: 0)</translation>
     </message>
 </context>
 <context>
@@ -828,47 +836,47 @@ Address: %4
     <message>
         <location filename="../forms/intro.ui" line="+14"/>
         <source>Welcome</source>
-        <translation type="unfinished"/>
+        <translation>Willkommen</translation>
     </message>
     <message>
         <location line="+9"/>
         <source>Welcome to CaresCoin-Qt.</source>
-        <translation type="unfinished"/>
+        <translation>Willkommen zu CaresCoin-Qt.</translation>
     </message>
     <message>
         <location line="+26"/>
         <source>As this is the first time the program is launched, you can choose where CaresCoin-Qt will store its data.</source>
-        <translation type="unfinished"/>
+        <translation>Da Sie das Programm gerade zum ersten Mal starten, können Sie nun auswählen wo CaresCoin-Qt seine Daten ablegen wird.</translation>
     </message>
     <message>
         <location line="+10"/>
         <source>CaresCoin-Qt will download and store a copy of the CaresCoin block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
-        <translation type="unfinished"/>
+        <translation>CaresCoin-Qt wird eine Kopie der Blockkette herunterladen und speichern. Mindestens %1GB Daten werden in diesem Verzeichnis abgelegt und die Datenmenge wächst über die Zeit an. Auch die Brieftasche wird in diesem Verzeichnis abgelegt.</translation>
     </message>
     <message>
         <location line="+10"/>
         <source>Use the default data directory</source>
-        <translation type="unfinished"/>
+        <translation>Standard-Datenverzeichnis verwenden</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>Use a custom data directory:</source>
-        <translation type="unfinished"/>
+        <translation>Ein benutzerdefiniertes Datenverzeichnis verwenden:</translation>
     </message>
     <message>
         <location filename="../intro.cpp" line="+100"/>
         <source>Error</source>
-        <translation type="unfinished"/>
+        <translation>Fehler</translation>
     </message>
     <message>
         <location line="+9"/>
         <source>GB of free space available</source>
-        <translation type="unfinished"/>
+        <translation>GB freier Speicherplatz verfügbar</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>(of %1GB needed)</source>
-        <translation type="unfinished"/>
+        <translation>(von benötigten %1GB)</translation>
     </message>
 </context>
 <context>
@@ -876,209 +884,209 @@ Address: %4
     <message>
         <location filename="../forms/optionsdialog.ui" line="+14"/>
         <source>Options</source>
-        <translation type="unfinished"/>
+        <translation>Erweiterte Einstellungen</translation>
     </message>
     <message>
         <location line="+16"/>
         <source>&amp;Main</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Allgemein</translation>
     </message>
     <message>
         <location line="+6"/>
         <source>Optional transaction fee per kB that helps make sure your transactions are processed quickly. Most transactions are 1 kB.</source>
-        <translation type="unfinished"/>
+        <translation>Optionale Transaktionsgebühr pro KB, die sicherstellt, dass Ihre Transaktionen schnell bearbeitet werden. Die meisten Transaktionen sind 1 kB groß.</translation>
     </message>
     <message>
         <location line="+15"/>
         <source>Pay transaction &amp;fee</source>
-        <translation type="unfinished"/>
+        <translation>Transaktions&amp;gebühr bezahlen</translation>
     </message>
     <message>
         <location line="+31"/>
         <source>Automatically start CaresCoin after logging in to the system.</source>
-        <translation type="unfinished"/>
+        <translation>CaresCoin nach der Anmeldung am System automatisch ausführen.</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>&amp;Start CaresCoin on system login</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Starte CaresCoin nach Systemanmeldung</translation>
     </message>
     <message>
         <location line="+35"/>
         <source>Reset all client options to default.</source>
-        <translation type="unfinished"/>
+        <translation>Setzt die Clientkonfiguration auf Standardwerte zurück.</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>&amp;Reset Options</source>
-        <translation type="unfinished"/>
+        <translation>Konfiguration &amp;zurücksetzen</translation>
     </message>
     <message>
         <location line="+13"/>
         <source>&amp;Network</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Netzwerk</translation>
     </message>
     <message>
         <location line="+6"/>
         <source>Automatically open the CaresCoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation type="unfinished"/>
+        <translation>Automatisch den CaresCoin-Clientport auf dem Router öffnen. Dies funktioniert nur, wenn Ihr Router UPnP unterstützt und dies aktiviert ist.</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Map port using &amp;UPnP</source>
-        <translation type="unfinished"/>
+        <translation>Portweiterleitung via &amp;UPnP</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>Connect to the CaresCoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
-        <translation type="unfinished"/>
+        <translation>Über einen SOCKS-Proxy mit dem CaresCoin-Netzwerk verbinden (z.B. beim Verbinden über Tor).</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>&amp;Connect through SOCKS proxy:</source>
-        <translation type="unfinished"/>
+        <translation>Über einen SOCKS-Proxy &amp;verbinden:</translation>
     </message>
     <message>
         <location line="+9"/>
         <source>Proxy &amp;IP:</source>
-        <translation type="unfinished"/>
+        <translation>Proxy-&amp;IP:</translation>
     </message>
     <message>
         <location line="+19"/>
         <source>IP address of the proxy (e.g. 127.0.0.1)</source>
-        <translation type="unfinished"/>
+        <translation>IP-Adresse des Proxies (z.B. 127.0.0.1)</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>&amp;Port:</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Port:</translation>
     </message>
     <message>
         <location line="+19"/>
         <source>Port of the proxy (e.g. 9050)</source>
-        <translation type="unfinished"/>
+        <translation>Port des Proxies (z.B. 9050)</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>SOCKS &amp;Version:</source>
-        <translation type="unfinished"/>
+        <translation>SOCKS-&amp;Version:</translation>
     </message>
     <message>
         <location line="+13"/>
         <source>SOCKS version of the proxy (e.g. 5)</source>
-        <translation type="unfinished"/>
+        <translation>SOCKS-Version des Proxies (z.B. 5)</translation>
     </message>
     <message>
         <location line="+36"/>
         <source>&amp;Window</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Programmfenster</translation>
     </message>
     <message>
         <location line="+6"/>
         <source>Show only a tray icon after minimizing the window.</source>
-        <translation type="unfinished"/>
+        <translation>Nur ein Symbol im Infobereich anzeigen, nachdem das Programmfenster minimiert wurde.</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>&amp;Minimize to the tray instead of the taskbar</source>
-        <translation type="unfinished"/>
+        <translation>In den Infobereich anstatt in die Taskleiste &amp;minimieren</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>Minimize instead of exit the application when the window is closed. When this option is enabled, the application will be closed only after selecting Quit in the menu.</source>
-        <translation type="unfinished"/>
+        <translation>Minimiert die Anwendung anstatt sie zu beenden wenn das Fenster geschlossen wird. Wenn dies aktiviert ist, müssen Sie das Programm über &quot;Beenden&quot; im Menü schließen.</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>M&amp;inimize on close</source>
-        <translation type="unfinished"/>
+        <translation>Beim Schließen m&amp;inimieren</translation>
     </message>
     <message>
         <location line="+21"/>
         <source>&amp;Display</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Anzeige</translation>
     </message>
     <message>
         <location line="+8"/>
         <source>User Interface &amp;language:</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Sprache der Benutzeroberfläche:</translation>
     </message>
     <message>
         <location line="+13"/>
         <source>The user interface language can be set here. This setting will take effect after restarting CaresCoin.</source>
-        <translation type="unfinished"/>
+        <translation>Legt die Sprache der Benutzeroberfläche fest. Diese Einstellung wird erst nach einem Neustart von CaresCoin aktiv.</translation>
     </message>
     <message>
         <location line="+11"/>
         <source>&amp;Unit to show amounts in:</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Einheit der Beträge:</translation>
     </message>
     <message>
         <location line="+13"/>
         <source>Choose the default subdivision unit to show in the interface and when sending coins.</source>
-        <translation type="unfinished"/>
+        <translation>Wählen Sie die Standarduntereinheit, die in der Benutzeroberfläche und beim Überweisen von CaresCoins angezeigt werden soll.</translation>
     </message>
     <message>
         <location line="+9"/>
         <source>Whether to show CaresCoin addresses in the transaction list or not.</source>
-        <translation type="unfinished"/>
+        <translation>Legt fest, ob CaresCoin-Adressen in der Transaktionsliste angezeigt werden.</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>&amp;Display addresses in transaction list</source>
-        <translation type="unfinished"/>
+        <translation>Adressen in der Transaktionsliste &amp;anzeigen</translation>
     </message>
     <message>
         <location line="+71"/>
         <source>&amp;OK</source>
-        <translation type="unfinished"/>
+        <translation>&amp;OK</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>&amp;Cancel</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Abbrechen</translation>
     </message>
     <message>
         <location line="+10"/>
         <source>&amp;Apply</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Übernehmen</translation>
     </message>
     <message>
         <location filename="../optionsdialog.cpp" line="+54"/>
         <source>default</source>
-        <translation type="unfinished"/>
+        <translation>Standard</translation>
     </message>
     <message>
         <location line="+130"/>
         <source>Confirm options reset</source>
-        <translation type="unfinished"/>
+        <translation>Zurücksetzen der Konfiguration bestätigen</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Some settings may require a client restart to take effect.</source>
-        <translation type="unfinished"/>
+        <translation>Einige Einstellungen benötigen möglicherweise einen Clientneustart, um aktiv zu werden.</translation>
     </message>
     <message>
         <location line="+0"/>
         <source>Do you want to proceed?</source>
-        <translation type="unfinished"/>
+        <translation>Wollen Sie fortfahren?</translation>
     </message>
     <message>
         <location line="+42"/>
         <location line="+9"/>
         <source>Warning</source>
-        <translation type="unfinished"/>
+        <translation>Warnung</translation>
     </message>
     <message>
         <location line="-9"/>
         <location line="+9"/>
         <source>This setting will take effect after restarting CaresCoin.</source>
-        <translation type="unfinished"/>
+        <translation>Diese Einstellung wird erst nach einem Neustart von CaresCoin aktiv.</translation>
     </message>
     <message>
         <location line="+29"/>
         <source>The supplied proxy address is invalid.</source>
-        <translation type="unfinished"/>
+        <translation>Die eingegebene Proxyadresse ist ungültig.</translation>
     </message>
 </context>
 <context>
@@ -1086,69 +1094,69 @@ Address: %4
     <message>
         <location filename="../forms/overviewpage.ui" line="+14"/>
         <source>Form</source>
-        <translation type="unfinished"/>
+        <translation>Formular</translation>
     </message>
     <message>
         <location line="+50"/>
         <location line="+202"/>
         <source>The displayed information may be out of date. Your wallet automatically synchronizes with the CaresCoin network after a connection is established, but this process has not completed yet.</source>
-        <translation type="unfinished"/>
+        <translation>Die angezeigten Informationen sind möglicherweise nicht mehr aktuell. Ihre Brieftasche wird automatisch synchronisiert, nachdem eine Verbindung zum CaresCoin-Netzwerk hergestellt wurde. Dieser Prozess ist jedoch derzeit noch nicht abgeschlossen.</translation>
     </message>
     <message>
         <location line="-131"/>
         <source>Unconfirmed:</source>
-        <translation type="unfinished"/>
+        <translation>Unbestätigt:</translation>
     </message>
     <message>
         <location line="-78"/>
         <source>Wallet</source>
-        <translation type="unfinished"/>
+        <translation>Brieftasche</translation>
     </message>
     <message>
         <location line="+49"/>
         <source>Confirmed:</source>
-        <translation type="unfinished"/>
+        <translation>Bestätigt:</translation>
     </message>
     <message>
         <location line="+16"/>
         <source>Your current spendable balance</source>
-        <translation type="unfinished"/>
+        <translation>Ihr aktuell verfügbarer Kontostand</translation>
     </message>
     <message>
         <location line="+29"/>
         <source>Total of transactions that have yet to be confirmed, and do not yet count toward the spendable balance</source>
-        <translation type="unfinished"/>
+        <translation>Betrag aus unbestätigten Transaktionen, der noch nicht im aktuell verfügbaren Kontostand enthalten ist</translation>
     </message>
     <message>
         <location line="+13"/>
         <source>Immature:</source>
-        <translation type="unfinished"/>
+        <translation>Unreif:</translation>
     </message>
     <message>
         <location line="+13"/>
         <source>Mined balance that has not yet matured</source>
-        <translation type="unfinished"/>
+        <translation>Erarbeiteter Betrag der noch nicht gereift ist</translation>
     </message>
     <message>
         <location line="+13"/>
         <source>Total:</source>
-        <translation type="unfinished"/>
+        <translation>Gesamtbetrag:</translation>
     </message>
     <message>
         <location line="+16"/>
         <source>Your current total balance</source>
-        <translation type="unfinished"/>
+        <translation>Aktueller Gesamtbetrag aus obigen Kategorien</translation>
     </message>
     <message>
         <location line="+53"/>
         <source>&lt;b&gt;Recent transactions&lt;/b&gt;</source>
-        <translation type="unfinished"/>
+        <translation>&lt;b&gt;Letzte Transaktionen&lt;/b&gt;</translation>
     </message>
     <message>
         <location filename="../overviewpage.cpp" line="+116"/>
         <location line="+1"/>
         <source>out of sync</source>
-        <translation type="unfinished"/>
+        <translation>nicht synchron</translation>
     </message>
 </context>
 <context>
@@ -1156,7 +1164,7 @@ Address: %4
     <message>
         <location filename="../paymentserver.cpp" line="+108"/>
         <source>Cannot start carescoin: click-to-pay handler</source>
-        <translation type="unfinished"/>
+        <translation>&quot;carescoin: Klicken-zum-Bezahlen&quot;-Handler konnte nicht gestartet werden</translation>
     </message>
 </context>
 <context>
@@ -1165,17 +1173,17 @@ Address: %4
         <location filename="../bitcoin.cpp" line="+92"/>
         <location filename="../intro.cpp" line="-32"/>
         <source>CaresCoin</source>
-        <translation type="unfinished"/>
+        <translation>CaresCoin</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Error: Specified data directory &quot;%1&quot; does not exist.</source>
-        <translation type="unfinished"/>
+        <translation>Fehler: Angegebenes Datenverzeichnis &quot;%1&quot; existiert nicht.</translation>
     </message>
     <message>
         <location filename="../intro.cpp" line="+1"/>
         <source>Error: Specified data directory &quot;%1&quot; can not be created.</source>
-        <translation type="unfinished"/>
+        <translation>Fehler: Angegebenes Datenverzeichnis &quot;%1&quot; kann nicht angelegt werden.</translation>
     </message>
 </context>
 <context>
@@ -1183,57 +1191,57 @@ Address: %4
     <message>
         <location filename="../forms/qrcodedialog.ui" line="+14"/>
         <source>QR Code Dialog</source>
-        <translation type="unfinished"/>
+        <translation>QR-Code-Dialog</translation>
     </message>
     <message>
         <location line="+59"/>
         <source>Request Payment</source>
-        <translation type="unfinished"/>
+        <translation>Zahlung anfordern</translation>
     </message>
     <message>
         <location line="+56"/>
         <source>Amount:</source>
-        <translation type="unfinished"/>
+        <translation>Betrag:</translation>
     </message>
     <message>
         <location line="-44"/>
         <source>Label:</source>
-        <translation type="unfinished"/>
+        <translation>Bezeichnung:</translation>
     </message>
     <message>
         <location line="+19"/>
         <source>Message:</source>
-        <translation type="unfinished"/>
+        <translation>Nachricht:</translation>
     </message>
     <message>
         <location line="+71"/>
         <source>&amp;Save As...</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Speichern unter...</translation>
     </message>
     <message>
         <location filename="../qrcodedialog.cpp" line="+64"/>
         <source>Error encoding URI into QR Code.</source>
-        <translation type="unfinished"/>
+        <translation>Fehler beim Kodieren der URI in den QR-Code.</translation>
     </message>
     <message>
         <location line="+40"/>
         <source>The entered amount is invalid, please check.</source>
-        <translation type="unfinished"/>
+        <translation>Der eingegebene Betrag ist ungültig, bitte überprüfen.</translation>
     </message>
     <message>
         <location line="+23"/>
         <source>Resulting URI too long, try to reduce the text for label / message.</source>
-        <translation type="unfinished"/>
+        <translation>Resultierende URI zu lang, bitte den Text für Bezeichnung / Nachricht kürzen.</translation>
     </message>
     <message>
         <location line="+25"/>
         <source>Save QR Code</source>
-        <translation type="unfinished"/>
+        <translation>QR-Code abspeichern</translation>
     </message>
     <message>
         <location line="+0"/>
         <source>PNG Images (*.png)</source>
-        <translation type="unfinished"/>
+        <translation>PNG-Bild (*.png)</translation>
     </message>
 </context>
 <context>
@@ -1241,7 +1249,7 @@ Address: %4
     <message>
         <location filename="../forms/rpcconsole.ui" line="+46"/>
         <source>Client name</source>
-        <translation type="unfinished"/>
+        <translation>Clientname</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1255,132 +1263,132 @@ Address: %4
         <location line="+23"/>
         <location filename="../rpcconsole.cpp" line="+345"/>
         <source>N/A</source>
-        <translation type="unfinished"/>
+        <translation>n.v.</translation>
     </message>
     <message>
         <location line="-217"/>
         <source>Client version</source>
-        <translation type="unfinished"/>
+        <translation>Clientversion</translation>
     </message>
     <message>
         <location line="-45"/>
         <source>&amp;Information</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Information</translation>
     </message>
     <message>
         <location line="+68"/>
         <source>Using OpenSSL version</source>
-        <translation type="unfinished"/>
+        <translation>Verwendete OpenSSL-Version</translation>
     </message>
     <message>
         <location line="+49"/>
         <source>Startup time</source>
-        <translation type="unfinished"/>
+        <translation>Startzeit</translation>
     </message>
     <message>
         <location line="+29"/>
         <source>Network</source>
-        <translation type="unfinished"/>
+        <translation>Netzwerk</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>Number of connections</source>
-        <translation type="unfinished"/>
+        <translation>Anzahl Verbindungen</translation>
     </message>
     <message>
         <location line="+23"/>
         <source>On testnet</source>
-        <translation type="unfinished"/>
+        <translation>Im Testnetz</translation>
     </message>
     <message>
         <location line="+23"/>
         <source>Block chain</source>
-        <translation type="unfinished"/>
+        <translation>Blockkette</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>Current number of blocks</source>
-        <translation type="unfinished"/>
+        <translation>Aktuelle Anzahl Blöcke</translation>
     </message>
     <message>
         <location line="+23"/>
         <source>Estimated total blocks</source>
-        <translation type="unfinished"/>
+        <translation>Geschätzte Gesamtzahl Blöcke</translation>
     </message>
     <message>
         <location line="+23"/>
         <source>Last block time</source>
-        <translation type="unfinished"/>
+        <translation>Letzte Blockzeit</translation>
     </message>
     <message>
         <location line="+52"/>
         <source>&amp;Open</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Öffnen</translation>
     </message>
     <message>
         <location line="+16"/>
         <source>Command-line options</source>
-        <translation type="unfinished"/>
+        <translation>Kommandozeilenoptionen</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>Show the CaresCoin-Qt help message to get a list with possible CaresCoin command-line options.</source>
-        <translation type="unfinished"/>
+        <translation>Zeige die CaresCoin-Qt-Hilfsnachricht, um eine Liste mit möglichen Kommandozeilenoptionen zu erhalten.</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>&amp;Show</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Anzeigen</translation>
     </message>
     <message>
         <location line="+24"/>
         <source>&amp;Console</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Konsole</translation>
     </message>
     <message>
         <location line="-260"/>
         <source>Build date</source>
-        <translation type="unfinished"/>
+        <translation>Erstellungsdatum</translation>
     </message>
     <message>
         <location line="-104"/>
         <source>CaresCoin - Debug window</source>
-        <translation type="unfinished"/>
+        <translation>CaresCoin - Debugfenster</translation>
     </message>
     <message>
         <location line="+25"/>
         <source>CaresCoin Core</source>
-        <translation type="unfinished"/>
+        <translation>CaresCoin-Kern</translation>
     </message>
     <message>
         <location line="+279"/>
         <source>Debug log file</source>
-        <translation type="unfinished"/>
+        <translation>Debugprotokolldatei</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>Open the CaresCoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation type="unfinished"/>
+        <translation>Öffnet die CaresCoin-Debugprotokolldatei aus dem aktuellen Datenverzeichnis. Dies kann bei großen Protokolldateien einige Sekunden dauern.</translation>
     </message>
     <message>
         <location line="+102"/>
         <source>Clear console</source>
-        <translation type="unfinished"/>
+        <translation>Konsole zurücksetzen</translation>
     </message>
     <message>
         <location filename="../rpcconsole.cpp" line="-30"/>
         <source>Welcome to the CaresCoin RPC console.</source>
-        <translation type="unfinished"/>
+        <translation>Willkommen in der CaresCoin-RPC-Konsole.</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Use up and down arrows to navigate history, and &lt;b&gt;Ctrl-L&lt;/b&gt; to clear screen.</source>
-        <translation type="unfinished"/>
+        <translation>Pfeiltaste hoch und runter, um die Historie durchzublättern und &lt;b&gt;Strg-L&lt;/b&gt;, um die Konsole zurückzusetzen.</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Type &lt;b&gt;help&lt;/b&gt; for an overview of available commands.</source>
-        <translation type="unfinished"/>
+        <translation>Bitte &lt;b&gt;help&lt;/b&gt; eingeben, um eine Übersicht verfügbarer Befehle zu erhalten.</translation>
     </message>
 </context>
 <context>
@@ -1395,103 +1403,103 @@ Address: %4
         <location line="+5"/>
         <location line="+5"/>
         <source>Send Coins</source>
-        <translation type="unfinished"/>
+        <translation>CaresCoins überweisen</translation>
     </message>
     <message>
         <location line="+50"/>
         <source>Send to multiple recipients at once</source>
-        <translation type="unfinished"/>
+        <translation>In einer Transaktion an mehrere Empfänger auf einmal überweisen</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Add &amp;Recipient</source>
-        <translation type="unfinished"/>
+        <translation>Empfänger &amp;hinzufügen</translation>
     </message>
     <message>
         <location line="+20"/>
         <source>Remove all transaction fields</source>
-        <translation type="unfinished"/>
+        <translation>Alle Überweisungsfelder zurücksetzen</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Clear &amp;All</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Zurücksetzen</translation>
     </message>
     <message>
         <location line="+22"/>
         <source>Balance:</source>
-        <translation type="unfinished"/>
+        <translation>Kontostand:</translation>
     </message>
     <message>
         <location line="+10"/>
         <source>123.456 ABC</source>
-        <translation type="unfinished"/>
+        <translation>123.456 ABC</translation>
     </message>
     <message>
         <location line="+31"/>
         <source>Confirm the send action</source>
-        <translation type="unfinished"/>
+        <translation>Überweisung bestätigen</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>S&amp;end</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Überweisen</translation>
     </message>
     <message>
         <location filename="../sendcoinsdialog.cpp" line="-62"/>
         <location line="+2"/>
         <source>&lt;b&gt;%1&lt;/b&gt; to %2 (%3)</source>
-        <translation type="unfinished"/>
+        <translation>&lt;b&gt;%1&lt;/b&gt; an %2 (%3)</translation>
     </message>
     <message>
         <location line="+6"/>
         <source>Confirm send coins</source>
-        <translation type="unfinished"/>
+        <translation>Überweisung bestätigen</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Are you sure you want to send %1?</source>
-        <translation type="unfinished"/>
+        <translation>Sind Sie sich sicher, dass Sie die folgende Überweisung ausführen möchten?&lt;br&gt;%1</translation>
     </message>
     <message>
         <location line="+0"/>
         <source> and </source>
-        <translation type="unfinished"/>
+        <translation> und </translation>
     </message>
     <message>
         <location line="+23"/>
         <source>The recipient address is not valid, please recheck.</source>
-        <translation type="unfinished"/>
+        <translation>Die Zahlungsadresse ist ungültig, bitte nochmals überprüfen.</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>The amount to pay must be larger than 0.</source>
-        <translation type="unfinished"/>
+        <translation>Der zu zahlende Betrag muss größer als 0 sein.</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>The amount exceeds your balance.</source>
-        <translation type="unfinished"/>
+        <translation>Der angegebene Betrag übersteigt Ihren Kontostand.</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>The total exceeds your balance when the %1 transaction fee is included.</source>
-        <translation type="unfinished"/>
+        <translation>Der angegebene Betrag übersteigt aufgrund der Transaktionsgebühr in Höhe von %1 Ihren Kontostand.</translation>
     </message>
     <message>
         <location line="+6"/>
         <source>Duplicate address found, can only send to each address once per send operation.</source>
-        <translation type="unfinished"/>
+        <translation>Doppelte Adresse gefunden, pro Überweisung kann an jede Adresse nur einmalig etwas überwiesen werden.</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Error: Transaction creation failed!</source>
-        <translation type="unfinished"/>
+        <translation>Fehler: Transaktionserstellung fehlgeschlagen!</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Error: The transaction was rejected. This might happen if some of the coins in your wallet were already spent, such as if you used a copy of wallet.dat and coins were spent in the copy but not marked as spent here.</source>
-        <translation type="unfinished"/>
+        <translation>Fehler: Die Transaktion wurde abgelehnt. Dies kann passieren, wenn einige CaresCoins aus Ihrer Brieftasche bereits ausgegeben wurden. Beispielsweise weil Sie eine Kopie Ihrer wallet.dat genutzt, die CaresCoins dort ausgegeben haben und dies daher in der derzeit aktiven Brieftasche nicht vermerkt ist.</translation>
     </message>
 </context>
 <context>
@@ -1499,63 +1507,63 @@ Address: %4
     <message>
         <location filename="../forms/sendcoinsentry.ui" line="+14"/>
         <source>Form</source>
-        <translation type="unfinished"/>
+        <translation>Formular</translation>
     </message>
     <message>
         <location line="+15"/>
         <source>A&amp;mount:</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Betrag:</translation>
     </message>
     <message>
         <location line="+13"/>
         <source>Pay &amp;To:</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Empfänger:</translation>
     </message>
     <message>
         <location line="+34"/>
         <source>The address to send the payment to (e.g. 1NS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</source>
-        <translation type="unfinished"/>
+        <translation>Die Zahlungsadresse der Überweisung (z.B. 1NS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</translation>
     </message>
     <message>
         <location line="+60"/>
         <location filename="../sendcoinsentry.cpp" line="+26"/>
         <source>Enter a label for this address to add it to your address book</source>
-        <translation type="unfinished"/>
+        <translation>Adressbezeichnung eingeben (diese wird zusammen mit der Adresse dem Adressbuch hinzugefügt)</translation>
     </message>
     <message>
         <location line="-78"/>
         <source>&amp;Label:</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Bezeichnung:</translation>
     </message>
     <message>
         <location line="+28"/>
         <source>Choose address from address book</source>
-        <translation type="unfinished"/>
+        <translation>Adresse aus Adressbuch wählen</translation>
     </message>
     <message>
         <location line="+10"/>
         <source>Alt+A</source>
-        <translation type="unfinished"/>
+        <translation>Alt+A</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>Paste address from clipboard</source>
-        <translation type="unfinished"/>
+        <translation>Adresse aus der Zwischenablage einfügen</translation>
     </message>
     <message>
         <location line="+10"/>
         <source>Alt+P</source>
-        <translation type="unfinished"/>
+        <translation>Alt+P</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>Remove this recipient</source>
-        <translation type="unfinished"/>
+        <translation>Diesen Empfänger entfernen</translation>
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
         <source>Enter a CaresCoin address (e.g. 1NS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</source>
-        <translation type="unfinished"/>
+        <translation>CaresCoin-Adresse eingeben (z.B. 1NS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</translation>
     </message>
 </context>
 <context>
@@ -1563,132 +1571,132 @@ Address: %4
     <message>
         <location filename="../forms/signverifymessagedialog.ui" line="+14"/>
         <source>Signatures - Sign / Verify a Message</source>
-        <translation type="unfinished"/>
+        <translation>Signaturen - eine Nachricht signieren / verifizieren</translation>
     </message>
     <message>
         <location line="+13"/>
         <source>&amp;Sign Message</source>
-        <translation type="unfinished"/>
+        <translation>Nachricht &amp;signieren</translation>
     </message>
     <message>
         <location line="+6"/>
         <source>You can sign messages with your addresses to prove you own them. Be careful not to sign anything vague, as phishing attacks may try to trick you into signing your identity over to them. Only sign fully-detailed statements you agree to.</source>
-        <translation type="unfinished"/>
+        <translation>Sie können Nachrichten mit Ihren Adressen signieren, um den Besitz dieser Adressen zu beweisen. Bitte nutzen Sie diese Funktion mit Vorsicht und nehmen Sie sich vor Phishingangriffen in Acht. Signieren Sie nur Nachrichten, mit denen Sie vollständig einverstanden sind.</translation>
     </message>
     <message>
         <location line="+18"/>
         <source>The address to sign the message with (e.g. 1NS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</source>
-        <translation type="unfinished"/>
+        <translation>Die Adresse mit der die Nachricht signiert wird (z.B. 1NS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</translation>
     </message>
     <message>
         <location line="+10"/>
         <location line="+213"/>
         <source>Choose an address from the address book</source>
-        <translation type="unfinished"/>
+        <translation>Eine Adresse aus dem Adressbuch wählen</translation>
     </message>
     <message>
         <location line="-203"/>
         <location line="+213"/>
         <source>Alt+A</source>
-        <translation type="unfinished"/>
+        <translation>Alt+A</translation>
     </message>
     <message>
         <location line="-203"/>
         <source>Paste address from clipboard</source>
-        <translation type="unfinished"/>
+        <translation>Adresse aus der Zwischenablage einfügen</translation>
     </message>
     <message>
         <location line="+10"/>
         <source>Alt+P</source>
-        <translation type="unfinished"/>
+        <translation>Alt+P</translation>
     </message>
     <message>
         <location line="+12"/>
         <source>Enter the message you want to sign here</source>
-        <translation type="unfinished"/>
+        <translation>Zu signierende Nachricht hier eingeben</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>Signature</source>
-        <translation type="unfinished"/>
+        <translation>Signatur</translation>
     </message>
     <message>
         <location line="+27"/>
         <source>Copy the current signature to the system clipboard</source>
-        <translation type="unfinished"/>
+        <translation>Aktuelle Signatur in die Zwischenablage kopieren</translation>
     </message>
     <message>
         <location line="+21"/>
         <source>Sign the message to prove you own this CaresCoin address</source>
-        <translation type="unfinished"/>
+        <translation>Die Nachricht signieren, um den Besitz dieser CaresCoin-Adresse zu beweisen</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Sign &amp;Message</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Nachricht signieren</translation>
     </message>
     <message>
         <location line="+14"/>
         <source>Reset all sign message fields</source>
-        <translation type="unfinished"/>
+        <translation>Alle &quot;Nachricht signieren&quot;-Felder zurücksetzen</translation>
     </message>
     <message>
         <location line="+3"/>
         <location line="+146"/>
         <source>Clear &amp;All</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Zurücksetzen</translation>
     </message>
     <message>
         <location line="-87"/>
         <source>&amp;Verify Message</source>
-        <translation type="unfinished"/>
+        <translation>Nachricht &amp;verifizieren</translation>
     </message>
     <message>
         <location line="+6"/>
         <source>Enter the signing address, message (ensure you copy line breaks, spaces, tabs, etc. exactly) and signature below to verify the message. Be careful not to read more into the signature than what is in the signed message itself, to avoid being tricked by a man-in-the-middle attack.</source>
-        <translation type="unfinished"/>
+        <translation>Geben Sie die signierende Adresse, Nachricht (achten Sie darauf Zeilenumbrüche, Leerzeichen, Tabulatoren usw. exakt zu kopieren) und Signatur unten ein, um die Nachricht zu verifizieren. Vorsicht, interpretieren Sie nicht mehr in die Signatur, als in der signierten Nachricht selber enthalten ist, um nicht von einem Man-in-the-middle-Angriff hinters Licht geführt zu werden.</translation>
     </message>
     <message>
         <location line="+21"/>
         <source>The address the message was signed with (e.g. 1NS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</source>
-        <translation type="unfinished"/>
+        <translation>Die Adresse mit der die Nachricht signiert wurde (z.B. 1NS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</translation>
     </message>
     <message>
         <location line="+40"/>
         <source>Verify the message to ensure it was signed with the specified CaresCoin address</source>
-        <translation type="unfinished"/>
+        <translation>Die Nachricht verifizieren, um sicherzustellen, dass diese mit der angegebenen CaresCoin-Adresse signiert wurde</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Verify &amp;Message</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Nachricht verifizieren</translation>
     </message>
     <message>
         <location line="+14"/>
         <source>Reset all verify message fields</source>
-        <translation type="unfinished"/>
+        <translation>Alle &quot;Nachricht verifizieren&quot;-Felder zurücksetzen</translation>
     </message>
     <message>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
         <source>Enter a CaresCoin address (e.g. 1NS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</source>
-        <translation type="unfinished"/>
+        <translation>CaresCoin-Adresse eingeben (z.B. 1NS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</translation>
     </message>
     <message>
         <location line="-2"/>
         <source>Click &quot;Sign Message&quot; to generate signature</source>
-        <translation type="unfinished"/>
+        <translation>Auf &quot;Nachricht signieren&quot; klicken, um die Signatur zu erzeugen</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Enter CaresCoin signature</source>
-        <translation type="unfinished"/>
+        <translation>CaresCoin-Signatur eingeben</translation>
     </message>
     <message>
         <location line="+82"/>
         <location line="+81"/>
         <source>The entered address is invalid.</source>
-        <translation type="unfinished"/>
+        <translation>Die eingegebene Adresse ist ungültig.</translation>
     </message>
     <message>
         <location line="-81"/>
@@ -1696,59 +1704,59 @@ Address: %4
         <location line="+73"/>
         <location line="+8"/>
         <source>Please check the address and try again.</source>
-        <translation type="unfinished"/>
+        <translation>Bitte überprüfen Sie die Adresse und versuchen Sie es erneut.</translation>
     </message>
     <message>
         <location line="-81"/>
         <location line="+81"/>
         <source>The entered address does not refer to a key.</source>
-        <translation type="unfinished"/>
+        <translation>Die eingegebene Adresse verweist nicht auf einen Schlüssel.</translation>
     </message>
     <message>
         <location line="-73"/>
         <source>Wallet unlock was cancelled.</source>
-        <translation type="unfinished"/>
+        <translation>Entsperrung der Brieftasche wurde abgebrochen.</translation>
     </message>
     <message>
         <location line="+8"/>
         <source>Private key for the entered address is not available.</source>
-        <translation type="unfinished"/>
+        <translation>Privater Schlüssel zur eingegebenen Adresse ist nicht verfügbar.</translation>
     </message>
     <message>
         <location line="+12"/>
         <source>Message signing failed.</source>
-        <translation type="unfinished"/>
+        <translation>Signierung der Nachricht fehlgeschlagen.</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Message signed.</source>
-        <translation type="unfinished"/>
+        <translation>Nachricht signiert.</translation>
     </message>
     <message>
         <location line="+59"/>
         <source>The signature could not be decoded.</source>
-        <translation type="unfinished"/>
+        <translation>Die Signatur konnte nicht dekodiert werden.</translation>
     </message>
     <message>
         <location line="+0"/>
         <location line="+13"/>
         <source>Please check the signature and try again.</source>
-        <translation type="unfinished"/>
+        <translation>Bitte überprüfen Sie die Signatur und versuchen Sie es erneut.</translation>
     </message>
     <message>
         <location line="+0"/>
         <source>The signature did not match the message digest.</source>
-        <translation type="unfinished"/>
+        <translation>Die Signatur entspricht nicht dem Message Digest.</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>Message verification failed.</source>
-        <translation type="unfinished"/>
+        <translation>Verifikation der Nachricht fehlgeschlagen.</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Message verified.</source>
-        <translation type="unfinished"/>
+        <translation>Nachricht verifiziert.</translation>
     </message>
 </context>
 <context>
@@ -1756,12 +1764,12 @@ Address: %4
     <message>
         <location filename="../splashscreen.cpp" line="+22"/>
         <source>The CaresCoin developers</source>
-        <translation type="unfinished"/>
+        <translation>Die CaresCoinentwickler</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>[testnet]</source>
-        <translation type="unfinished"/>
+        <translation>[Testnetz]</translation>
     </message>
 </context>
 <context>
@@ -1769,71 +1777,71 @@ Address: %4
     <message>
         <location filename="../transactiondesc.cpp" line="+20"/>
         <source>Open until %1</source>
-        <translation type="unfinished"/>
+        <translation>Offen bis %1</translation>
     </message>
     <message>
         <location line="+6"/>
         <source>%1/offline</source>
-        <translation type="unfinished"/>
+        <translation>%1/offline</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>%1/unconfirmed</source>
-        <translation type="unfinished"/>
+        <translation>%1/unbestätigt</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>%1 confirmations</source>
-        <translation type="unfinished"/>
+        <translation>%1 Bestätigungen</translation>
     </message>
     <message>
         <location line="+18"/>
         <source>Status</source>
-        <translation type="unfinished"/>
+        <translation>Status</translation>
     </message>
     <message numerus="yes">
         <location line="+7"/>
         <source>, broadcast through %n node(s)</source>
-        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform></translation>
+        <translation><numerusform>, über %n Knoten übertragen</numerusform><numerusform>, über %n Knoten übertragen</numerusform></translation>
     </message>
     <message>
         <location line="+4"/>
         <source>Date</source>
-        <translation type="unfinished"/>
+        <translation>Datum</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>Source</source>
-        <translation type="unfinished"/>
+        <translation>Quelle</translation>
     </message>
     <message>
         <location line="+0"/>
         <source>Generated</source>
-        <translation type="unfinished"/>
+        <translation>Generiert</translation>
     </message>
     <message>
         <location line="+5"/>
         <location line="+17"/>
         <source>From</source>
-        <translation type="unfinished"/>
+        <translation>Von</translation>
     </message>
     <message>
         <location line="+1"/>
         <location line="+22"/>
         <location line="+58"/>
         <source>To</source>
-        <translation type="unfinished"/>
+        <translation>An</translation>
     </message>
     <message>
         <location line="-77"/>
         <location line="+2"/>
         <source>own address</source>
-        <translation type="unfinished"/>
+        <translation>eigene Adresse</translation>
     </message>
     <message>
         <location line="-2"/>
         <source>label</source>
-        <translation type="unfinished"/>
+        <translation>Bezeichnung</translation>
     </message>
     <message>
         <location line="+37"/>
@@ -1842,17 +1850,17 @@ Address: %4
         <location line="+17"/>
         <location line="+30"/>
         <source>Credit</source>
-        <translation type="unfinished"/>
+        <translation>Gutschrift</translation>
     </message>
     <message numerus="yes">
         <location line="-102"/>
         <source>matures in %n more block(s)</source>
-        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform></translation>
+        <translation><numerusform>reift noch %n weiteren Block</numerusform><numerusform>reift noch %n weitere Blöcke</numerusform></translation>
     </message>
     <message>
         <location line="+2"/>
         <source>not accepted</source>
-        <translation type="unfinished"/>
+        <translation>nicht angenommen</translation>
     </message>
     <message>
         <location line="+44"/>
@@ -1860,82 +1868,82 @@ Address: %4
         <location line="+15"/>
         <location line="+30"/>
         <source>Debit</source>
-        <translation type="unfinished"/>
+        <translation>Belastung</translation>
     </message>
     <message>
         <location line="-39"/>
         <source>Transaction fee</source>
-        <translation type="unfinished"/>
+        <translation>Transaktionsgebühr</translation>
     </message>
     <message>
         <location line="+16"/>
         <source>Net amount</source>
-        <translation type="unfinished"/>
+        <translation>Nettobetrag</translation>
     </message>
     <message>
         <location line="+6"/>
         <source>Message</source>
-        <translation type="unfinished"/>
+        <translation>Nachricht signieren</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Comment</source>
-        <translation type="unfinished"/>
+        <translation>Kommentar</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Transaction ID</source>
-        <translation type="unfinished"/>
+        <translation>Transaktions-ID</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Generated coins must mature 20 blocks before they can be spent. When you generated this block, it was broadcast to the network to be added to the block chain. If it fails to get into the chain, its state will change to &quot;not accepted&quot; and it won&apos;t be spendable. This may occasionally happen if another node generates a block within a few seconds of yours.</source>
-        <translation type="unfinished"/>
+        <translation>Generierte CaresCoins müssen 20 Blöcke lang reifen, bevor sie ausgegeben werden können. Als Sie diesen Block generierten, wurde er an das Netzwerk übertragen, um ihn der Blockkette hinzuzufügen. Falls dies fehlschlägt wird der Status in &quot;nicht angenommen&quot; geändert und der Betrag wird nicht verfügbar werden. Das kann gelegentlich passieren, wenn ein anderer Knoten einen Block fast zeitgleich generiert.</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>Debug information</source>
-        <translation type="unfinished"/>
+        <translation>Debuginformationen</translation>
     </message>
     <message>
         <location line="+8"/>
         <source>Transaction</source>
-        <translation type="unfinished"/>
+        <translation>Transaktion</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Inputs</source>
-        <translation type="unfinished"/>
+        <translation>Eingaben</translation>
     </message>
     <message>
         <location line="+23"/>
         <source>Amount</source>
-        <translation type="unfinished"/>
+        <translation>Betrag</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>true</source>
-        <translation type="unfinished"/>
+        <translation>wahr</translation>
     </message>
     <message>
         <location line="+0"/>
         <source>false</source>
-        <translation type="unfinished"/>
+        <translation>falsch</translation>
     </message>
     <message>
         <location line="-209"/>
         <source>, has not been successfully broadcast yet</source>
-        <translation type="unfinished"/>
+        <translation>, wurde noch nicht erfolgreich übertragen</translation>
     </message>
     <message numerus="yes">
         <location line="-35"/>
         <source>Open for %n more block(s)</source>
-        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform></translation>
+        <translation><numerusform>Offen für %n weiteren Block</numerusform><numerusform>Offen für %n weitere Blöcke</numerusform></translation>
     </message>
     <message>
         <location line="+70"/>
         <source>unknown</source>
-        <translation type="unfinished"/>
+        <translation>unbekannt</translation>
     </message>
 </context>
 <context>
@@ -1943,12 +1951,12 @@ Address: %4
     <message>
         <location filename="../forms/transactiondescdialog.ui" line="+14"/>
         <source>Transaction details</source>
-        <translation type="unfinished"/>
+        <translation>Transaktionsdetails</translation>
     </message>
     <message>
         <location line="+6"/>
         <source>This pane shows a detailed description of the transaction</source>
-        <translation type="unfinished"/>
+        <translation>Dieser Bereich zeigt eine detaillierte Beschreibung der Transaktion an</translation>
     </message>
 </context>
 <context>
@@ -1956,117 +1964,117 @@ Address: %4
     <message>
         <location filename="../transactiontablemodel.cpp" line="+225"/>
         <source>Date</source>
-        <translation type="unfinished"/>
+        <translation>Datum</translation>
     </message>
     <message>
         <location line="+0"/>
         <source>Type</source>
-        <translation type="unfinished"/>
+        <translation>Typ</translation>
     </message>
     <message>
         <location line="+0"/>
         <source>Address</source>
-        <translation type="unfinished"/>
+        <translation>Adresse</translation>
     </message>
     <message>
         <location line="+0"/>
         <source>Amount</source>
-        <translation type="unfinished"/>
+        <translation>Betrag</translation>
     </message>
     <message numerus="yes">
         <location line="+57"/>
         <source>Open for %n more block(s)</source>
-        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform></translation>
+        <translation><numerusform>Offen für %n weiteren Block</numerusform><numerusform>Offen für %n weitere Blöcke</numerusform></translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Open until %1</source>
-        <translation type="unfinished"/>
+        <translation>Offen bis %1</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Offline (%1 confirmations)</source>
-        <translation type="unfinished"/>
+        <translation>Offline (%1 Bestätigungen)</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Unconfirmed (%1 of %2 confirmations)</source>
-        <translation type="unfinished"/>
+        <translation>Unbestätigt (%1 von %2 Bestätigungen)</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Confirmed (%1 confirmations)</source>
-        <translation type="unfinished"/>
+        <translation>Bestätigt (%1 Bestätigungen)</translation>
     </message>
     <message numerus="yes">
         <location line="+8"/>
         <source>Mined balance will be available when it matures in %n more block(s)</source>
-        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform></translation>
+        <translation><numerusform>Erarbeiteter Betrag wird verfügbar sein, nachdem er noch %n weiteren Block reift</numerusform><numerusform>Erarbeiteter Betrag wird verfügbar sein, nachdem er noch %n weitere Blöcke reift</numerusform></translation>
     </message>
     <message>
         <location line="+5"/>
         <source>This block was not received by any other nodes and will probably not be accepted!</source>
-        <translation type="unfinished"/>
+        <translation>Dieser Block wurde von keinem anderen Knoten empfangen und wird wahrscheinlich nicht angenommen werden!</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Generated but not accepted</source>
-        <translation type="unfinished"/>
+        <translation>Generiert, jedoch nicht angenommen</translation>
     </message>
     <message>
         <location line="+43"/>
         <source>Received with</source>
-        <translation type="unfinished"/>
+        <translation>Empfangen über</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Received from</source>
-        <translation type="unfinished"/>
+        <translation>Empfangen von</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Sent to</source>
-        <translation type="unfinished"/>
+        <translation>Überwiesen an</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Payment to yourself</source>
-        <translation type="unfinished"/>
+        <translation>Eigenüberweisung</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Mined</source>
-        <translation type="unfinished"/>
+        <translation>Erarbeitet</translation>
     </message>
     <message>
         <location line="+38"/>
         <source>(n/a)</source>
-        <translation type="unfinished"/>
+        <translation>(k.A.)</translation>
     </message>
     <message>
         <location line="+199"/>
         <source>Transaction status. Hover over this field to show number of confirmations.</source>
-        <translation type="unfinished"/>
+        <translation>Transaktionsstatus. Fahren Sie mit der Maus über dieses Feld, um die Anzahl der Bestätigungen zu sehen.</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Date and time that the transaction was received.</source>
-        <translation type="unfinished"/>
+        <translation>Datum und Uhrzeit als die Transaktion empfangen wurde.</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Type of transaction.</source>
-        <translation type="unfinished"/>
+        <translation>Art der Transaktion</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Destination address of transaction.</source>
-        <translation type="unfinished"/>
+        <translation>Zieladresse der Transaktion</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Amount removed from or added to balance.</source>
-        <translation type="unfinished"/>
+        <translation>Der Betrag, der dem Kontostand abgezogen oder hinzugefügt wurde.</translation>
     </message>
 </context>
 <context>
@@ -2075,167 +2083,167 @@ Address: %4
         <location filename="../transactionview.cpp" line="+52"/>
         <location line="+16"/>
         <source>All</source>
-        <translation type="unfinished"/>
+        <translation>Alle</translation>
     </message>
     <message>
         <location line="-15"/>
         <source>Today</source>
-        <translation type="unfinished"/>
+        <translation>Heute</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>This week</source>
-        <translation type="unfinished"/>
+        <translation>Diese Woche</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>This month</source>
-        <translation type="unfinished"/>
+        <translation>Diesen Monat</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Last month</source>
-        <translation type="unfinished"/>
+        <translation>Letzten Monat</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>This year</source>
-        <translation type="unfinished"/>
+        <translation>Dieses Jahr</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Range...</source>
-        <translation type="unfinished"/>
+        <translation>Zeitraum...</translation>
     </message>
     <message>
         <location line="+11"/>
         <source>Received with</source>
-        <translation type="unfinished"/>
+        <translation>Empfangen über</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Sent to</source>
-        <translation type="unfinished"/>
+        <translation>Überwiesen an</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>To yourself</source>
-        <translation type="unfinished"/>
+        <translation>Eigenüberweisung</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Mined</source>
-        <translation type="unfinished"/>
+        <translation>Erarbeitet</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Other</source>
-        <translation type="unfinished"/>
+        <translation>Andere</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>Enter address or label to search</source>
-        <translation type="unfinished"/>
+        <translation>Zu suchende Adresse oder Bezeichnung eingeben</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>Min amount</source>
-        <translation type="unfinished"/>
+        <translation>Minimaler Betrag</translation>
     </message>
     <message>
         <location line="+34"/>
         <source>Copy address</source>
-        <translation type="unfinished"/>
+        <translation>Adresse kopieren</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Copy label</source>
-        <translation type="unfinished"/>
+        <translation>Bezeichnung kopieren</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Copy amount</source>
-        <translation type="unfinished"/>
+        <translation>Betrag kopieren</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Copy transaction ID</source>
-        <translation type="unfinished"/>
+        <translation>Transaktions-ID kopieren</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Edit label</source>
-        <translation type="unfinished"/>
+        <translation>Bezeichnung bearbeiten</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Show transaction details</source>
-        <translation type="unfinished"/>
+        <translation>Transaktionsdetails anzeigen</translation>
     </message>
     <message>
         <location line="+143"/>
         <source>Export Transaction Data</source>
-        <translation type="unfinished"/>
+        <translation>Transaktionen exportieren</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Comma separated file (*.csv)</source>
-        <translation type="unfinished"/>
+        <translation>Kommagetrennte-Datei (*.csv)</translation>
     </message>
     <message>
         <location line="+8"/>
         <source>Confirmed</source>
-        <translation type="unfinished"/>
+        <translation>Bestätigt</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Date</source>
-        <translation type="unfinished"/>
+        <translation>Datum</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Type</source>
-        <translation type="unfinished"/>
+        <translation>Typ</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Label</source>
-        <translation type="unfinished"/>
+        <translation>Bezeichnung</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Address</source>
-        <translation type="unfinished"/>
+        <translation>Adresse</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Amount</source>
-        <translation type="unfinished"/>
+        <translation>Betrag</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>ID</source>
-        <translation type="unfinished"/>
+        <translation>ID</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>Error exporting</source>
-        <translation type="unfinished"/>
+        <translation>Fehler beim Exportieren</translation>
     </message>
     <message>
         <location line="+0"/>
         <source>Could not write to file %1.</source>
-        <translation type="unfinished"/>
+        <translation>Konnte nicht in Datei %1 schreiben.</translation>
     </message>
     <message>
         <location line="+100"/>
         <source>Range:</source>
-        <translation type="unfinished"/>
+        <translation>Zeitraum:</translation>
     </message>
     <message>
         <location line="+8"/>
         <source>to</source>
-        <translation type="unfinished"/>
+        <translation>bis</translation>
     </message>
 </context>
 <context>
@@ -2243,7 +2251,7 @@ Address: %4
     <message>
         <location filename="../walletmodel.cpp" line="+193"/>
         <source>Send Coins</source>
-        <translation type="unfinished"/>
+        <translation>CaresCoins überweisen</translation>
     </message>
 </context>
 <context>
@@ -2251,42 +2259,42 @@ Address: %4
     <message>
         <location filename="../walletview.cpp" line="+46"/>
         <source>&amp;Export</source>
-        <translation type="unfinished"/>
+        <translation>E&amp;xportieren</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Export the data in the current tab to a file</source>
-        <translation type="unfinished"/>
+        <translation>Daten der aktuellen Ansicht in eine Datei exportieren</translation>
     </message>
     <message>
         <location line="+197"/>
         <source>Backup Wallet</source>
-        <translation type="unfinished"/>
+        <translation>Brieftasche sichern</translation>
     </message>
     <message>
         <location line="+0"/>
         <source>Wallet Data (*.dat)</source>
-        <translation type="unfinished"/>
+        <translation>Brieftaschendaten (*.dat)</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Backup Failed</source>
-        <translation type="unfinished"/>
+        <translation>Sicherung fehlgeschlagen</translation>
     </message>
     <message>
         <location line="+0"/>
         <source>There was an error trying to save the wallet data to the new location.</source>
-        <translation type="unfinished"/>
+        <translation>Beim Speichern der Brieftaschendaten an die neue Position ist ein Fehler aufgetreten.</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>Backup Successful</source>
-        <translation type="unfinished"/>
+        <translation>Sicherung erfolgreich</translation>
     </message>
     <message>
         <location line="+0"/>
         <source>The wallet data was successfully saved to the new location.</source>
-        <translation type="unfinished"/>
+        <translation>Speichern der Brieftaschendaten an die neue Position war erfolgreich.</translation>
     </message>
 </context>
 <context>
@@ -2294,112 +2302,112 @@ Address: %4
     <message>
         <location filename="../bitcoinstrings.cpp" line="+98"/>
         <source>CaresCoin version</source>
-        <translation type="unfinished"/>
+        <translation>CaresCoin-Version</translation>
     </message>
     <message>
         <location line="+104"/>
         <source>Usage:</source>
-        <translation type="unfinished"/>
+        <translation>Benutzung:</translation>
     </message>
     <message>
         <location line="-30"/>
         <source>Send command to -server or carescoind</source>
-        <translation type="unfinished"/>
+        <translation>Befehl an -server oder carescoind senden</translation>
     </message>
     <message>
         <location line="-23"/>
         <source>List commands</source>
-        <translation type="unfinished"/>
+        <translation>Befehle auflisten</translation>
     </message>
     <message>
         <location line="-13"/>
         <source>Get help for a command</source>
-        <translation type="unfinished"/>
+        <translation>Hilfe zu einem Befehl erhalten</translation>
     </message>
     <message>
         <location line="+25"/>
         <source>Options:</source>
-        <translation type="unfinished"/>
+        <translation>Optionen:</translation>
     </message>
     <message>
         <location line="+24"/>
         <source>Specify configuration file (default: carescoin.conf)</source>
-        <translation type="unfinished"/>
+        <translation>Konfigurationsdatei festlegen (Standard: carescoin.conf)</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Specify pid file (default: carescoind.pid)</source>
-        <translation type="unfinished"/>
+        <translation>PID-Datei festlegen (Standard: carescoind.pid)</translation>
     </message>
     <message>
         <location line="-1"/>
         <source>Specify data directory</source>
-        <translation type="unfinished"/>
+        <translation>Datenverzeichnis festlegen</translation>
     </message>
     <message>
         <location line="-9"/>
         <source>Set database cache size in megabytes (default: 25)</source>
-        <translation type="unfinished"/>
+        <translation>Größe des Datenbankcaches in MB festlegen (Standard: 25)</translation>
     </message>
     <message>
         <location line="-28"/>
         <source>Listen for connections on &lt;port&gt; (default: 20207 or testnet: 30207)</source>
-        <translation type="unfinished"/>
+        <translation>&lt;port&gt; nach Verbindungen abhören (Standard: 20207 oder Testnetz: 30207)</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Maintain at most &lt;n&gt; connections to peers (default: 125)</source>
-        <translation type="unfinished"/>
+        <translation>Maximal &lt;n&gt; Verbindungen zu Gegenstellen aufrechterhalten (Standard: 125)</translation>
     </message>
     <message>
         <location line="-49"/>
         <source>Connect to a node to retrieve peer addresses, and disconnect</source>
-        <translation type="unfinished"/>
+        <translation>Mit dem Knoten verbinden um Adressen von Gegenstellen abzufragen, danach trennen</translation>
     </message>
     <message>
         <location line="+84"/>
         <source>Specify your own public address</source>
-        <translation type="unfinished"/>
+        <translation>Die eigene öffentliche Adresse angeben</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Threshold for disconnecting misbehaving peers (default: 100)</source>
-        <translation type="unfinished"/>
+        <translation>Schwellenwert, um Verbindungen zu sich nicht konform verhaltenden Gegenstellen zu beenden (Standard: 100)</translation>
     </message>
     <message>
         <location line="-136"/>
         <source>Number of seconds to keep misbehaving peers from reconnecting (default: 86400)</source>
-        <translation type="unfinished"/>
+        <translation>Anzahl Sekunden, während denen sich nicht konform verhaltenden Gegenstellen die Wiederverbindung verweigert wird (Standard: 86400)</translation>
     </message>
     <message>
         <location line="-33"/>
         <source>An error occurred while setting up the RPC port %u for listening on IPv4: %s</source>
-        <translation type="unfinished"/>
+        <translation>Beim Einrichten des abzuhörenden RPC-Ports %u für IPv4 ist ein Fehler aufgetreten: %s</translation>
     </message>
     <message>
         <location line="+31"/>
         <source>Listen for JSON-RPC connections on &lt;port&gt; (default: 20208 or testnet: 30208)</source>
-        <translation type="unfinished"/>
+        <translation>&lt;port&gt; nach JSON-RPC-Verbindungen abhören (Standard: 20208 oder Testnetz: 30208)</translation>
     </message>
     <message>
         <location line="+37"/>
         <source>Accept command line and JSON-RPC commands</source>
-        <translation type="unfinished"/>
+        <translation>Kommandozeilenbefehle und JSON-RPC-Befehle annehmen</translation>
     </message>
     <message>
         <location line="+77"/>
         <source>Run in the background as a daemon and accept commands</source>
-        <translation type="unfinished"/>
+        <translation>Als Hintergrunddienst starten und Befehle annehmen</translation>
     </message>
     <message>
         <location line="+38"/>
         <source>Use the test network</source>
-        <translation type="unfinished"/>
+        <translation>Das Testnetz verwenden</translation>
     </message>
     <message>
         <location line="-114"/>
         <source>Accept connections from outside (default: 1 if no -proxy or -connect)</source>
-        <translation type="unfinished"/>
+        <translation>Eingehende Verbindungen annehmen (Standard: 1, wenn nicht -proxy oder -connect)</translation>
     </message>
     <message>
         <location line="-84"/>
@@ -2414,639 +2422,651 @@ If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
 for example: alertnotify=echo %%s | mail -s &quot;CaresCoin Alert&quot; admin@foo.com
 </source>
-        <translation type="unfinished"/>
+        <translation>%s, Sie müssen den Wert rpcpasswort in dieser Konfigurationsdatei angeben:
+%s
+Es wird empfohlen das folgende Zufallspasswort zu verwenden:
+rpcuser=carescoinrpc
+rpcpassword=%s
+(Sie müssen sich dieses Passwort nicht merken!)
+Der Benutzername und das Passwort dürfen NICHT identisch sein.
+Falls die Konfigurationsdatei nicht existiert, erzeugen Sie diese bitte mit Leserechten nur für den Dateibesitzer.
+Es wird ebenfalls empfohlen alertnotify anzugeben, um im Problemfall benachrichtig zu werden;
+zum Beispiel: alertnotify=echo %%s | mail -s \&quot;CaresCoin Alert\&quot; admin@foo.com
+</translation>
     </message>
     <message>
         <location line="+17"/>
         <source>An error occurred while setting up the RPC port %u for listening on IPv6, falling back to IPv4: %s</source>
-        <translation type="unfinished"/>
+        <translation>Beim Einrichten des abzuhörenden RPC-Ports %u für IPv6 ist ein Fehler aufgetreten, es wird auf IPv4 zurückgegriffen: %s</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Bind to given address and always listen on it. Use [host]:port notation for IPv6</source>
-        <translation type="unfinished"/>
+        <translation>An die angegebene Adresse binden und immer abhören. Für IPv6 [Host]:Port-Schreibweise verwenden</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Cannot obtain a lock on data directory %s. CaresCoin is probably already running.</source>
-        <translation type="unfinished"/>
+        <translation>Datenverzeichnis %s kann nicht gesperrt werden. Evtl. wurde CaresCoin bereits gestartet.</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Enter regression test mode, which uses a special chain in which blocks can be solved instantly. This is intended for regression testing tools and app development.</source>
-        <translation type="unfinished"/>
+        <translation>Regressionstest-Modus aktivieren, welcher eine spezielle Kette nutzt, in der Blöcke sofort gelöst werden. Dies ist für Regressionstest-Tools und Anwendungsentwicklung gedacht.</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>Error: The transaction was rejected! This might happen if some of the coins in your wallet were already spent, such as if you used a copy of wallet.dat and coins were spent in the copy but not marked as spent here.</source>
-        <translation type="unfinished"/>
+        <translation>Fehler: Die Transaktion wurde abgelehnt! Dies kann passieren, wenn einige CaresCoins aus Ihrer Brieftasche bereits ausgegeben wurden. Beispielsweise weil Sie eine Kopie Ihrer wallet.dat genutzt, die CaresCoins dort ausgegeben haben und dies daher in der derzeit aktiven Brieftasche nicht vermerkt ist.</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>Error: This transaction requires a transaction fee of at least %s because of its amount, complexity, or use of recently received funds!</source>
-        <translation type="unfinished"/>
+        <translation>Fehler: Diese Transaktion benötigt aufgrund ihres Betrags, ihrer Komplexität oder der Nutzung kürzlich erhaltener Zahlungen eine Transaktionsgebühr in Höhe von mindestens %s!</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Execute command when a relevant alert is received (%s in cmd is replaced by message)</source>
-        <translation type="unfinished"/>
+        <translation>Kommando ausführen wenn ein relevanter Alarm empfangen wird (%s im Kommando wird durch die Nachricht ersetzt)</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Execute command when a wallet transaction changes (%s in cmd is replaced by TxID)</source>
-        <translation type="unfinished"/>
+        <translation>Kommando ausführen wenn sich eine Transaktion der Briefrasche verändert (%s im Kommando wird durch die TxID ersetzt)</translation>
     </message>
     <message>
         <location line="+11"/>
         <source>Set maximum size of high-priority/low-fee transactions in bytes (default: 27000)</source>
-        <translation type="unfinished"/>
+        <translation>Maximale Größe von &quot;high-priority/low-fee&quot;-Transaktionen in Byte festlegen (Standard: 27000)</translation>
     </message>
     <message>
         <location line="+6"/>
         <source>This is a pre-release test build - use at your own risk - do not use for mining or merchant applications</source>
-        <translation type="unfinished"/>
+        <translation>Dies ist eine Vorab-Testversion - Verwendung auf eigene Gefahr - nicht für Mining- oder Handelsanwendungen nutzen!</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Warning: -paytxfee is set very high! This is the transaction fee you will pay if you send a transaction.</source>
-        <translation type="unfinished"/>
+        <translation>Warnung: -paytxfee ist auf einen sehr hohen Wert festgelegt! Dies ist die Gebühr die beim Senden einer Transaktion fällig wird.</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Warning: Displayed transactions may not be correct! You may need to upgrade, or other nodes may need to upgrade.</source>
-        <translation type="unfinished"/>
+        <translation>Warnung: Angezeigte Transaktionen sind evtl. nicht korrekt! Sie oder die anderen Knoten müssen unter Umständen (den Client) aktualisieren.</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong CaresCoin will not work properly.</source>
-        <translation type="unfinished"/>
+        <translation>Warnung: Bitte korrigieren Sie die Datums- und Uhrzeiteinstellungen Ihres Computers, da CaresCoin ansonsten nicht ordnungsgemäß funktionieren wird!</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Warning: error reading wallet.dat! All keys read correctly, but transaction data or address book entries might be missing or incorrect.</source>
-        <translation type="unfinished"/>
+        <translation>Warnung: Lesen von wallet.dat fehlgeschlagen! Alle Schlüssel wurden korrekt gelesen, Transaktionsdaten bzw. Adressbucheinträge fehlen aber möglicherweise oder sind inkorrekt.</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Warning: wallet.dat corrupt, data salvaged! Original wallet.dat saved as wallet.{timestamp}.bak in %s; if your balance or transactions are incorrect you should restore from a backup.</source>
-        <translation type="unfinished"/>
+        <translation>Warnung: wallet.dat beschädigt, Rettung erfolgreich! Original wallet.dat wurde als wallet.{Zeitstempel}.dat in %s gespeichert. Falls Ihr Kontostand oder Transaktionen nicht korrekt sind, sollten Sie von einer Datensicherung wiederherstellen.</translation>
     </message>
     <message>
         <location line="+14"/>
         <source>Attempt to recover private keys from a corrupt wallet.dat</source>
-        <translation type="unfinished"/>
+        <translation>Versucht private Schlüssel aus einer beschädigten wallet.dat wiederherzustellen</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Block creation options:</source>
-        <translation type="unfinished"/>
+        <translation>Blockerzeugungsoptionen:</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Connect only to the specified node(s)</source>
-        <translation type="unfinished"/>
+        <translation>Nur mit dem/den angegebenen Knoten verbinden</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Corrupted block database detected</source>
-        <translation type="unfinished"/>
+        <translation>Beschädigte Blockdatenbank erkannt</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Discover own IP address (default: 1 when listening and no -externalip)</source>
-        <translation type="unfinished"/>
+        <translation>Eigene IP-Adresse erkennen (Standard: 1, wenn abgehört wird und nicht -externalip)</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Do you want to rebuild the block database now?</source>
-        <translation type="unfinished"/>
+        <translation>Möchten Sie die Blockdatenbank nun neu aufbauen?</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Error initializing block database</source>
-        <translation type="unfinished"/>
+        <translation>Fehler beim Initialisieren der Blockdatenbank</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Error initializing wallet database environment %s!</source>
-        <translation type="unfinished"/>
+        <translation>Fehler beim Initialisieren der Brieftaschen-Datenbankumgebung %s!</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Error loading block database</source>
-        <translation type="unfinished"/>
+        <translation>Fehler beim Laden der Blockdatenbank</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>Error opening block database</source>
-        <translation type="unfinished"/>
+        <translation>Fehler beim Öffnen der Blockdatenbank</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Error: Disk space is low!</source>
-        <translation type="unfinished"/>
+        <translation>Fehler: Zu wenig freier Laufwerksspeicherplatz!</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Error: Wallet locked, unable to create transaction!</source>
-        <translation type="unfinished"/>
+        <translation>Fehler: Brieftasche gesperrt, Transaktion kann nicht erstellt werden!</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Error: system error: </source>
-        <translation type="unfinished"/>
+        <translation>Fehler: Systemfehler: </translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Failed to listen on any port. Use -listen=0 if you want this.</source>
-        <translation type="unfinished"/>
+        <translation>Fehler, es konnte kein Port abgehört werden. Wenn dies so gewünscht wird -listen=0 verwenden.</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Failed to read block info</source>
-        <translation type="unfinished"/>
+        <translation>Lesen der Blockinformationen fehlgeschlagen</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Failed to read block</source>
-        <translation type="unfinished"/>
+        <translation>Lesen des Blocks fehlgeschlagen</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Failed to sync block index</source>
-        <translation type="unfinished"/>
+        <translation>Synchronisation des Blockindex fehlgeschlagen</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Failed to write block index</source>
-        <translation type="unfinished"/>
+        <translation>Schreiben des Blockindex fehlgeschlagen</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Failed to write block info</source>
-        <translation type="unfinished"/>
+        <translation>Schreiben der Blockinformationen fehlgeschlagen</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Failed to write block</source>
-        <translation type="unfinished"/>
+        <translation>Schreiben des Blocks fehlgeschlagen</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Failed to write file info</source>
-        <translation type="unfinished"/>
+        <translation>Schreiben der Dateiinformationen fehlgeschlagen</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Failed to write to coin database</source>
-        <translation type="unfinished"/>
+        <translation>Schreiben in die Münzendatenbank fehlgeschlagen</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Failed to write transaction index</source>
-        <translation type="unfinished"/>
+        <translation>Schreiben des Transaktionsindex fehlgeschlagen</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Failed to write undo data</source>
-        <translation type="unfinished"/>
+        <translation>Schreiben der Rücksetzdaten fehlgeschlagen</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Find peers using DNS lookup (default: 1 unless -connect)</source>
-        <translation type="unfinished"/>
+        <translation>Gegenstellen via DNS-Namensauflösung finden (Standard: 1, außer bei -connect)</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Generate coins (default: 0)</source>
-        <translation type="unfinished"/>
+        <translation>CaresCoins generieren (Standard: 0)</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>How many blocks to check at startup (default: 288, 0 = all)</source>
-        <translation type="unfinished"/>
+        <translation>Wieviele Blöcke sollen beim Starten geprüft werden (Standard: 288, 0 = alle)</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>How thorough the block verification is (0-4, default: 3)</source>
-        <translation type="unfinished"/>
+        <translation>Wie gründlich soll die Blockprüfung sein (0-4, Standard: 3)</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Incorrect or no genesis block found. Wrong datadir for network?</source>
-        <translation type="unfinished"/>
+        <translation>Fehlerhafter oder kein Genesis-Block gefunden. Falsches Datenverzeichnis für das Netzwerk?</translation>
     </message>
     <message>
         <location line="+18"/>
         <source>Not enough file descriptors available.</source>
-        <translation type="unfinished"/>
+        <translation>Nicht genügend File-Deskriptoren verfügbar.</translation>
     </message>
     <message>
         <location line="+8"/>
         <source>Rebuild block chain index from current blk000??.dat files</source>
-        <translation type="unfinished"/>
+        <translation>Blockkettenindex aus aktuellen Dateien blk000??.dat wiederaufbauen</translation>
     </message>
     <message>
         <location line="+16"/>
         <source>Set the number of threads to service RPC calls (default: 4)</source>
-        <translation type="unfinished"/>
+        <translation>Maximale Anzahl an Threads zur Verarbeitung von RPC-Anfragen festlegen (Standard: 4)</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>Specify wallet file (within data directory)</source>
-        <translation type="unfinished"/>
+        <translation>Brieftaschendatei festlegen (innerhalb des Datenverzeichnisses)</translation>
     </message>
     <message>
         <location line="+20"/>
         <source>Verifying blocks...</source>
-        <translation type="unfinished"/>
+        <translation>Verifiziere Blöcke...</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Verifying wallet...</source>
-        <translation type="unfinished"/>
+        <translation>Verifiziere Brieftasche...</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Wallet %s resides outside data directory %s</source>
-        <translation type="unfinished"/>
+        <translation>Brieftasche %s liegt außerhalb des Datenverzechnisses %s</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>You need to rebuild the database using -reindex to change -txindex</source>
-        <translation type="unfinished"/>
+        <translation>Sie müssen die Datenbank mit Hilfe von -reindex neu aufbauen, um -txindex zu verändern</translation>
     </message>
     <message>
         <location line="-76"/>
         <source>Imports blocks from external blk000??.dat file</source>
-        <translation type="unfinished"/>
+        <translation>Blöcke aus externer Datei blk000??.dat importieren</translation>
     </message>
     <message>
         <location line="-76"/>
         <source>Set the number of script verification threads (up to 16, 0 = auto, &lt;0 = leave that many cores free, default: 0)</source>
-        <translation type="unfinished"/>
+        <translation>Maximale Anzahl an Skript-Verifizierungs-Threads festlegen (bis zu 16, 0 = automatisch, &lt;0 = soviele Kerne frei lassen, Standard: 0)</translation>
     </message>
     <message>
         <location line="+78"/>
         <source>Information</source>
-        <translation type="unfinished"/>
+        <translation>Hinweis</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Invalid -tor address: &apos;%s&apos;</source>
-        <translation type="unfinished"/>
+        <translation>Ungültige Adresse in -tor: &apos;%s&apos;</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Invalid amount for -minrelaytxfee=&lt;amount&gt;: &apos;%s&apos;</source>
-        <translation type="unfinished"/>
+        <translation>Ungültiger Betrag für -minrelaytxfee=&lt;amount&gt;: &apos;%s&apos;</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Invalid amount for -mintxfee=&lt;amount&gt;: &apos;%s&apos;</source>
-        <translation type="unfinished"/>
+        <translation>Ungültiger Betrag für -mintxfee=&lt;amount&gt;: &apos;%s&apos;</translation>
     </message>
     <message>
         <location line="+8"/>
         <source>Maintain a full transaction index (default: 0)</source>
-        <translation type="unfinished"/>
+        <translation>Einen vollständigen Transaktionsindex pflegen (Standard: 0)</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Maximum per-connection receive buffer, &lt;n&gt;*1000 bytes (default: 5000)</source>
-        <translation type="unfinished"/>
+        <translation>Maximale Größe, &lt;n&gt; * 1000 Byte, des Empfangspuffers pro Verbindung (Standard: 5000)</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Maximum per-connection send buffer, &lt;n&gt;*1000 bytes (default: 1000)</source>
-        <translation type="unfinished"/>
+        <translation>Maximale Größe, &lt;n&gt; * 1000 Byte, des Sendepuffers pro Verbindung (Standard: 1000)</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Only accept block chain matching built-in checkpoints (default: 1)</source>
-        <translation type="unfinished"/>
+        <translation>Blockkette nur akzeptieren, wenn sie mit den integrierten Prüfpunkten übereinstimmt (Standard: 1)</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Only connect to nodes in network &lt;net&gt; (IPv4, IPv6 or Tor)</source>
-        <translation type="unfinished"/>
+        <translation>Verbinde nur zu Knoten des Netztyps &lt;net&gt; (IPv4, IPv6 oder Tor)</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Output extra debugging information. Implies all other -debug* options</source>
-        <translation type="unfinished"/>
+        <translation>Ausgabe zusätzlicher Debugginginformationen. Beinhaltet alle anderen &quot;-debug*&quot;-Parameter</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Output extra network debugging information</source>
-        <translation type="unfinished"/>
+        <translation>Ausgabe zusätzlicher Netzwerk-Debugginginformationen</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Prepend debug output with timestamp</source>
-        <translation type="unfinished"/>
+        <translation>Der Debugausgabe einen Zeitstempel voranstellen</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>SSL options: (see the CaresCoin Wiki for SSL setup instructions)</source>
-        <translation type="unfinished"/>
+        <translation>SSL-Optionen: (siehe CaresCoin-Wiki für SSL-Installationsanweisungen)</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Select the version of socks proxy to use (4-5, default: 5)</source>
-        <translation type="unfinished"/>
+        <translation>SOCKS-Version des Proxies festlegen (4-5, Standard: 5)</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Send trace/debug info to console instead of debug.log file</source>
-        <translation type="unfinished"/>
+        <translation>Rückverfolgungs- und Debuginformationen an die Konsole senden anstatt sie in die Datei debug.log zu schreiben</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Send trace/debug info to debugger</source>
-        <translation type="unfinished"/>
+        <translation>Rückverfolgungs- und Debuginformationen an den Debugger senden</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Set maximum block size in bytes (default: 250000)</source>
-        <translation type="unfinished"/>
+        <translation>Maximale Blockgröße in Byte festlegen (Standard: 250000)</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Set minimum block size in bytes (default: 0)</source>
-        <translation type="unfinished"/>
+        <translation>Minimale Blockgröße in Byte festlegen (Standard: 0)</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Shrink debug.log file on client startup (default: 1 when no -debug)</source>
-        <translation type="unfinished"/>
+        <translation>Verkleinere Datei debug.log beim Starten des Clients (Standard: 1, wenn kein -debug)</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Signing transaction failed</source>
-        <translation type="unfinished"/>
+        <translation>Signierung der Transaktion fehlgeschlagen</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Specify connection timeout in milliseconds (default: 5000)</source>
-        <translation type="unfinished"/>
+        <translation>Verbindungstimeout in Millisekunden festlegen (Standard: 5000)</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>System error: </source>
-        <translation type="unfinished"/>
+        <translation>Systemfehler: </translation>
     </message>
     <message>
         <location line="+4"/>
         <source>Transaction amount too small</source>
-        <translation type="unfinished"/>
+        <translation>Transaktionsbetrag zu gering</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Transaction amounts must be positive</source>
-        <translation type="unfinished"/>
+        <translation>Transaktionsbeträge müssen positiv sein</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Transaction too large</source>
-        <translation type="unfinished"/>
+        <translation>Transaktion zu groß</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>Use UPnP to map the listening port (default: 0)</source>
-        <translation type="unfinished"/>
+        <translation>UPnP verwenden, um die Portweiterleitung einzurichten (Standard: 0)</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Use UPnP to map the listening port (default: 1 when listening)</source>
-        <translation type="unfinished"/>
+        <translation>UPnP verwenden, um die Portweiterleitung einzurichten (Standard: 1, wenn abgehört wird)</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Use proxy to reach tor hidden services (default: same as -proxy)</source>
-        <translation type="unfinished"/>
+        <translation>Proxy verwenden, um versteckte Tor-Dienste zu erreichen (Standard: identisch mit -proxy)</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Username for JSON-RPC connections</source>
-        <translation type="unfinished"/>
+        <translation>Benutzername für JSON-RPC-Verbindungen</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Warning</source>
-        <translation type="unfinished"/>
+        <translation>Warnung</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Warning: This version is obsolete, upgrade required!</source>
-        <translation type="unfinished"/>
+        <translation>Warnung: Diese Version is veraltet, Aktualisierung erforderlich!</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>wallet.dat corrupt, salvage failed</source>
-        <translation type="unfinished"/>
+        <translation>wallet.dat beschädigt, Rettung fehlgeschlagen</translation>
     </message>
     <message>
         <location line="-52"/>
         <source>Password for JSON-RPC connections</source>
-        <translation type="unfinished"/>
+        <translation>Passwort für JSON-RPC-Verbindungen</translation>
     </message>
     <message>
         <location line="-68"/>
         <source>Allow JSON-RPC connections from specified IP address</source>
-        <translation type="unfinished"/>
+        <translation>JSON-RPC-Verbindungen von der angegebenen IP-Adresse erlauben</translation>
     </message>
     <message>
         <location line="+77"/>
         <source>Send commands to node running on &lt;ip&gt; (default: 127.0.0.1)</source>
-        <translation type="unfinished"/>
+        <translation>Sende Befehle an Knoten &lt;ip&gt; (Standard: 127.0.0.1)</translation>
     </message>
     <message>
         <location line="-121"/>
         <source>Execute command when the best block changes (%s in cmd is replaced by block hash)</source>
-        <translation type="unfinished"/>
+        <translation>Kommando ausführen wenn der beste Block wechselt (%s im Kommando wird durch den Hash des Blocks ersetzt)</translation>
     </message>
     <message>
         <location line="+149"/>
         <source>Upgrade wallet to latest format</source>
-        <translation type="unfinished"/>
+        <translation>Brieftasche auf das neueste Format aktualisieren</translation>
     </message>
     <message>
         <location line="-22"/>
         <source>Set key pool size to &lt;n&gt; (default: 100)</source>
-        <translation type="unfinished"/>
+        <translation>Größe des Schlüsselpools festlegen auf &lt;n&gt; (Standard: 100)</translation>
     </message>
     <message>
         <location line="-12"/>
         <source>Rescan the block chain for missing wallet transactions</source>
-        <translation type="unfinished"/>
+        <translation>Blockkette erneut nach fehlenden Transaktionen der Brieftasche durchsuchen</translation>
     </message>
     <message>
         <location line="+36"/>
         <source>Use OpenSSL (https) for JSON-RPC connections</source>
-        <translation type="unfinished"/>
+        <translation>OpenSSL (https) für JSON-RPC-Verbindungen verwenden</translation>
     </message>
     <message>
         <location line="-27"/>
         <source>Server certificate file (default: server.cert)</source>
-        <translation type="unfinished"/>
+        <translation>Serverzertifikat (Standard: server.cert)</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Server private key (default: server.pem)</source>
-        <translation type="unfinished"/>
+        <translation>Privater Serverschlüssel (Standard: server.pem)</translation>
     </message>
     <message>
         <location line="-156"/>
         <source>Acceptable ciphers (default: TLSv1+HIGH:!SSLv2:!aNULL:!eNULL:!AH:!3DES:@STRENGTH)</source>
-        <translation type="unfinished"/>
+        <translation>Akzeptierte Chiffren (Standard: TLSv1+HIGH:!SSLv2:!aNULL:!eNULL:!AH:!3DES:@STRENGTH)</translation>
     </message>
     <message>
         <location line="+171"/>
         <source>This help message</source>
-        <translation type="unfinished"/>
+        <translation>Dieser Hilfetext</translation>
     </message>
     <message>
         <location line="+6"/>
         <source>Unable to bind to %s on this computer (bind returned error %d, %s)</source>
-        <translation type="unfinished"/>
+        <translation>Kann auf diesem Computer nicht an %s binden (von bind zurückgegebener Fehler %d, %s)</translation>
     </message>
     <message>
         <location line="-93"/>
         <source>Connect through socks proxy</source>
-        <translation type="unfinished"/>
+        <translation>Verbindung über SOCKS-Proxy herstellen</translation>
     </message>
     <message>
         <location line="-10"/>
         <source>Allow DNS lookups for -addnode, -seednode and -connect</source>
-        <translation type="unfinished"/>
+        <translation>Erlaube DNS-Namensauflösung für -addnode, -seednode und -connect</translation>
     </message>
     <message>
         <location line="+56"/>
         <source>Loading addresses...</source>
-        <translation type="unfinished"/>
+        <translation>Lade Adressen...</translation>
     </message>
     <message>
         <location line="-36"/>
         <source>Error loading wallet.dat: Wallet corrupted</source>
-        <translation type="unfinished"/>
+        <translation>Fehler beim Laden von wallet.dat: Brieftasche beschädigt</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Error loading wallet.dat: Wallet requires newer version of CaresCoin</source>
-        <translation type="unfinished"/>
+        <translation>Fehler beim Laden von wallet.dat: Brieftasche benötigt neuere Version von CaresCoin</translation>
     </message>
     <message>
         <location line="+96"/>
         <source>Wallet needed to be rewritten: restart CaresCoin to complete</source>
-        <translation type="unfinished"/>
+        <translation>Brieftasche musste neu geschrieben werden: Starten Sie CaresCoin zur Fertigstellung neu</translation>
     </message>
     <message>
         <location line="-98"/>
         <source>Error loading wallet.dat</source>
-        <translation type="unfinished"/>
+        <translation>Fehler beim Laden von wallet.dat (Brieftasche)</translation>
     </message>
     <message>
         <location line="+29"/>
         <source>Invalid -proxy address: &apos;%s&apos;</source>
-        <translation type="unfinished"/>
+        <translation>Ungültige Adresse in -proxy: &apos;%s&apos;</translation>
     </message>
     <message>
         <location line="+57"/>
         <source>Unknown network specified in -onlynet: &apos;%s&apos;</source>
-        <translation type="unfinished"/>
+        <translation>Unbekannter Netztyp in -onlynet angegeben: &apos;%s&apos;</translation>
     </message>
     <message>
         <location line="-1"/>
         <source>Unknown -socks proxy version requested: %i</source>
-        <translation type="unfinished"/>
+        <translation>Unbekannte Proxyversion in -socks angefordert: %i</translation>
     </message>
     <message>
         <location line="-98"/>
         <source>Cannot resolve -bind address: &apos;%s&apos;</source>
-        <translation type="unfinished"/>
+        <translation>Kann Adresse in -bind nicht auflösen: &apos;%s&apos;</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Cannot resolve -externalip address: &apos;%s&apos;</source>
-        <translation type="unfinished"/>
+        <translation>Kann Adresse in -externalip nicht auflösen: &apos;%s&apos;</translation>
     </message>
     <message>
         <location line="+45"/>
         <source>Invalid amount for -paytxfee=&lt;amount&gt;: &apos;%s&apos;</source>
-        <translation type="unfinished"/>
+        <translation>Ungültiger Betrag für -paytxfee=&lt;amount&gt;: &apos;%s&apos;</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Invalid amount</source>
-        <translation type="unfinished"/>
+        <translation>Ungültiger Betrag</translation>
     </message>
     <message>
         <location line="-6"/>
         <source>Insufficient funds</source>
-        <translation type="unfinished"/>
+        <translation>Unzureichender Kontostand</translation>
     </message>
     <message>
         <location line="+10"/>
         <source>Loading block index...</source>
-        <translation type="unfinished"/>
+        <translation>Lade Blockindex...</translation>
     </message>
     <message>
         <location line="-58"/>
         <source>Add a node to connect to and attempt to keep the connection open</source>
-        <translation type="unfinished"/>
+        <translation>Mit dem Knoten verbinden und versuchen die Verbindung aufrecht zu halten</translation>
     </message>
     <message>
         <location line="-25"/>
         <source>Unable to bind to %s on this computer. CaresCoin is probably already running.</source>
-        <translation type="unfinished"/>
+        <translation>Kann auf diesem Computer nicht an %s binden. Evtl. wurde CaresCoin bereits gestartet.</translation>
     </message>
     <message>
         <location line="+64"/>
         <source>Fee per KB to add to transactions you send</source>
-        <translation type="unfinished"/>
+        <translation>Gebühr pro KB, die gesendeten Transaktionen hinzugefügt wird</translation>
     </message>
     <message>
         <location line="+20"/>
         <source>Loading wallet...</source>
-        <translation type="unfinished"/>
+        <translation>Lade Brieftasche...</translation>
     </message>
     <message>
         <location line="-53"/>
         <source>Cannot downgrade wallet</source>
-        <translation type="unfinished"/>
+        <translation>Brieftasche kann nicht auf eine ältere Version herabgestuft werden</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Cannot write default address</source>
-        <translation type="unfinished"/>
+        <translation>Standardadresse kann nicht geschrieben werden</translation>
     </message>
     <message>
         <location line="+65"/>
         <source>Rescanning...</source>
-        <translation type="unfinished"/>
+        <translation>Durchsuche erneut...</translation>
     </message>
     <message>
         <location line="-58"/>
         <source>Done loading</source>
-        <translation type="unfinished"/>
+        <translation>Laden abgeschlossen</translation>
     </message>
     <message>
         <location line="+84"/>
         <source>To use the %s option</source>
-        <translation type="unfinished"/>
+        <translation>Zur Nutzung der %s Option</translation>
     </message>
     <message>
         <location line="-76"/>
         <source>Error</source>
-        <translation type="unfinished"/>
+        <translation>Fehler</translation>
     </message>
     <message>
         <location line="-31"/>
         <source>You must set rpcpassword=&lt;password&gt; in the configuration file:
 %s
 If the file does not exist, create it with owner-readable-only file permissions.</source>
-        <translation type="unfinished"/>
+        <translation>Sie müssen den Wert rpcpassword=&lt;passwort&gt; in der Konfigurationsdatei angeben:
+%s
+Falls die Konfigurationsdatei nicht existiert, erzeugen Sie diese bitte mit Leserechten nur für den Dateibesitzer.</translation>
     </message>
 </context>
 </TS>

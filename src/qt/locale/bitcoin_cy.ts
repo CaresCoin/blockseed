@@ -1,4 +1,4 @@
-<?xml version="1.0" ?><!DOCTYPE TS><TS language="ach" version="2.0">
+<?xml version="1.0" ?><!DOCTYPE TS><TS language="cy" version="2.0">
 <context>
     <name>AboutDialog</name>
     <message>
@@ -9,7 +9,7 @@
     <message>
         <location line="+39"/>
         <source>&lt;b&gt;CaresCoin&lt;/b&gt; version</source>
-        <translation type="unfinished"/>
+        <translation>Fersiwn &lt;b&gt;CaresCoin&lt;/b&gt;</translation>
     </message>
     <message>
         <location line="+57"/>
@@ -37,22 +37,22 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location filename="../forms/addressbookpage.ui" line="+14"/>
         <source>Address Book</source>
-        <translation type="unfinished"/>
+        <translation>Llyfr Cyfeiriadau</translation>
     </message>
     <message>
         <location line="+19"/>
         <source>Double-click to edit address or label</source>
-        <translation type="unfinished"/>
+        <translation>Clicio dwywaith i olygu cyfeiriad neu label</translation>
     </message>
     <message>
         <location line="+27"/>
         <source>Create a new address</source>
-        <translation type="unfinished"/>
+        <translation>Creu cyfeiriad newydd</translation>
     </message>
     <message>
         <location line="+14"/>
         <source>Copy the currently selected address to the system clipboard</source>
-        <translation type="unfinished"/>
+        <translation>Copio&apos;r cyfeiriad sydd wedi&apos;i ddewis i&apos;r clipfwrdd system</translation>
     </message>
     <message>
         <location line="-11"/>
@@ -112,7 +112,7 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="+14"/>
         <source>&amp;Delete</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Dileu</translation>
     </message>
     <message>
         <location filename="../addressbookpage.cpp" line="-5"/>
@@ -137,7 +137,7 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="+265"/>
         <source>Export Address Book Data</source>
-        <translation type="unfinished"/>
+        <translation>Allforio Data Llyfr Cyfeiriad</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -147,12 +147,12 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="+13"/>
         <source>Error exporting</source>
-        <translation type="unfinished"/>
+        <translation>Gwall allforio</translation>
     </message>
     <message>
         <location line="+0"/>
         <source>Could not write to file %1.</source>
-        <translation type="unfinished"/>
+        <translation>Ni ellir ysgrifennu i ffeil %1.</translation>
     </message>
 </context>
 <context>
@@ -160,17 +160,17 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location filename="../addresstablemodel.cpp" line="+144"/>
         <source>Label</source>
-        <translation type="unfinished"/>
+        <translation>Label</translation>
     </message>
     <message>
         <location line="+0"/>
         <source>Address</source>
-        <translation type="unfinished"/>
+        <translation>Cyfeiriad</translation>
     </message>
     <message>
         <location line="+36"/>
         <source>(no label)</source>
-        <translation type="unfinished"/>
+        <translation>(heb label)</translation>
     </message>
 </context>
 <context>
@@ -183,62 +183,62 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="+21"/>
         <source>Enter passphrase</source>
-        <translation type="unfinished"/>
+        <translation>Teipiwch gyfrinymadrodd</translation>
     </message>
     <message>
         <location line="+14"/>
         <source>New passphrase</source>
-        <translation type="unfinished"/>
+        <translation>Cyfrinymadrodd newydd</translation>
     </message>
     <message>
         <location line="+14"/>
         <source>Repeat new passphrase</source>
-        <translation type="unfinished"/>
+        <translation>Ailadroddwch gyfrinymadrodd newydd</translation>
     </message>
     <message>
         <location filename="../askpassphrasedialog.cpp" line="+33"/>
         <source>Enter the new passphrase to the wallet.&lt;br/&gt;Please use a passphrase of &lt;b&gt;10 or more random characters&lt;/b&gt;, or &lt;b&gt;eight or more words&lt;/b&gt;.</source>
-        <translation type="unfinished"/>
+        <translation>Dewiswch gyfrinymadrodd newydd ar gyfer y waled. &lt;br/&gt; Defnyddiwch cyfrinymadrodd o &lt;b&gt;10 neu fwy o lythyrennau hapgyrch&lt;/b&gt;, neu &lt;b&gt; wyth neu fwy o eiriau.</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Encrypt wallet</source>
-        <translation type="unfinished"/>
+        <translation>Amgryptio&apos;r waled</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>This operation needs your wallet passphrase to unlock the wallet.</source>
-        <translation type="unfinished"/>
+        <translation>Mae angen i&apos;r gweithred hon ddefnyddio&apos;ch cyfrinymadrodd er mwyn datgloi&apos;r waled.</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Unlock wallet</source>
-        <translation type="unfinished"/>
+        <translation>Datgloi&apos;r waled</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>This operation needs your wallet passphrase to decrypt the wallet.</source>
-        <translation type="unfinished"/>
+        <translation>Mae angen i&apos;r gweithred hon ddefnyddio&apos;ch cyfrinymadrodd er mwyn dadgryptio&apos;r waled.</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Decrypt wallet</source>
-        <translation type="unfinished"/>
+        <translation>Dadgryptio&apos;r waled</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Change passphrase</source>
-        <translation type="unfinished"/>
+        <translation>Newid cyfrinymadrodd</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Enter the old and new passphrase to the wallet.</source>
-        <translation type="unfinished"/>
+        <translation>Teipiwch yr hen cyfrinymadrodd a chyfrinymadrodd newydd i mewn i&apos;r waled.</translation>
     </message>
     <message>
         <location line="+46"/>
         <source>Confirm wallet encryption</source>
-        <translation type="unfinished"/>
+        <translation>Cadarnau amgryptiad y waled</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -265,7 +265,7 @@ This product includes software developed by the OpenSSL Project for use in the O
         <location line="-130"/>
         <location line="+58"/>
         <source>Wallet encrypted</source>
-        <translation type="unfinished"/>
+        <translation>Waled wedi&apos;i amgryptio</translation>
     </message>
     <message>
         <location line="-56"/>
@@ -278,23 +278,23 @@ This product includes software developed by the OpenSSL Project for use in the O
         <location line="+42"/>
         <location line="+6"/>
         <source>Wallet encryption failed</source>
-        <translation type="unfinished"/>
+        <translation>Amgryptiad waled wedi methu</translation>
     </message>
     <message>
         <location line="-54"/>
         <source>Wallet encryption failed due to an internal error. Your wallet was not encrypted.</source>
-        <translation type="unfinished"/>
+        <translation>Methodd amgryptiad y waled oherwydd gwall mewnol. Ni amgryptwyd eich waled.</translation>
     </message>
     <message>
         <location line="+7"/>
         <location line="+48"/>
         <source>The supplied passphrases do not match.</source>
-        <translation type="unfinished"/>
+        <translation>Dydy&apos;r cyfrinymadroddion a ddarparwyd ddim yn cyd-fynd â&apos;u gilydd.</translation>
     </message>
     <message>
         <location line="-37"/>
         <source>Wallet unlock failed</source>
-        <translation type="unfinished"/>
+        <translation>Methodd ddatgloi&apos;r waled</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -306,7 +306,7 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="-20"/>
         <source>Wallet decryption failed</source>
-        <translation type="unfinished"/>
+        <translation>Methodd dadgryptiad y waled</translation>
     </message>
     <message>
         <location line="+14"/>
@@ -324,37 +324,37 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="+246"/>
         <source>Synchronizing with network...</source>
-        <translation type="unfinished"/>
+        <translation>Cysoni â&apos;r rhwydwaith...</translation>
     </message>
     <message>
         <location line="-321"/>
         <source>&amp;Overview</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Trosolwg</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Show general overview of wallet</source>
-        <translation type="unfinished"/>
+        <translation>Dangos trosolwg cyffredinol y waled</translation>
     </message>
     <message>
         <location line="+20"/>
         <source>&amp;Transactions</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Trafodion</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Browse transaction history</source>
-        <translation type="unfinished"/>
+        <translation>Pori hanes trafodion</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>Edit the list of stored addresses and labels</source>
-        <translation type="unfinished"/>
+        <translation>Golygu&apos;r rhestr o cyfeiriadau a labeli ar gadw</translation>
     </message>
     <message>
         <location line="-14"/>
         <source>Show the list of addresses for receiving payments</source>
-        <translation type="unfinished"/>
+        <translation>Dangos rhestr o gyfeiriadau ar gyfer derbyn taliadau</translation>
     </message>
     <message>
         <location line="+31"/>
@@ -364,12 +364,12 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="+1"/>
         <source>Quit application</source>
-        <translation type="unfinished"/>
+        <translation>Gadael rhaglen</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>Show information about CaresCoin</source>
-        <translation type="unfinished"/>
+        <translation>Dangos gwybodaeth am CaresCoin</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -384,7 +384,7 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="+2"/>
         <source>&amp;Options...</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Opsiynau</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -429,7 +429,7 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="+2"/>
         <source>Change the passphrase used for wallet encryption</source>
-        <translation type="unfinished"/>
+        <translation>Newid y cyfrinymadrodd a ddefnyddiwyd ar gyfer amgryptio&apos;r waled</translation>
     </message>
     <message>
         <location line="+6"/>
@@ -509,28 +509,28 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="+28"/>
         <source>&amp;File</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Ffeil</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>&amp;Settings</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Gosodiadau</translation>
     </message>
     <message>
         <location line="+6"/>
         <source>&amp;Help</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Cymorth</translation>
     </message>
     <message>
         <location line="+9"/>
         <source>Tabs toolbar</source>
-        <translation type="unfinished"/>
+        <translation>Bar offer tabiau</translation>
     </message>
     <message>
         <location line="-228"/>
         <location line="+288"/>
         <source>[testnet]</source>
-        <translation type="unfinished"/>
+        <translation>[testnet]</translation>
     </message>
     <message>
         <location line="-5"/>
@@ -541,7 +541,7 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message numerus="yes">
         <location line="+121"/>
         <source>%n active connection(s) to CaresCoin network</source>
-        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform></translation>
+        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform></translation>
     </message>
     <message>
         <location line="+22"/>
@@ -561,17 +561,17 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message numerus="yes">
         <location line="+20"/>
         <source>%n hour(s)</source>
-        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform></translation>
+        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform></translation>
     </message>
     <message numerus="yes">
         <location line="+4"/>
         <source>%n day(s)</source>
-        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform></translation>
+        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform></translation>
     </message>
     <message numerus="yes">
         <location line="+4"/>
         <source>%n week(s)</source>
-        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform></translation>
+        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform></translation>
     </message>
     <message>
         <location line="+4"/>
@@ -611,12 +611,12 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="-140"/>
         <source>Up to date</source>
-        <translation type="unfinished"/>
+        <translation>Cyfamserol</translation>
     </message>
     <message>
         <location line="+31"/>
         <source>Catching up...</source>
-        <translation type="unfinished"/>
+        <translation>Dal i fyny</translation>
     </message>
     <message>
         <location line="+113"/>
@@ -626,12 +626,12 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="+8"/>
         <source>Sent transaction</source>
-        <translation type="unfinished"/>
+        <translation>Trafodiad a anfonwyd</translation>
     </message>
     <message>
         <location line="+0"/>
         <source>Incoming transaction</source>
-        <translation type="unfinished"/>
+        <translation>Trafodiad sy&apos;n cyrraedd</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -657,12 +657,12 @@ Address: %4
     <message>
         <location line="+17"/>
         <source>Wallet is &lt;b&gt;encrypted&lt;/b&gt; and currently &lt;b&gt;unlocked&lt;/b&gt;</source>
-        <translation type="unfinished"/>
+        <translation>Mae&apos;r waled &lt;b&gt;wedi&apos;i amgryptio&lt;/b&gt; ac &lt;b&gt;heb ei gloi&lt;/b&gt; ar hyn o bryd</translation>
     </message>
     <message>
         <location line="+8"/>
         <source>Wallet is &lt;b&gt;encrypted&lt;/b&gt; and currently &lt;b&gt;locked&lt;/b&gt;</source>
-        <translation type="unfinished"/>
+        <translation>Mae&apos;r waled &lt;b&gt;wedi&apos;i amgryptio&lt;/b&gt; ac &lt;b&gt;ar glo&lt;/b&gt; ar hyn o bryd</translation>
     </message>
     <message>
         <location filename="../bitcoin.cpp" line="+110"/>
@@ -683,52 +683,52 @@ Address: %4
     <message>
         <location filename="../forms/editaddressdialog.ui" line="+14"/>
         <source>Edit Address</source>
-        <translation type="unfinished"/>
+        <translation>Golygu&apos;r cyfeiriad</translation>
     </message>
     <message>
         <location line="+11"/>
         <source>&amp;Label</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Label</translation>
     </message>
     <message>
         <location line="+10"/>
         <source>The label associated with this address book entry</source>
-        <translation type="unfinished"/>
+        <translation>Mae&apos;r label hon yn cysylltiedig gyda&apos;r cofnod llyfr cyfeiriad hon</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>&amp;Address</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Cyfeiriad</translation>
     </message>
     <message>
         <location line="+10"/>
         <source>The address associated with this address book entry. This can only be modified for sending addresses.</source>
-        <translation type="unfinished"/>
+        <translation>Mae&apos;r cyfeiriad hon yn cysylltiedig gyda&apos;r cofnod llyfr cyfeiriad hon. Gall hyn gael ei olygu dim ond ar gyfer y pwrpas o anfon cyfeiriadau.</translation>
     </message>
     <message>
         <location filename="../editaddressdialog.cpp" line="+21"/>
         <source>New receiving address</source>
-        <translation type="unfinished"/>
+        <translation>Cyfeiriad derbyn newydd</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>New sending address</source>
-        <translation type="unfinished"/>
+        <translation>Cyfeiriad anfon newydd</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Edit receiving address</source>
-        <translation type="unfinished"/>
+        <translation>Golygu&apos;r cyfeiriad derbyn</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>Edit sending address</source>
-        <translation type="unfinished"/>
+        <translation>Golygu&apos;r cyfeiriad anfon</translation>
     </message>
     <message>
         <location line="+76"/>
         <source>The entered address &quot;%1&quot; is already in the address book.</source>
-        <translation type="unfinished"/>
+        <translation>Mae&apos;r cyfeiriad &quot;%1&quot; sydd newydd gael ei geisio gennych yn y llyfr cyfeiriad yn barod.</translation>
     </message>
     <message>
         <location line="-5"/>
@@ -738,12 +738,12 @@ Address: %4
     <message>
         <location line="+10"/>
         <source>Could not unlock wallet.</source>
-        <translation type="unfinished"/>
+        <translation>Methodd ddatgloi&apos;r waled.</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>New key generation failed.</source>
-        <translation type="unfinished"/>
+        <translation>Methodd gynhyrchu allwedd newydd.</translation>
     </message>
 </context>
 <context>
@@ -876,7 +876,7 @@ Address: %4
     <message>
         <location filename="../forms/optionsdialog.ui" line="+14"/>
         <source>Options</source>
-        <translation type="unfinished"/>
+        <translation>Opsiynau</translation>
     </message>
     <message>
         <location line="+16"/>
@@ -1086,7 +1086,7 @@ Address: %4
     <message>
         <location filename="../forms/overviewpage.ui" line="+14"/>
         <source>Form</source>
-        <translation type="unfinished"/>
+        <translation>Ffurflen</translation>
     </message>
     <message>
         <location line="+50"/>
@@ -1097,7 +1097,7 @@ Address: %4
     <message>
         <location line="-131"/>
         <source>Unconfirmed:</source>
-        <translation type="unfinished"/>
+        <translation>Nas cadarnheir:</translation>
     </message>
     <message>
         <location line="-78"/>
@@ -1142,7 +1142,7 @@ Address: %4
     <message>
         <location line="+53"/>
         <source>&lt;b&gt;Recent transactions&lt;/b&gt;</source>
-        <translation type="unfinished"/>
+        <translation>&lt;b&gt;Trafodion diweddar&lt;/b&gt;</translation>
     </message>
     <message>
         <location filename="../overviewpage.cpp" line="+116"/>
@@ -1395,12 +1395,12 @@ Address: %4
         <location line="+5"/>
         <location line="+5"/>
         <source>Send Coins</source>
-        <translation type="unfinished"/>
+        <translation>Anfon arian</translation>
     </message>
     <message>
         <location line="+50"/>
         <source>Send to multiple recipients at once</source>
-        <translation type="unfinished"/>
+        <translation>Anfon at pobl lluosog ar yr un pryd</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1420,17 +1420,17 @@ Address: %4
     <message>
         <location line="+22"/>
         <source>Balance:</source>
-        <translation type="unfinished"/>
+        <translation>Gweddill:</translation>
     </message>
     <message>
         <location line="+10"/>
         <source>123.456 ABC</source>
-        <translation type="unfinished"/>
+        <translation>123.456 ABC</translation>
     </message>
     <message>
         <location line="+31"/>
         <source>Confirm the send action</source>
-        <translation type="unfinished"/>
+        <translation>Cadarnhau&apos;r gweithrediad anfon</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1441,7 +1441,7 @@ Address: %4
         <location filename="../sendcoinsdialog.cpp" line="-62"/>
         <location line="+2"/>
         <source>&lt;b&gt;%1&lt;/b&gt; to %2 (%3)</source>
-        <translation type="unfinished"/>
+        <translation>&lt;b&gt;%1&lt;/b&gt; to %2 (%3)</translation>
     </message>
     <message>
         <location line="+6"/>
@@ -1451,12 +1451,12 @@ Address: %4
     <message>
         <location line="+1"/>
         <source>Are you sure you want to send %1?</source>
-        <translation type="unfinished"/>
+        <translation>Ydych chi&apos;n siwr eich bod chi eisiau anfon %1?</translation>
     </message>
     <message>
         <location line="+0"/>
         <source> and </source>
-        <translation type="unfinished"/>
+        <translation>a</translation>
     </message>
     <message>
         <location line="+23"/>
@@ -1499,12 +1499,12 @@ Address: %4
     <message>
         <location filename="../forms/sendcoinsentry.ui" line="+14"/>
         <source>Form</source>
-        <translation type="unfinished"/>
+        <translation>Ffurflen</translation>
     </message>
     <message>
         <location line="+15"/>
         <source>A&amp;mount:</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Maint</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -1525,7 +1525,7 @@ Address: %4
     <message>
         <location line="-78"/>
         <source>&amp;Label:</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Label:</translation>
     </message>
     <message>
         <location line="+28"/>
@@ -1535,17 +1535,17 @@ Address: %4
     <message>
         <location line="+10"/>
         <source>Alt+A</source>
-        <translation type="unfinished"/>
+        <translation>Alt+A</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>Paste address from clipboard</source>
-        <translation type="unfinished"/>
+        <translation>Gludo cyfeiriad o&apos;r glipfwrdd</translation>
     </message>
     <message>
         <location line="+10"/>
         <source>Alt+P</source>
-        <translation type="unfinished"/>
+        <translation>Alt+P</translation>
     </message>
     <message>
         <location line="+7"/>
@@ -1590,17 +1590,17 @@ Address: %4
         <location line="-203"/>
         <location line="+213"/>
         <source>Alt+A</source>
-        <translation type="unfinished"/>
+        <translation>Alt+A</translation>
     </message>
     <message>
         <location line="-203"/>
         <source>Paste address from clipboard</source>
-        <translation type="unfinished"/>
+        <translation>Gludo cyfeiriad o&apos;r glipfwrdd</translation>
     </message>
     <message>
         <location line="+10"/>
         <source>Alt+P</source>
-        <translation type="unfinished"/>
+        <translation>Alt+P</translation>
     </message>
     <message>
         <location line="+12"/>
@@ -1769,7 +1769,7 @@ Address: %4
     <message>
         <location filename="../transactiondesc.cpp" line="+20"/>
         <source>Open until %1</source>
-        <translation type="unfinished"/>
+        <translation>Agor tan %1</translation>
     </message>
     <message>
         <location line="+6"/>
@@ -1794,7 +1794,7 @@ Address: %4
     <message numerus="yes">
         <location line="+7"/>
         <source>, broadcast through %n node(s)</source>
-        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform></translation>
+        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform></translation>
     </message>
     <message>
         <location line="+4"/>
@@ -1847,7 +1847,7 @@ Address: %4
     <message numerus="yes">
         <location line="-102"/>
         <source>matures in %n more block(s)</source>
-        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform></translation>
+        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform></translation>
     </message>
     <message>
         <location line="+2"/>
@@ -1930,7 +1930,7 @@ Address: %4
     <message numerus="yes">
         <location line="-35"/>
         <source>Open for %n more block(s)</source>
-        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform></translation>
+        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform></translation>
     </message>
     <message>
         <location line="+70"/>
@@ -1966,7 +1966,7 @@ Address: %4
     <message>
         <location line="+0"/>
         <source>Address</source>
-        <translation type="unfinished"/>
+        <translation>Cyfeiriad</translation>
     </message>
     <message>
         <location line="+0"/>
@@ -1976,12 +1976,12 @@ Address: %4
     <message numerus="yes">
         <location line="+57"/>
         <source>Open for %n more block(s)</source>
-        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform></translation>
+        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform></translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Open until %1</source>
-        <translation type="unfinished"/>
+        <translation>Agor tan %1</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -2001,7 +2001,7 @@ Address: %4
     <message numerus="yes">
         <location line="+8"/>
         <source>Mined balance will be available when it matures in %n more block(s)</source>
-        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform></translation>
+        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform></translation>
     </message>
     <message>
         <location line="+5"/>
@@ -2200,12 +2200,12 @@ Address: %4
     <message>
         <location line="+1"/>
         <source>Label</source>
-        <translation type="unfinished"/>
+        <translation>Label</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Address</source>
-        <translation type="unfinished"/>
+        <translation>Cyfeiriad</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2220,12 +2220,12 @@ Address: %4
     <message>
         <location line="+4"/>
         <source>Error exporting</source>
-        <translation type="unfinished"/>
+        <translation>Gwall allforio</translation>
     </message>
     <message>
         <location line="+0"/>
         <source>Could not write to file %1.</source>
-        <translation type="unfinished"/>
+        <translation>Ni ellir ysgrifennu i ffeil %1.</translation>
     </message>
     <message>
         <location line="+100"/>

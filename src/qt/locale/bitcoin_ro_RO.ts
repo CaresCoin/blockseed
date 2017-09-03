@@ -1,15 +1,15 @@
-<?xml version="1.0" ?><!DOCTYPE TS><TS language="ach" version="2.0">
+<?xml version="1.0" ?><!DOCTYPE TS><TS language="ro_RO" version="2.0">
 <context>
     <name>AboutDialog</name>
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
         <source>About CaresCoin</source>
-        <translation type="unfinished"/>
+        <translation>Despre CaresCoin</translation>
     </message>
     <message>
         <location line="+39"/>
         <source>&lt;b&gt;CaresCoin&lt;/b&gt; version</source>
-        <translation type="unfinished"/>
+        <translation>&lt;b&gt;CaresCoin&lt;/b&gt; versiunea</translation>
     </message>
     <message>
         <location line="+57"/>
@@ -24,12 +24,12 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location filename="../aboutdialog.cpp" line="+14"/>
         <source>Copyright</source>
-        <translation type="unfinished"/>
+        <translation>Drepturi de autor</translation>
     </message>
     <message>
         <location line="+0"/>
         <source>The CaresCoin developers</source>
-        <translation type="unfinished"/>
+        <translation>Dezvoltatorii CaresCoin</translation>
     </message>
 </context>
 <context>
@@ -37,57 +37,57 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location filename="../forms/addressbookpage.ui" line="+14"/>
         <source>Address Book</source>
-        <translation type="unfinished"/>
+        <translation>Listă de adrese</translation>
     </message>
     <message>
         <location line="+19"/>
         <source>Double-click to edit address or label</source>
-        <translation type="unfinished"/>
+        <translation>Dublu-click pentru a edita adresa sau eticheta</translation>
     </message>
     <message>
         <location line="+27"/>
         <source>Create a new address</source>
-        <translation type="unfinished"/>
+        <translation>Creaţi o adresă nouă</translation>
     </message>
     <message>
         <location line="+14"/>
         <source>Copy the currently selected address to the system clipboard</source>
-        <translation type="unfinished"/>
+        <translation>Copiați adresa selectată în clipboard</translation>
     </message>
     <message>
         <location line="-11"/>
         <source>&amp;New Address</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Adresă nouă</translation>
     </message>
     <message>
         <location filename="../addressbookpage.cpp" line="+63"/>
         <source>These are your CaresCoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
-        <translation type="unfinished"/>
+        <translation>Acestea sunt adresele dumneavoastră CaresCoin pentru a primi plăţi. Dacă doriţi, puteți da o adresa diferită fiecărui expeditor, pentru a putea ţine evidenţa plăţilor.</translation>
     </message>
     <message>
         <location filename="../forms/addressbookpage.ui" line="+14"/>
         <source>&amp;Copy Address</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Copiază adresa</translation>
     </message>
     <message>
         <location line="+11"/>
         <source>Show &amp;QR Code</source>
-        <translation type="unfinished"/>
+        <translation>Arata codul QR</translation>
     </message>
     <message>
         <location line="+11"/>
         <source>Sign a message to prove you own a CaresCoin address</source>
-        <translation type="unfinished"/>
+        <translation>Semneaza mesajul pentru a dovedi ca detii aceasta adresa Bitocin</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Sign &amp;Message</source>
-        <translation type="unfinished"/>
+        <translation>Semneaza mesajul</translation>
     </message>
     <message>
         <location line="+25"/>
         <source>Delete the currently selected address from the list</source>
-        <translation type="unfinished"/>
+        <translation>Sterge adresele curent selectate din lista</translation>
     </message>
     <message>
         <location line="+27"/>
@@ -102,17 +102,17 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="-44"/>
         <source>Verify a message to ensure it was signed with a specified CaresCoin address</source>
-        <translation type="unfinished"/>
+        <translation>Verifica mesajul pentru a te asigura ca a fost insemnat cu o adresa carescoin specifica</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>&amp;Verify Message</source>
-        <translation type="unfinished"/>
+        <translation> Verifica mesajele</translation>
     </message>
     <message>
         <location line="+14"/>
         <source>&amp;Delete</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Șterge</translation>
     </message>
     <message>
         <location filename="../addressbookpage.cpp" line="-5"/>
@@ -122,12 +122,12 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="+13"/>
         <source>Copy &amp;Label</source>
-        <translation type="unfinished"/>
+        <translation>Copiază &amp;eticheta</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>&amp;Edit</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Editează</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -137,22 +137,22 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="+265"/>
         <source>Export Address Book Data</source>
-        <translation type="unfinished"/>
+        <translation>Exportă Lista de adrese</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Comma separated file (*.csv)</source>
-        <translation type="unfinished"/>
+        <translation>Fisier csv: valori separate prin virgulă (*.csv)</translation>
     </message>
     <message>
         <location line="+13"/>
         <source>Error exporting</source>
-        <translation type="unfinished"/>
+        <translation>Eroare la exportare.</translation>
     </message>
     <message>
         <location line="+0"/>
         <source>Could not write to file %1.</source>
-        <translation type="unfinished"/>
+        <translation>Eroare la scrierea în fişerul %1.</translation>
     </message>
 </context>
 <context>
@@ -160,17 +160,17 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location filename="../addresstablemodel.cpp" line="+144"/>
         <source>Label</source>
-        <translation type="unfinished"/>
+        <translation>Etichetă</translation>
     </message>
     <message>
         <location line="+0"/>
         <source>Address</source>
-        <translation type="unfinished"/>
+        <translation>Adresă</translation>
     </message>
     <message>
         <location line="+36"/>
         <source>(no label)</source>
-        <translation type="unfinished"/>
+        <translation>(fără etichetă)</translation>
     </message>
 </context>
 <context>
@@ -183,72 +183,72 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="+21"/>
         <source>Enter passphrase</source>
-        <translation type="unfinished"/>
+        <translation>Introduceți fraza de acces.</translation>
     </message>
     <message>
         <location line="+14"/>
         <source>New passphrase</source>
-        <translation type="unfinished"/>
+        <translation>Frază de acces nouă </translation>
     </message>
     <message>
         <location line="+14"/>
         <source>Repeat new passphrase</source>
-        <translation type="unfinished"/>
+        <translation>Repetaţi noua frază de acces</translation>
     </message>
     <message>
         <location filename="../askpassphrasedialog.cpp" line="+33"/>
         <source>Enter the new passphrase to the wallet.&lt;br/&gt;Please use a passphrase of &lt;b&gt;10 or more random characters&lt;/b&gt;, or &lt;b&gt;eight or more words&lt;/b&gt;.</source>
-        <translation type="unfinished"/>
+        <translation>Introduceţi noua parolă a portofelului electronic.&lt;br/&gt;Vă rugăm să folosiţi &lt;b&gt;minimum 10 caractere aleatoare&lt;/b&gt;, sau &lt;b&gt;minimum 8 cuvinte&lt;/b&gt;.</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Encrypt wallet</source>
-        <translation type="unfinished"/>
+        <translation>Criptează portofelul</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>This operation needs your wallet passphrase to unlock the wallet.</source>
-        <translation type="unfinished"/>
+        <translation>Aceasta operație are nevoie de un portofel deblocat.</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Unlock wallet</source>
-        <translation type="unfinished"/>
+        <translation>Deblochează portofelul</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>This operation needs your wallet passphrase to decrypt the wallet.</source>
-        <translation type="unfinished"/>
+        <translation>Această operaţiune necesită parola pentru decriptarea portofelului electronic.</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Decrypt wallet</source>
-        <translation type="unfinished"/>
+        <translation>Decriptează portofelul.</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Change passphrase</source>
-        <translation type="unfinished"/>
+        <translation>Schimbă fraza de acces</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Enter the old and new passphrase to the wallet.</source>
-        <translation type="unfinished"/>
+        <translation>Introduceţi vechea parola a portofelului eletronic şi apoi pe cea nouă.</translation>
     </message>
     <message>
         <location line="+46"/>
         <source>Confirm wallet encryption</source>
-        <translation type="unfinished"/>
+        <translation>Confirmă criptarea portofelului.</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR BITCOINS&lt;/b&gt;!</source>
-        <translation type="unfinished"/>
+        <translation>Atenție: Dacă pierdeţi parola portofelului electronic dupa criptare, &lt;b&gt;VEŢI PIERDE ÎNTREAGA SUMĂ DE BITCOIN ACUMULATĂ&lt;/b&gt;!</translation>
     </message>
     <message>
         <location line="+0"/>
         <source>Are you sure you wish to encrypt your wallet?</source>
-        <translation type="unfinished"/>
+        <translation>Sunteţi sigur că doriţi să criptaţi portofelul electronic?</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -259,18 +259,18 @@ This product includes software developed by the OpenSSL Project for use in the O
         <location line="+100"/>
         <location line="+24"/>
         <source>Warning: The Caps Lock key is on!</source>
-        <translation type="unfinished"/>
+        <translation>Atentie! Caps Lock este pornit</translation>
     </message>
     <message>
         <location line="-130"/>
         <location line="+58"/>
         <source>Wallet encrypted</source>
-        <translation type="unfinished"/>
+        <translation>Portofel criptat </translation>
     </message>
     <message>
         <location line="-56"/>
         <source>CaresCoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your carescoins from being stolen by malware infecting your computer.</source>
-        <translation type="unfinished"/>
+        <translation>CaresCoin se va închide acum pentru a termina procesul de criptare. Amintiți-vă că criptarea portofelului dumneavoastră nu poate proteja în totalitate carescoins dvs. de a fi furate de intentii rele.</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -278,40 +278,40 @@ This product includes software developed by the OpenSSL Project for use in the O
         <location line="+42"/>
         <location line="+6"/>
         <source>Wallet encryption failed</source>
-        <translation type="unfinished"/>
+        <translation>Criptarea portofelului a eșuat.</translation>
     </message>
     <message>
         <location line="-54"/>
         <source>Wallet encryption failed due to an internal error. Your wallet was not encrypted.</source>
-        <translation type="unfinished"/>
+        <translation>Criptarea portofelului a eșuat din cauza unei erori interne. Portofelul tău nu a fost criptat.</translation>
     </message>
     <message>
         <location line="+7"/>
         <location line="+48"/>
         <source>The supplied passphrases do not match.</source>
-        <translation type="unfinished"/>
+        <translation>Fraza de acces introdusă nu se potrivește.</translation>
     </message>
     <message>
         <location line="-37"/>
         <source>Wallet unlock failed</source>
-        <translation type="unfinished"/>
+        <translation>Deblocarea portofelului electronic a eşuat.</translation>
     </message>
     <message>
         <location line="+1"/>
         <location line="+11"/>
         <location line="+19"/>
         <source>The passphrase entered for the wallet decryption was incorrect.</source>
-        <translation type="unfinished"/>
+        <translation>Parola introdusă pentru decriptarea portofelului electronic a fost incorectă.</translation>
     </message>
     <message>
         <location line="-20"/>
         <source>Wallet decryption failed</source>
-        <translation type="unfinished"/>
+        <translation>Decriptarea portofelului electronic a eşuat.</translation>
     </message>
     <message>
         <location line="+14"/>
         <source>Wallet passphrase was successfully changed.</source>
-        <translation type="unfinished"/>
+        <translation>Parola portofelului electronic a fost schimbată.</translation>
     </message>
 </context>
 <context>
@@ -319,92 +319,92 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location filename="../bitcoingui.cpp" line="+254"/>
         <source>Sign &amp;message...</source>
-        <translation type="unfinished"/>
+        <translation>Semneaza &amp;mesaj...</translation>
     </message>
     <message>
         <location line="+246"/>
         <source>Synchronizing with network...</source>
-        <translation type="unfinished"/>
+        <translation>Se sincronizează cu reţeaua...</translation>
     </message>
     <message>
         <location line="-321"/>
         <source>&amp;Overview</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Detalii</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Show general overview of wallet</source>
-        <translation type="unfinished"/>
+        <translation>Afişează detalii despre portofelul electronic</translation>
     </message>
     <message>
         <location line="+20"/>
         <source>&amp;Transactions</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Tranzacţii</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Browse transaction history</source>
-        <translation type="unfinished"/>
+        <translation>Istoricul tranzacţiilor</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>Edit the list of stored addresses and labels</source>
-        <translation type="unfinished"/>
+        <translation>Editaţi lista de adrese şi etichete.</translation>
     </message>
     <message>
         <location line="-14"/>
         <source>Show the list of addresses for receiving payments</source>
-        <translation type="unfinished"/>
+        <translation>Lista de adrese pentru recepţionarea plăţilor</translation>
     </message>
     <message>
         <location line="+31"/>
         <source>E&amp;xit</source>
-        <translation type="unfinished"/>
+        <translation>Ieșire</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Quit application</source>
-        <translation type="unfinished"/>
+        <translation>Părăsiţi aplicaţia</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>Show information about CaresCoin</source>
-        <translation type="unfinished"/>
+        <translation>Informaţii despre CaresCoin</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>About &amp;Qt</source>
-        <translation type="unfinished"/>
+        <translation>Despre &amp;Qt</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Show information about Qt</source>
-        <translation type="unfinished"/>
+        <translation>Informaţii despre Qt</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>&amp;Options...</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Setări...</translation>
     </message>
     <message>
         <location line="+9"/>
         <source>&amp;Encrypt Wallet...</source>
-        <translation type="unfinished"/>
+        <translation>Criptează portofelul electronic...</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>&amp;Backup Wallet...</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Backup portofelul electronic...</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>&amp;Change Passphrase...</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Schimbă parola...</translation>
     </message>
     <message>
         <location line="+251"/>
         <source>Importing blocks from disk...</source>
-        <translation type="unfinished"/>
+        <translation>Importare blocks de pe disk...</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -414,50 +414,50 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="-319"/>
         <source>Send coins to a CaresCoin address</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Trimiteţi CaresCoin către o anumită adresă</translation>
     </message>
     <message>
         <location line="+52"/>
         <source>Modify configuration options for CaresCoin</source>
-        <translation type="unfinished"/>
+        <translation>Modifică setările pentru CaresCoin</translation>
     </message>
     <message>
         <location line="+12"/>
         <source>Backup wallet to another location</source>
-        <translation type="unfinished"/>
+        <translation>Creaza copie de rezerva a portofelului intr-o locatie diferita</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Change the passphrase used for wallet encryption</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Schimbă parola folosită pentru criptarea portofelului electronic</translation>
     </message>
     <message>
         <location line="+6"/>
         <source>&amp;Debug window</source>
-        <translation type="unfinished"/>
+        <translation>&amp; Fereastra debug</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Open debugging and diagnostic console</source>
-        <translation type="unfinished"/>
+        <translation>Deschide consola de debug si diagnosticare</translation>
     </message>
     <message>
         <location line="-4"/>
         <source>&amp;Verify message...</source>
-        <translation type="unfinished"/>
+        <translation>Verifica mesajul</translation>
     </message>
     <message>
         <location line="-183"/>
         <location line="+6"/>
         <location line="+508"/>
         <source>CaresCoin</source>
-        <translation type="unfinished"/>
+        <translation>CaresCoin</translation>
     </message>
     <message>
         <location line="-514"/>
         <location line="+6"/>
         <source>Wallet</source>
-        <translation type="unfinished"/>
+        <translation>Portofelul</translation>
     </message>
     <message>
         <location line="+107"/>
@@ -478,13 +478,13 @@ This product includes software developed by the OpenSSL Project for use in the O
         <location line="+23"/>
         <location line="+2"/>
         <source>&amp;About CaresCoin</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Despre CaresCoin</translation>
     </message>
     <message>
         <location line="+10"/>
         <location line="+2"/>
         <source>&amp;Show / Hide</source>
-        <translation type="unfinished"/>
+        <translation>Arata/Ascunde</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -494,54 +494,54 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="+3"/>
         <source>Encrypt the private keys that belong to your wallet</source>
-        <translation type="unfinished"/>
+        <translation>Criptează cheile private ale portofelului tău</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>Sign messages with your CaresCoin addresses to prove you own them</source>
-        <translation type="unfinished"/>
+        <translation>Semnează mesaje cu adresa ta CaresCoin pentru a dovedi că îți aparțin</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Verify messages to ensure they were signed with specified CaresCoin addresses</source>
-        <translation type="unfinished"/>
+        <translation>Verifică mesaje pentru a te asigura că au fost semnate cu adresa CaresCoin specificată</translation>
     </message>
     <message>
         <location line="+28"/>
         <source>&amp;File</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Fişier</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>&amp;Settings</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Setări</translation>
     </message>
     <message>
         <location line="+6"/>
         <source>&amp;Help</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Ajutor</translation>
     </message>
     <message>
         <location line="+9"/>
         <source>Tabs toolbar</source>
-        <translation type="unfinished"/>
+        <translation>Bara de ferestre de lucru</translation>
     </message>
     <message>
         <location line="-228"/>
         <location line="+288"/>
         <source>[testnet]</source>
-        <translation type="unfinished"/>
+        <translation>[testnet]</translation>
     </message>
     <message>
         <location line="-5"/>
         <location line="+5"/>
         <source>CaresCoin client</source>
-        <translation type="unfinished"/>
+        <translation>Client CaresCoin</translation>
     </message>
     <message numerus="yes">
         <location line="+121"/>
         <source>%n active connection(s) to CaresCoin network</source>
-        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform></translation>
+        <translation><numerusform>%n active connections to CaresCoin network</numerusform><numerusform>%n active connections to CaresCoin network</numerusform><numerusform>%n active connections to CaresCoin network</numerusform></translation>
     </message>
     <message>
         <location line="+22"/>
@@ -556,22 +556,22 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="+4"/>
         <source>Processed %1 blocks of transaction history.</source>
-        <translation type="unfinished"/>
+        <translation>S-au procesat %1 blocuri din istoricul tranzacțiilor.</translation>
     </message>
     <message numerus="yes">
         <location line="+20"/>
         <source>%n hour(s)</source>
-        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform></translation>
+        <translation><numerusform>%n oră</numerusform><numerusform>%n ore</numerusform><numerusform>%n ore</numerusform></translation>
     </message>
     <message numerus="yes">
         <location line="+4"/>
         <source>%n day(s)</source>
-        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform></translation>
+        <translation><numerusform>%n zi</numerusform><numerusform>%n zile</numerusform><numerusform>%n zile</numerusform></translation>
     </message>
     <message numerus="yes">
         <location line="+4"/>
         <source>%n week(s)</source>
-        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform></translation>
+        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform></translation>
     </message>
     <message>
         <location line="+4"/>
@@ -591,17 +591,17 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="+22"/>
         <source>Error</source>
-        <translation type="unfinished"/>
+        <translation>Eroare</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Warning</source>
-        <translation type="unfinished"/>
+        <translation>Avertizare</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Information</source>
-        <translation type="unfinished"/>
+        <translation>Informație</translation>
     </message>
     <message>
         <location line="+70"/>
@@ -611,27 +611,27 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="-140"/>
         <source>Up to date</source>
-        <translation type="unfinished"/>
+        <translation>Actualizat</translation>
     </message>
     <message>
         <location line="+31"/>
         <source>Catching up...</source>
-        <translation type="unfinished"/>
+        <translation>Se actualizează...</translation>
     </message>
     <message>
         <location line="+113"/>
         <source>Confirm transaction fee</source>
-        <translation type="unfinished"/>
+        <translation>Confirma taxa tranzactiei</translation>
     </message>
     <message>
         <location line="+8"/>
         <source>Sent transaction</source>
-        <translation type="unfinished"/>
+        <translation>Tranzacţie expediată</translation>
     </message>
     <message>
         <location line="+0"/>
         <source>Incoming transaction</source>
-        <translation type="unfinished"/>
+        <translation>Tranzacţie recepţionată</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -640,7 +640,7 @@ Amount: %2
 Type: %3
 Address: %4
 </source>
-        <translation type="unfinished"/>
+        <translation>Data: %1⏎ Suma: %2⏎ Tipul: %3⏎ Addresa: %4⏎</translation>
     </message>
     <message>
         <location line="+33"/>
@@ -657,12 +657,12 @@ Address: %4
     <message>
         <location line="+17"/>
         <source>Wallet is &lt;b&gt;encrypted&lt;/b&gt; and currently &lt;b&gt;unlocked&lt;/b&gt;</source>
-        <translation type="unfinished"/>
+        <translation>Portofelul electronic este &lt;b&gt;criptat&lt;/b&gt; iar in momentul de faţă este &lt;b&gt;deblocat&lt;/b&gt;</translation>
     </message>
     <message>
         <location line="+8"/>
         <source>Wallet is &lt;b&gt;encrypted&lt;/b&gt; and currently &lt;b&gt;locked&lt;/b&gt;</source>
-        <translation type="unfinished"/>
+        <translation>Portofelul electronic este &lt;b&gt;criptat&lt;/b&gt; iar in momentul de faţă este &lt;b&gt;blocat&lt;/b&gt;</translation>
     </message>
     <message>
         <location filename="../bitcoin.cpp" line="+110"/>
@@ -675,7 +675,7 @@ Address: %4
     <message>
         <location filename="../clientmodel.cpp" line="+105"/>
         <source>Network Alert</source>
-        <translation type="unfinished"/>
+        <translation>Alerta retea</translation>
     </message>
 </context>
 <context>
@@ -683,67 +683,67 @@ Address: %4
     <message>
         <location filename="../forms/editaddressdialog.ui" line="+14"/>
         <source>Edit Address</source>
-        <translation type="unfinished"/>
+        <translation>Editează adresa</translation>
     </message>
     <message>
         <location line="+11"/>
         <source>&amp;Label</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Eticheta</translation>
     </message>
     <message>
         <location line="+10"/>
         <source>The label associated with this address book entry</source>
-        <translation type="unfinished"/>
+        <translation>Eticheta asociată cu această înregistrare în Lista de adrese</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>&amp;Address</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Adresă</translation>
     </message>
     <message>
         <location line="+10"/>
         <source>The address associated with this address book entry. This can only be modified for sending addresses.</source>
-        <translation type="unfinished"/>
+        <translation>Adresa asociată cu această înregistrare în Lista de adrese. Aceasta poate fi modificată doar pentru expediere.</translation>
     </message>
     <message>
         <location filename="../editaddressdialog.cpp" line="+21"/>
         <source>New receiving address</source>
-        <translation type="unfinished"/>
+        <translation>Noua adresă de primire</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>New sending address</source>
-        <translation type="unfinished"/>
+        <translation>Noua adresă de trimitere</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Edit receiving address</source>
-        <translation type="unfinished"/>
+        <translation>Editează adresa de primire</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>Edit sending address</source>
-        <translation type="unfinished"/>
+        <translation>Editează adresa de trimitere</translation>
     </message>
     <message>
         <location line="+76"/>
         <source>The entered address &quot;%1&quot; is already in the address book.</source>
-        <translation type="unfinished"/>
+        <translation>Adresa introdusă &quot;%1&quot; se află deja în Lista de adrese.</translation>
     </message>
     <message>
         <location line="-5"/>
         <source>The entered address &quot;%1&quot; is not a valid CaresCoin address.</source>
-        <translation type="unfinished"/>
+        <translation>Adresa introdusă &quot;%1&quot; nu este o adresă carescoin valabilă.</translation>
     </message>
     <message>
         <location line="+10"/>
         <source>Could not unlock wallet.</source>
-        <translation type="unfinished"/>
+        <translation>Portofelul electronic nu a putut fi deblocat .</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>New key generation failed.</source>
-        <translation type="unfinished"/>
+        <translation>New key generation failed.</translation>
     </message>
 </context>
 <context>
@@ -780,42 +780,42 @@ Address: %4
         <location filename="../guiutil.cpp" line="+517"/>
         <location line="+13"/>
         <source>CaresCoin-Qt</source>
-        <translation type="unfinished"/>
+        <translation>CaresCoin-Qt</translation>
     </message>
     <message>
         <location line="-13"/>
         <source>version</source>
-        <translation type="unfinished"/>
+        <translation>versiunea</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Usage:</source>
-        <translation type="unfinished"/>
+        <translation>Uz:</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>command-line options</source>
-        <translation type="unfinished"/>
+        <translation>command-line setări</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>UI options</source>
-        <translation type="unfinished"/>
+        <translation>UI setări</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Set language, for example &quot;de_DE&quot; (default: system locale)</source>
-        <translation type="unfinished"/>
+        <translation>Seteaza limba, de exemplu: &quot;de_DE&quot; (initialt: system locale)</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Start minimized</source>
-        <translation type="unfinished"/>
+        <translation>Incepe miniaturizare</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Show splash screen on startup (default: 1)</source>
-        <translation type="unfinished"/>
+        <translation>Afișează pe ecran splash la pornire (implicit: 1)</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -858,7 +858,7 @@ Address: %4
     <message>
         <location filename="../intro.cpp" line="+100"/>
         <source>Error</source>
-        <translation type="unfinished"/>
+        <translation>Eroare</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -876,12 +876,12 @@ Address: %4
     <message>
         <location filename="../forms/optionsdialog.ui" line="+14"/>
         <source>Options</source>
-        <translation type="unfinished"/>
+        <translation>Setări</translation>
     </message>
     <message>
         <location line="+16"/>
         <source>&amp;Main</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Principal</translation>
     </message>
     <message>
         <location line="+6"/>
@@ -891,17 +891,17 @@ Address: %4
     <message>
         <location line="+15"/>
         <source>Pay transaction &amp;fee</source>
-        <translation type="unfinished"/>
+        <translation>Plăteşte comision pentru tranzacţie &amp;f</translation>
     </message>
     <message>
         <location line="+31"/>
         <source>Automatically start CaresCoin after logging in to the system.</source>
-        <translation type="unfinished"/>
+        <translation>Porneşte automat programul CaresCoin la pornirea computerului.</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>&amp;Start CaresCoin on system login</source>
-        <translation type="unfinished"/>
+        <translation>&amp;S Porneşte CaresCoin la pornirea sistemului</translation>
     </message>
     <message>
         <location line="+35"/>
@@ -916,137 +916,137 @@ Address: %4
     <message>
         <location line="+13"/>
         <source>&amp;Network</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Retea</translation>
     </message>
     <message>
         <location line="+6"/>
         <source>Automatically open the CaresCoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation type="unfinished"/>
+        <translation>Deschide automat în router portul aferent clientului CaresCoin. Funcţionează doar în cazul în care routerul e compatibil UPnP şi opţiunea e activată.</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Map port using &amp;UPnP</source>
-        <translation type="unfinished"/>
+        <translation>Mapeaza portul folosind &amp;UPnP</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>Connect to the CaresCoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
-        <translation type="unfinished"/>
+        <translation>Conectare la reţeaua CaresCoin folosind un proxy SOCKS (de exemplu, când conexiunea se stabileşte prin reţeaua Tor)</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>&amp;Connect through SOCKS proxy:</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Conectează prin proxy SOCKS:</translation>
     </message>
     <message>
         <location line="+9"/>
         <source>Proxy &amp;IP:</source>
-        <translation type="unfinished"/>
+        <translation>Proxy &amp;IP:</translation>
     </message>
     <message>
         <location line="+19"/>
         <source>IP address of the proxy (e.g. 127.0.0.1)</source>
-        <translation type="unfinished"/>
+        <translation>Adresa de IP a proxy serverului (de exemplu: 127.0.0.1)</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>&amp;Port:</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Port:</translation>
     </message>
     <message>
         <location line="+19"/>
         <source>Port of the proxy (e.g. 9050)</source>
-        <translation type="unfinished"/>
+        <translation>Portul pe care se concetează proxy serverul (de exemplu: 9050)</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>SOCKS &amp;Version:</source>
-        <translation type="unfinished"/>
+        <translation>SOCKS &amp;Versiune:</translation>
     </message>
     <message>
         <location line="+13"/>
         <source>SOCKS version of the proxy (e.g. 5)</source>
-        <translation type="unfinished"/>
+        <translation>Versiunea SOCKS a proxiului (ex. 5)</translation>
     </message>
     <message>
         <location line="+36"/>
         <source>&amp;Window</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Fereastra</translation>
     </message>
     <message>
         <location line="+6"/>
         <source>Show only a tray icon after minimizing the window.</source>
-        <translation type="unfinished"/>
+        <translation>Afişează doar un icon in tray la ascunderea ferestrei</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>&amp;Minimize to the tray instead of the taskbar</source>
-        <translation type="unfinished"/>
+        <translation>&amp;M Ascunde în tray în loc de taskbar</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>Minimize instead of exit the application when the window is closed. When this option is enabled, the application will be closed only after selecting Quit in the menu.</source>
-        <translation type="unfinished"/>
+        <translation>Ascunde fereastra în locul părăsirii programului în momentul închiderii ferestrei. Când acestă opţiune e activă, aplicaţia se va opri doar în momentul selectării comenzii Quit din menu.</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>M&amp;inimize on close</source>
-        <translation type="unfinished"/>
+        <translation>&amp;i Ascunde fereastra în locul închiderii programului</translation>
     </message>
     <message>
         <location line="+21"/>
         <source>&amp;Display</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Afişare</translation>
     </message>
     <message>
         <location line="+8"/>
         <source>User Interface &amp;language:</source>
-        <translation type="unfinished"/>
+        <translation>Interfata &amp; limba userului</translation>
     </message>
     <message>
         <location line="+13"/>
         <source>The user interface language can be set here. This setting will take effect after restarting CaresCoin.</source>
-        <translation type="unfinished"/>
+        <translation>Limba interfeței utilizatorului poate fi setat aici. Această setare va avea efect după repornirea CaresCoin.</translation>
     </message>
     <message>
         <location line="+11"/>
         <source>&amp;Unit to show amounts in:</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Unitatea de măsură pentru afişarea sumelor:</translation>
     </message>
     <message>
         <location line="+13"/>
         <source>Choose the default subdivision unit to show in the interface and when sending coins.</source>
-        <translation type="unfinished"/>
+        <translation>Alege subdiviziunea folosită la afişarea interfeţei şi la trimiterea de carescoin.</translation>
     </message>
     <message>
         <location line="+9"/>
         <source>Whether to show CaresCoin addresses in the transaction list or not.</source>
-        <translation type="unfinished"/>
+        <translation>Vezi dacă adresele CaresCoin sunt în lista de tranzacție sau nu</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>&amp;Display addresses in transaction list</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Afişează adresele în lista de tranzacţii</translation>
     </message>
     <message>
         <location line="+71"/>
         <source>&amp;OK</source>
-        <translation type="unfinished"/>
+        <translation>&amp; OK</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>&amp;Cancel</source>
-        <translation type="unfinished"/>
+        <translation>&amp; Renunta</translation>
     </message>
     <message>
         <location line="+10"/>
         <source>&amp;Apply</source>
-        <translation type="unfinished"/>
+        <translation>Aplica</translation>
     </message>
     <message>
         <location filename="../optionsdialog.cpp" line="+54"/>
         <source>default</source>
-        <translation type="unfinished"/>
+        <translation>Initial</translation>
     </message>
     <message>
         <location line="+130"/>
@@ -1061,24 +1061,24 @@ Address: %4
     <message>
         <location line="+0"/>
         <source>Do you want to proceed?</source>
-        <translation type="unfinished"/>
+        <translation>Vrei să continui?</translation>
     </message>
     <message>
         <location line="+42"/>
         <location line="+9"/>
         <source>Warning</source>
-        <translation type="unfinished"/>
+        <translation>Atentie!</translation>
     </message>
     <message>
         <location line="-9"/>
         <location line="+9"/>
         <source>This setting will take effect after restarting CaresCoin.</source>
-        <translation type="unfinished"/>
+        <translation>Această setare va avea efect după repornirea CaresCoin.</translation>
     </message>
     <message>
         <location line="+29"/>
         <source>The supplied proxy address is invalid.</source>
-        <translation type="unfinished"/>
+        <translation>Adresa carescoin pe care a-ti specificat-o este invalida</translation>
     </message>
 </context>
 <context>
@@ -1086,28 +1086,28 @@ Address: %4
     <message>
         <location filename="../forms/overviewpage.ui" line="+14"/>
         <source>Form</source>
-        <translation type="unfinished"/>
+        <translation>Form</translation>
     </message>
     <message>
         <location line="+50"/>
         <location line="+202"/>
         <source>The displayed information may be out of date. Your wallet automatically synchronizes with the CaresCoin network after a connection is established, but this process has not completed yet.</source>
-        <translation type="unfinished"/>
+        <translation>Informațiile afișate pot fi expirate. Portofelul tău se sincronizează automat cu rețeaua CaresCoin după ce o conexiune este stabilita, dar acest proces nu a fost finalizat încă.</translation>
     </message>
     <message>
         <location line="-131"/>
         <source>Unconfirmed:</source>
-        <translation type="unfinished"/>
+        <translation>Neconfirmat:</translation>
     </message>
     <message>
         <location line="-78"/>
         <source>Wallet</source>
-        <translation type="unfinished"/>
+        <translation>Portofelul</translation>
     </message>
     <message>
         <location line="+49"/>
         <source>Confirmed:</source>
-        <translation type="unfinished"/>
+        <translation>Confirmat:</translation>
     </message>
     <message>
         <location line="+16"/>
@@ -1122,17 +1122,17 @@ Address: %4
     <message>
         <location line="+13"/>
         <source>Immature:</source>
-        <translation type="unfinished"/>
+        <translation>Nematurizat:</translation>
     </message>
     <message>
         <location line="+13"/>
         <source>Mined balance that has not yet matured</source>
-        <translation type="unfinished"/>
+        <translation>Balanta minata care nu s-a maturizat inca</translation>
     </message>
     <message>
         <location line="+13"/>
         <source>Total:</source>
-        <translation type="unfinished"/>
+        <translation>Total:</translation>
     </message>
     <message>
         <location line="+16"/>
@@ -1142,13 +1142,13 @@ Address: %4
     <message>
         <location line="+53"/>
         <source>&lt;b&gt;Recent transactions&lt;/b&gt;</source>
-        <translation type="unfinished"/>
+        <translation>&lt;b&gt;Ultimele tranzacţii&lt;/b&gt;</translation>
     </message>
     <message>
         <location filename="../overviewpage.cpp" line="+116"/>
         <location line="+1"/>
         <source>out of sync</source>
-        <translation type="unfinished"/>
+        <translation>Nu este sincronizat</translation>
     </message>
 </context>
 <context>
@@ -1165,7 +1165,7 @@ Address: %4
         <location filename="../bitcoin.cpp" line="+92"/>
         <location filename="../intro.cpp" line="-32"/>
         <source>CaresCoin</source>
-        <translation type="unfinished"/>
+        <translation>CaresCoin</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1183,57 +1183,57 @@ Address: %4
     <message>
         <location filename="../forms/qrcodedialog.ui" line="+14"/>
         <source>QR Code Dialog</source>
-        <translation type="unfinished"/>
+        <translation>Dialogul codului QR</translation>
     </message>
     <message>
         <location line="+59"/>
         <source>Request Payment</source>
-        <translation type="unfinished"/>
+        <translation>Cerere de plata</translation>
     </message>
     <message>
         <location line="+56"/>
         <source>Amount:</source>
-        <translation type="unfinished"/>
+        <translation>Sumă:</translation>
     </message>
     <message>
         <location line="-44"/>
         <source>Label:</source>
-        <translation type="unfinished"/>
+        <translation>Etichetă:</translation>
     </message>
     <message>
         <location line="+19"/>
         <source>Message:</source>
-        <translation type="unfinished"/>
+        <translation>Mesaj:</translation>
     </message>
     <message>
         <location line="+71"/>
         <source>&amp;Save As...</source>
-        <translation type="unfinished"/>
+        <translation>Salvare ca...</translation>
     </message>
     <message>
         <location filename="../qrcodedialog.cpp" line="+64"/>
         <source>Error encoding URI into QR Code.</source>
-        <translation type="unfinished"/>
+        <translation>Eroare la incercarea codarii URl-ului in cod QR</translation>
     </message>
     <message>
         <location line="+40"/>
         <source>The entered amount is invalid, please check.</source>
-        <translation type="unfinished"/>
+        <translation>Suma introdusa nu este valida, verifica suma.</translation>
     </message>
     <message>
         <location line="+23"/>
         <source>Resulting URI too long, try to reduce the text for label / message.</source>
-        <translation type="unfinished"/>
+        <translation>Rezultat UDI prea lung, incearca sa reduci textul pentru eticheta/mesaj</translation>
     </message>
     <message>
         <location line="+25"/>
         <source>Save QR Code</source>
-        <translation type="unfinished"/>
+        <translation>Salveaza codul QR</translation>
     </message>
     <message>
         <location line="+0"/>
         <source>PNG Images (*.png)</source>
-        <translation type="unfinished"/>
+        <translation>Imagini de tip PNG (*.png)</translation>
     </message>
 </context>
 <context>
@@ -1241,7 +1241,7 @@ Address: %4
     <message>
         <location filename="../forms/rpcconsole.ui" line="+46"/>
         <source>Client name</source>
-        <translation type="unfinished"/>
+        <translation>Numaele clientului</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1255,132 +1255,132 @@ Address: %4
         <location line="+23"/>
         <location filename="../rpcconsole.cpp" line="+345"/>
         <source>N/A</source>
-        <translation type="unfinished"/>
+        <translation>N/A</translation>
     </message>
     <message>
         <location line="-217"/>
         <source>Client version</source>
-        <translation type="unfinished"/>
+        <translation>Versiunea clientului</translation>
     </message>
     <message>
         <location line="-45"/>
         <source>&amp;Information</source>
-        <translation type="unfinished"/>
+        <translation>&amp; Informatie</translation>
     </message>
     <message>
         <location line="+68"/>
         <source>Using OpenSSL version</source>
-        <translation type="unfinished"/>
+        <translation>Foloseste versiunea OpenSSL</translation>
     </message>
     <message>
         <location line="+49"/>
         <source>Startup time</source>
-        <translation type="unfinished"/>
+        <translation>Data pornirii</translation>
     </message>
     <message>
         <location line="+29"/>
         <source>Network</source>
-        <translation type="unfinished"/>
+        <translation>Retea</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>Number of connections</source>
-        <translation type="unfinished"/>
+        <translation>Numarul de conexiuni</translation>
     </message>
     <message>
         <location line="+23"/>
         <source>On testnet</source>
-        <translation type="unfinished"/>
+        <translation>Pe testnet</translation>
     </message>
     <message>
         <location line="+23"/>
         <source>Block chain</source>
-        <translation type="unfinished"/>
+        <translation>Lant bloc</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>Current number of blocks</source>
-        <translation type="unfinished"/>
+        <translation>Numarul curent de blockuri</translation>
     </message>
     <message>
         <location line="+23"/>
         <source>Estimated total blocks</source>
-        <translation type="unfinished"/>
+        <translation>Estimarea totala a blocks</translation>
     </message>
     <message>
         <location line="+23"/>
         <source>Last block time</source>
-        <translation type="unfinished"/>
+        <translation>Ultimul block a fost gasit la:</translation>
     </message>
     <message>
         <location line="+52"/>
         <source>&amp;Open</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Deschide</translation>
     </message>
     <message>
         <location line="+16"/>
         <source>Command-line options</source>
-        <translation type="unfinished"/>
+        <translation>Command-line setări</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>Show the CaresCoin-Qt help message to get a list with possible CaresCoin command-line options.</source>
-        <translation type="unfinished"/>
+        <translation>Arata mesajul de ajutor CaresCoin-QT pentru a obtine o lista cu posibilele optiuni ale comenzilor CaresCoin</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>&amp;Show</source>
-        <translation type="unfinished"/>
+        <translation>&amp; Arata</translation>
     </message>
     <message>
         <location line="+24"/>
         <source>&amp;Console</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Consola</translation>
     </message>
     <message>
         <location line="-260"/>
         <source>Build date</source>
-        <translation type="unfinished"/>
+        <translation>Construit la data:</translation>
     </message>
     <message>
         <location line="-104"/>
         <source>CaresCoin - Debug window</source>
-        <translation type="unfinished"/>
+        <translation>CaresCoin-Fereastra pentru debug</translation>
     </message>
     <message>
         <location line="+25"/>
         <source>CaresCoin Core</source>
-        <translation type="unfinished"/>
+        <translation>CaresCoin Core</translation>
     </message>
     <message>
         <location line="+279"/>
         <source>Debug log file</source>
-        <translation type="unfinished"/>
+        <translation>Loguri debug</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>Open the CaresCoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation type="unfinished"/>
+        <translation>Deschide logurile debug din directorul curent. Aceasta poate dura cateva secunde pentru fisierele mai mari</translation>
     </message>
     <message>
         <location line="+102"/>
         <source>Clear console</source>
-        <translation type="unfinished"/>
+        <translation>Curata consola</translation>
     </message>
     <message>
         <location filename="../rpcconsole.cpp" line="-30"/>
         <source>Welcome to the CaresCoin RPC console.</source>
-        <translation type="unfinished"/>
+        <translation>Bun venit la consola carescoin RPC</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Use up and down arrows to navigate history, and &lt;b&gt;Ctrl-L&lt;/b&gt; to clear screen.</source>
-        <translation type="unfinished"/>
+        <translation>Foloseste sagetile sus si jos pentru a naviga in istoric si &lt;b&gt;Ctrl-L&lt;/b&gt; pentru a curata.</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Type &lt;b&gt;help&lt;/b&gt; for an overview of available commands.</source>
-        <translation type="unfinished"/>
+        <translation>Scrie &lt;b&gt;help&lt;/b&gt; pentru a vedea comenzile disponibile</translation>
     </message>
 </context>
 <context>
@@ -1395,93 +1395,93 @@ Address: %4
         <location line="+5"/>
         <location line="+5"/>
         <source>Send Coins</source>
-        <translation type="unfinished"/>
+        <translation>Trimite CaresCoin</translation>
     </message>
     <message>
         <location line="+50"/>
         <source>Send to multiple recipients at once</source>
-        <translation type="unfinished"/>
+        <translation>Trimite simultan către mai mulţi destinatari</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Add &amp;Recipient</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Adaugă destinatar</translation>
     </message>
     <message>
         <location line="+20"/>
         <source>Remove all transaction fields</source>
-        <translation type="unfinished"/>
+        <translation>Sterge toate spatiile de tranzactie</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Clear &amp;All</source>
-        <translation type="unfinished"/>
+        <translation>Şterge &amp;tot</translation>
     </message>
     <message>
         <location line="+22"/>
         <source>Balance:</source>
-        <translation type="unfinished"/>
+        <translation>Balanţă:</translation>
     </message>
     <message>
         <location line="+10"/>
         <source>123.456 ABC</source>
-        <translation type="unfinished"/>
+        <translation>123.456 ABC</translation>
     </message>
     <message>
         <location line="+31"/>
         <source>Confirm the send action</source>
-        <translation type="unfinished"/>
+        <translation>Confirmă operaţiunea de trimitere</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>S&amp;end</source>
-        <translation type="unfinished"/>
+        <translation>&amp;S Trimite</translation>
     </message>
     <message>
         <location filename="../sendcoinsdialog.cpp" line="-62"/>
         <location line="+2"/>
         <source>&lt;b&gt;%1&lt;/b&gt; to %2 (%3)</source>
-        <translation type="unfinished"/>
+        <translation>&lt;b&gt;%1&lt;/b&gt; la %2 (%3)</translation>
     </message>
     <message>
         <location line="+6"/>
         <source>Confirm send coins</source>
-        <translation type="unfinished"/>
+        <translation>Confirmaţi trimiterea de carescoin</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Are you sure you want to send %1?</source>
-        <translation type="unfinished"/>
+        <translation>Sunteţi sigur că doriţi să trimiteţi %1?</translation>
     </message>
     <message>
         <location line="+0"/>
         <source> and </source>
-        <translation type="unfinished"/>
+        <translation> şi </translation>
     </message>
     <message>
         <location line="+23"/>
         <source>The recipient address is not valid, please recheck.</source>
-        <translation type="unfinished"/>
+        <translation>Adresa destinatarului nu este validă, vă rugăm să o verificaţi.</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>The amount to pay must be larger than 0.</source>
-        <translation type="unfinished"/>
+        <translation>Suma de plată trebuie să fie mai mare decât 0.</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>The amount exceeds your balance.</source>
-        <translation type="unfinished"/>
+        <translation>Suma depăşeşte soldul contului.</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>The total exceeds your balance when the %1 transaction fee is included.</source>
-        <translation type="unfinished"/>
+        <translation>Total depăşeşte soldul contului in cazul plăţii comisionului de %1.</translation>
     </message>
     <message>
         <location line="+6"/>
         <source>Duplicate address found, can only send to each address once per send operation.</source>
-        <translation type="unfinished"/>
+        <translation>S-a descoperit o adresă care figurează de două ori. Expedierea se poate realiza către fiecare adresă doar o singură dată pe operaţiune.</translation>
     </message>
     <message>
         <location line="+5"/>
@@ -1491,7 +1491,7 @@ Address: %4
     <message>
         <location line="+5"/>
         <source>Error: The transaction was rejected. This might happen if some of the coins in your wallet were already spent, such as if you used a copy of wallet.dat and coins were spent in the copy but not marked as spent here.</source>
-        <translation type="unfinished"/>
+        <translation>Eroare: Tranyacţia a fost respinsă.  Acesta poate fi rezultatul cheltuirii prealabile a unei sume de carescoin din portofelul electronic, ca în cazul folosirii unei copii a fisierului wallet.dat, în care s-au efectuat tranzacţii neînregistrate în fisierul curent.</translation>
     </message>
 </context>
 <context>
@@ -1499,63 +1499,63 @@ Address: %4
     <message>
         <location filename="../forms/sendcoinsentry.ui" line="+14"/>
         <source>Form</source>
-        <translation type="unfinished"/>
+        <translation>Form</translation>
     </message>
     <message>
         <location line="+15"/>
         <source>A&amp;mount:</source>
-        <translation type="unfinished"/>
+        <translation>Su&amp;mă :</translation>
     </message>
     <message>
         <location line="+13"/>
         <source>Pay &amp;To:</source>
-        <translation type="unfinished"/>
+        <translation>Plăteşte Că&amp;tre:</translation>
     </message>
     <message>
         <location line="+34"/>
         <source>The address to send the payment to (e.g. 1NS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</source>
-        <translation type="unfinished"/>
+        <translation>Adresa către care se va face plata  (de exemplu: 1NS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</translation>
     </message>
     <message>
         <location line="+60"/>
         <location filename="../sendcoinsentry.cpp" line="+26"/>
         <source>Enter a label for this address to add it to your address book</source>
-        <translation type="unfinished"/>
+        <translation>Adaugă o etichetă acestei adrese pentru a o trece în Lista de adrese</translation>
     </message>
     <message>
         <location line="-78"/>
         <source>&amp;Label:</source>
-        <translation type="unfinished"/>
+        <translation>&amp;L Etichetă:</translation>
     </message>
     <message>
         <location line="+28"/>
         <source>Choose address from address book</source>
-        <translation type="unfinished"/>
+        <translation>Alegeţi adresa din Listă</translation>
     </message>
     <message>
         <location line="+10"/>
         <source>Alt+A</source>
-        <translation type="unfinished"/>
+        <translation>Alt+A</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>Paste address from clipboard</source>
-        <translation type="unfinished"/>
+        <translation>Lipiţi adresa copiată in clipboard.</translation>
     </message>
     <message>
         <location line="+10"/>
         <source>Alt+P</source>
-        <translation type="unfinished"/>
+        <translation>Alt+P</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>Remove this recipient</source>
-        <translation type="unfinished"/>
+        <translation>Şterge destinatarul</translation>
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
         <source>Enter a CaresCoin address (e.g. 1NS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</source>
-        <translation type="unfinished"/>
+        <translation>Introduceţi o adresă CaresCoin (de exemplu: 1NS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</translation>
     </message>
 </context>
 <context>
@@ -1563,12 +1563,12 @@ Address: %4
     <message>
         <location filename="../forms/signverifymessagedialog.ui" line="+14"/>
         <source>Signatures - Sign / Verify a Message</source>
-        <translation type="unfinished"/>
+        <translation>Semnatura- Semneaza/verifica un mesaj</translation>
     </message>
     <message>
         <location line="+13"/>
         <source>&amp;Sign Message</source>
-        <translation type="unfinished"/>
+        <translation>Semneaza Mesajul</translation>
     </message>
     <message>
         <location line="+6"/>
@@ -1578,70 +1578,70 @@ Address: %4
     <message>
         <location line="+18"/>
         <source>The address to sign the message with (e.g. 1NS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</source>
-        <translation type="unfinished"/>
+        <translation>Introduceţi o adresă CaresCoin (de exemplu: 1NS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</translation>
     </message>
     <message>
         <location line="+10"/>
         <location line="+213"/>
         <source>Choose an address from the address book</source>
-        <translation type="unfinished"/>
+        <translation>Alegeţi adresa din Listă</translation>
     </message>
     <message>
         <location line="-203"/>
         <location line="+213"/>
         <source>Alt+A</source>
-        <translation type="unfinished"/>
+        <translation>Alt+A</translation>
     </message>
     <message>
         <location line="-203"/>
         <source>Paste address from clipboard</source>
-        <translation type="unfinished"/>
+        <translation>Lipiţi adresa copiată in clipboard.</translation>
     </message>
     <message>
         <location line="+10"/>
         <source>Alt+P</source>
-        <translation type="unfinished"/>
+        <translation>Alt+P</translation>
     </message>
     <message>
         <location line="+12"/>
         <source>Enter the message you want to sign here</source>
-        <translation type="unfinished"/>
+        <translation>Introduce mesajul pe care vrei sa il semnezi, aici.</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>Signature</source>
-        <translation type="unfinished"/>
+        <translation>Semnătură</translation>
     </message>
     <message>
         <location line="+27"/>
         <source>Copy the current signature to the system clipboard</source>
-        <translation type="unfinished"/>
+        <translation>Copiaza semnatura curenta in clipboard-ul sistemului</translation>
     </message>
     <message>
         <location line="+21"/>
         <source>Sign the message to prove you own this CaresCoin address</source>
-        <translation type="unfinished"/>
+        <translation>Semneaza mesajul pentru a dovedi ca detii acesta adresa CaresCoin</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Sign &amp;Message</source>
-        <translation type="unfinished"/>
+        <translation>Semnează &amp;Message</translation>
     </message>
     <message>
         <location line="+14"/>
         <source>Reset all sign message fields</source>
-        <translation type="unfinished"/>
+        <translation>Reseteaza toate spatiile mesajelor semnate.</translation>
     </message>
     <message>
         <location line="+3"/>
         <location line="+146"/>
         <source>Clear &amp;All</source>
-        <translation type="unfinished"/>
+        <translation>Şterge &amp;tot</translation>
     </message>
     <message>
         <location line="-87"/>
         <source>&amp;Verify Message</source>
-        <translation type="unfinished"/>
+        <translation>Verifica mesajul</translation>
     </message>
     <message>
         <location line="+6"/>
@@ -1651,44 +1651,44 @@ Address: %4
     <message>
         <location line="+21"/>
         <source>The address the message was signed with (e.g. 1NS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</source>
-        <translation type="unfinished"/>
+        <translation>Introduceţi o adresă CaresCoin (de exemplu: 1NS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</translation>
     </message>
     <message>
         <location line="+40"/>
         <source>Verify the message to ensure it was signed with the specified CaresCoin address</source>
-        <translation type="unfinished"/>
+        <translation>Verifica mesajul pentru a fi sigur ca a fost semnat cu adresa CaresCoin specifica</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Verify &amp;Message</source>
-        <translation type="unfinished"/>
+        <translation>Verifică &amp;Message</translation>
     </message>
     <message>
         <location line="+14"/>
         <source>Reset all verify message fields</source>
-        <translation type="unfinished"/>
+        <translation>Reseteaza toate spatiile mesajelor semnate.</translation>
     </message>
     <message>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
         <source>Enter a CaresCoin address (e.g. 1NS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</source>
-        <translation type="unfinished"/>
+        <translation>Introduceţi o adresă CaresCoin (de exemplu: 1NS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</translation>
     </message>
     <message>
         <location line="-2"/>
         <source>Click &quot;Sign Message&quot; to generate signature</source>
-        <translation type="unfinished"/>
+        <translation>Click &quot;Semneaza msajul&quot; pentru a genera semnatura</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Enter CaresCoin signature</source>
-        <translation type="unfinished"/>
+        <translation>Introduce semnatura bitocin</translation>
     </message>
     <message>
         <location line="+82"/>
         <location line="+81"/>
         <source>The entered address is invalid.</source>
-        <translation type="unfinished"/>
+        <translation>Adresa introdusa nu este valida</translation>
     </message>
     <message>
         <location line="-81"/>
@@ -1696,59 +1696,59 @@ Address: %4
         <location line="+73"/>
         <location line="+8"/>
         <source>Please check the address and try again.</source>
-        <translation type="unfinished"/>
+        <translation>Te rugam verifica adresa si introduce-o din nou</translation>
     </message>
     <message>
         <location line="-81"/>
         <location line="+81"/>
         <source>The entered address does not refer to a key.</source>
-        <translation type="unfinished"/>
+        <translation>Adresa introdusa nu se refera la o cheie.</translation>
     </message>
     <message>
         <location line="-73"/>
         <source>Wallet unlock was cancelled.</source>
-        <translation type="unfinished"/>
+        <translation>Blocarea portofelului a fost intrerupta</translation>
     </message>
     <message>
         <location line="+8"/>
         <source>Private key for the entered address is not available.</source>
-        <translation type="unfinished"/>
+        <translation>Cheia privata pentru adresa introdusa nu este valida.</translation>
     </message>
     <message>
         <location line="+12"/>
         <source>Message signing failed.</source>
-        <translation type="unfinished"/>
+        <translation>Semnarea mesajului a esuat</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Message signed.</source>
-        <translation type="unfinished"/>
+        <translation>Mesaj Semnat!</translation>
     </message>
     <message>
         <location line="+59"/>
         <source>The signature could not be decoded.</source>
-        <translation type="unfinished"/>
+        <translation>Aceasta semnatura nu a putut fi decodata</translation>
     </message>
     <message>
         <location line="+0"/>
         <location line="+13"/>
         <source>Please check the signature and try again.</source>
-        <translation type="unfinished"/>
+        <translation>Verifica semnatura si incearca din nou</translation>
     </message>
     <message>
         <location line="+0"/>
         <source>The signature did not match the message digest.</source>
-        <translation type="unfinished"/>
+        <translation>Semnatura nu seamana!</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>Message verification failed.</source>
-        <translation type="unfinished"/>
+        <translation>Verificarea mesajului a esuat</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Message verified.</source>
-        <translation type="unfinished"/>
+        <translation>Mesaj verificat</translation>
     </message>
 </context>
 <context>
@@ -1756,12 +1756,12 @@ Address: %4
     <message>
         <location filename="../splashscreen.cpp" line="+22"/>
         <source>The CaresCoin developers</source>
-        <translation type="unfinished"/>
+        <translation>Dezvoltatorii CaresCoin</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>[testnet]</source>
-        <translation type="unfinished"/>
+        <translation>[testnet]</translation>
     </message>
 </context>
 <context>
@@ -1769,7 +1769,7 @@ Address: %4
     <message>
         <location filename="../transactiondesc.cpp" line="+20"/>
         <source>Open until %1</source>
-        <translation type="unfinished"/>
+        <translation>Deschis până la %1</translation>
     </message>
     <message>
         <location line="+6"/>
@@ -1779,61 +1779,61 @@ Address: %4
     <message>
         <location line="+2"/>
         <source>%1/unconfirmed</source>
-        <translation type="unfinished"/>
+        <translation>%1/neconfirmat</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>%1 confirmations</source>
-        <translation type="unfinished"/>
+        <translation>%1 confirmări</translation>
     </message>
     <message>
         <location line="+18"/>
         <source>Status</source>
-        <translation type="unfinished"/>
+        <translation>Stare</translation>
     </message>
     <message numerus="yes">
         <location line="+7"/>
         <source>, broadcast through %n node(s)</source>
-        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform></translation>
+        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform></translation>
     </message>
     <message>
         <location line="+4"/>
         <source>Date</source>
-        <translation type="unfinished"/>
+        <translation>Data</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>Source</source>
-        <translation type="unfinished"/>
+        <translation>Sursa</translation>
     </message>
     <message>
         <location line="+0"/>
         <source>Generated</source>
-        <translation type="unfinished"/>
+        <translation>Generat</translation>
     </message>
     <message>
         <location line="+5"/>
         <location line="+17"/>
         <source>From</source>
-        <translation type="unfinished"/>
+        <translation>De la</translation>
     </message>
     <message>
         <location line="+1"/>
         <location line="+22"/>
         <location line="+58"/>
         <source>To</source>
-        <translation type="unfinished"/>
+        <translation>Către</translation>
     </message>
     <message>
         <location line="-77"/>
         <location line="+2"/>
         <source>own address</source>
-        <translation type="unfinished"/>
+        <translation>Adresa posedata</translation>
     </message>
     <message>
         <location line="-2"/>
         <source>label</source>
-        <translation type="unfinished"/>
+        <translation>etichetă</translation>
     </message>
     <message>
         <location line="+37"/>
@@ -1842,17 +1842,17 @@ Address: %4
         <location line="+17"/>
         <location line="+30"/>
         <source>Credit</source>
-        <translation type="unfinished"/>
+        <translation>Credit</translation>
     </message>
     <message numerus="yes">
         <location line="-102"/>
         <source>matures in %n more block(s)</source>
-        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform></translation>
+        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform></translation>
     </message>
     <message>
         <location line="+2"/>
         <source>not accepted</source>
-        <translation type="unfinished"/>
+        <translation>nu este acceptat</translation>
     </message>
     <message>
         <location line="+44"/>
@@ -1860,82 +1860,82 @@ Address: %4
         <location line="+15"/>
         <location line="+30"/>
         <source>Debit</source>
-        <translation type="unfinished"/>
+        <translation>Debit</translation>
     </message>
     <message>
         <location line="-39"/>
         <source>Transaction fee</source>
-        <translation type="unfinished"/>
+        <translation>Comisionul tranzacţiei</translation>
     </message>
     <message>
         <location line="+16"/>
         <source>Net amount</source>
-        <translation type="unfinished"/>
+        <translation>Suma netă</translation>
     </message>
     <message>
         <location line="+6"/>
         <source>Message</source>
-        <translation type="unfinished"/>
+        <translation>Mesaj</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Comment</source>
-        <translation type="unfinished"/>
+        <translation>Comentarii</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Transaction ID</source>
-        <translation type="unfinished"/>
+        <translation>ID-ul tranzactiei</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Generated coins must mature 20 blocks before they can be spent. When you generated this block, it was broadcast to the network to be added to the block chain. If it fails to get into the chain, its state will change to &quot;not accepted&quot; and it won&apos;t be spendable. This may occasionally happen if another node generates a block within a few seconds of yours.</source>
-        <translation type="unfinished"/>
+        <translation>Monedele carescoin generate se pot cheltui dupa parcurgerea a 20 de blocuri.  După ce a fost generat, s-a propagat în reţea, urmând să fie adăugat lanţului de blocuri.  Dacă nu poate fi inclus in lanţ, starea sa va deveni &quot;neacceptat&quot; si nu va putea fi folosit la tranzacţii.  Acest fenomen se întâmplă atunci cand un alt nod a generat un bloc la o diferenţa de câteva secunde.</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>Debug information</source>
-        <translation type="unfinished"/>
+        <translation>Informatii pentru debug</translation>
     </message>
     <message>
         <location line="+8"/>
         <source>Transaction</source>
-        <translation type="unfinished"/>
+        <translation>Tranzacţie</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Inputs</source>
-        <translation type="unfinished"/>
+        <translation>Intrari</translation>
     </message>
     <message>
         <location line="+23"/>
         <source>Amount</source>
-        <translation type="unfinished"/>
+        <translation>Sumă</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>true</source>
-        <translation type="unfinished"/>
+        <translation>Adevarat!</translation>
     </message>
     <message>
         <location line="+0"/>
         <source>false</source>
-        <translation type="unfinished"/>
+        <translation>Fals!</translation>
     </message>
     <message>
         <location line="-209"/>
         <source>, has not been successfully broadcast yet</source>
-        <translation type="unfinished"/>
+        <translation>, nu s-a propagat încă</translation>
     </message>
     <message numerus="yes">
         <location line="-35"/>
         <source>Open for %n more block(s)</source>
-        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform></translation>
+        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform></translation>
     </message>
     <message>
         <location line="+70"/>
         <source>unknown</source>
-        <translation type="unfinished"/>
+        <translation>necunoscut</translation>
     </message>
 </context>
 <context>
@@ -1943,12 +1943,12 @@ Address: %4
     <message>
         <location filename="../forms/transactiondescdialog.ui" line="+14"/>
         <source>Transaction details</source>
-        <translation type="unfinished"/>
+        <translation>Detaliile tranzacţiei</translation>
     </message>
     <message>
         <location line="+6"/>
         <source>This pane shows a detailed description of the transaction</source>
-        <translation type="unfinished"/>
+        <translation>Afişează detalii despre tranzacţie</translation>
     </message>
 </context>
 <context>
@@ -1956,117 +1956,117 @@ Address: %4
     <message>
         <location filename="../transactiontablemodel.cpp" line="+225"/>
         <source>Date</source>
-        <translation type="unfinished"/>
+        <translation>Data</translation>
     </message>
     <message>
         <location line="+0"/>
         <source>Type</source>
-        <translation type="unfinished"/>
+        <translation>Tipul</translation>
     </message>
     <message>
         <location line="+0"/>
         <source>Address</source>
-        <translation type="unfinished"/>
+        <translation>Adresa</translation>
     </message>
     <message>
         <location line="+0"/>
         <source>Amount</source>
-        <translation type="unfinished"/>
+        <translation>Cantitate</translation>
     </message>
     <message numerus="yes">
         <location line="+57"/>
         <source>Open for %n more block(s)</source>
-        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform></translation>
+        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform></translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Open until %1</source>
-        <translation type="unfinished"/>
+        <translation>Deschis până la %1</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Offline (%1 confirmations)</source>
-        <translation type="unfinished"/>
+        <translation>Neconectat (%1 confirmări)</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Unconfirmed (%1 of %2 confirmations)</source>
-        <translation type="unfinished"/>
+        <translation>Neconfirmat (%1 din %2 confirmări)</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Confirmed (%1 confirmations)</source>
-        <translation type="unfinished"/>
+        <translation>Confirmat (%1 confirmări)</translation>
     </message>
     <message numerus="yes">
         <location line="+8"/>
         <source>Mined balance will be available when it matures in %n more block(s)</source>
-        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform></translation>
+        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform><numerusform></numerusform></translation>
     </message>
     <message>
         <location line="+5"/>
         <source>This block was not received by any other nodes and will probably not be accepted!</source>
-        <translation type="unfinished"/>
+        <translation>Blocul nu a fost recepţionat de niciun alt nod şi e probabil că nu va fi acceptat.</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Generated but not accepted</source>
-        <translation type="unfinished"/>
+        <translation>Generat, dar neacceptat</translation>
     </message>
     <message>
         <location line="+43"/>
         <source>Received with</source>
-        <translation type="unfinished"/>
+        <translation>Recepţionat cu</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Received from</source>
-        <translation type="unfinished"/>
+        <translation>Primit de la:</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Sent to</source>
-        <translation type="unfinished"/>
+        <translation>Trimis către</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Payment to yourself</source>
-        <translation type="unfinished"/>
+        <translation>Plată către un cont propriu</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Mined</source>
-        <translation type="unfinished"/>
+        <translation>Produs</translation>
     </message>
     <message>
         <location line="+38"/>
         <source>(n/a)</source>
-        <translation type="unfinished"/>
+        <translation>(n/a)</translation>
     </message>
     <message>
         <location line="+199"/>
         <source>Transaction status. Hover over this field to show number of confirmations.</source>
-        <translation type="unfinished"/>
+        <translation>Starea tranzacţiei. Treceţi cu mouse-ul peste acest câmp pentru afişarea numărului de confirmări.</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Date and time that the transaction was received.</source>
-        <translation type="unfinished"/>
+        <translation>Data şi ora la care a fost recepţionată tranzacţia.</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Type of transaction.</source>
-        <translation type="unfinished"/>
+        <translation>Tipul tranzacţiei.</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Destination address of transaction.</source>
-        <translation type="unfinished"/>
+        <translation>Adresa de destinaţie a tranzacţiei.</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Amount removed from or added to balance.</source>
-        <translation type="unfinished"/>
+        <translation>Suma extrasă sau adăugată la sold.</translation>
     </message>
 </context>
 <context>
@@ -2075,87 +2075,87 @@ Address: %4
         <location filename="../transactionview.cpp" line="+52"/>
         <location line="+16"/>
         <source>All</source>
-        <translation type="unfinished"/>
+        <translation>Toate</translation>
     </message>
     <message>
         <location line="-15"/>
         <source>Today</source>
-        <translation type="unfinished"/>
+        <translation>Astăzi</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>This week</source>
-        <translation type="unfinished"/>
+        <translation>Săptămâna aceasta</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>This month</source>
-        <translation type="unfinished"/>
+        <translation>Luna aceasta</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Last month</source>
-        <translation type="unfinished"/>
+        <translation>Luna trecută</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>This year</source>
-        <translation type="unfinished"/>
+        <translation>Anul acesta</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Range...</source>
-        <translation type="unfinished"/>
+        <translation>Între...</translation>
     </message>
     <message>
         <location line="+11"/>
         <source>Received with</source>
-        <translation type="unfinished"/>
+        <translation>Recepţionat cu...</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Sent to</source>
-        <translation type="unfinished"/>
+        <translation>Trimis către</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>To yourself</source>
-        <translation type="unfinished"/>
+        <translation>Către propriul cont</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Mined</source>
-        <translation type="unfinished"/>
+        <translation>Produs</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Other</source>
-        <translation type="unfinished"/>
+        <translation>Altele</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>Enter address or label to search</source>
-        <translation type="unfinished"/>
+        <translation>Introduceţi adresa sau eticheta pentru căutare</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>Min amount</source>
-        <translation type="unfinished"/>
+        <translation>Cantitatea produsă</translation>
     </message>
     <message>
         <location line="+34"/>
         <source>Copy address</source>
-        <translation type="unfinished"/>
+        <translation>Copiază adresa</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Copy label</source>
-        <translation type="unfinished"/>
+        <translation>Copiază eticheta</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Copy amount</source>
-        <translation type="unfinished"/>
+        <translation>Copiază sumă</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2165,77 +2165,77 @@ Address: %4
     <message>
         <location line="+1"/>
         <source>Edit label</source>
-        <translation type="unfinished"/>
+        <translation>Editează eticheta</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Show transaction details</source>
-        <translation type="unfinished"/>
+        <translation>Arata detaliile tranzactiei</translation>
     </message>
     <message>
         <location line="+143"/>
         <source>Export Transaction Data</source>
-        <translation type="unfinished"/>
+        <translation>Exportă tranzacţiile</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Comma separated file (*.csv)</source>
-        <translation type="unfinished"/>
+        <translation>Fişier text cu valori separate prin virgulă (*.csv)</translation>
     </message>
     <message>
         <location line="+8"/>
         <source>Confirmed</source>
-        <translation type="unfinished"/>
+        <translation>Confirmat</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Date</source>
-        <translation type="unfinished"/>
+        <translation>Data</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Type</source>
-        <translation type="unfinished"/>
+        <translation>Tipul</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Label</source>
-        <translation type="unfinished"/>
+        <translation>Etichetă</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Address</source>
-        <translation type="unfinished"/>
+        <translation>Adresă</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Amount</source>
-        <translation type="unfinished"/>
+        <translation>Sumă</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>ID</source>
-        <translation type="unfinished"/>
+        <translation>ID</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>Error exporting</source>
-        <translation type="unfinished"/>
+        <translation>Eroare în timpul exportului</translation>
     </message>
     <message>
         <location line="+0"/>
         <source>Could not write to file %1.</source>
-        <translation type="unfinished"/>
+        <translation>Fisierul %1 nu a putut fi accesat pentru scriere.</translation>
     </message>
     <message>
         <location line="+100"/>
         <source>Range:</source>
-        <translation type="unfinished"/>
+        <translation>Interval:</translation>
     </message>
     <message>
         <location line="+8"/>
         <source>to</source>
-        <translation type="unfinished"/>
+        <translation>către</translation>
     </message>
 </context>
 <context>
@@ -2243,7 +2243,7 @@ Address: %4
     <message>
         <location filename="../walletmodel.cpp" line="+193"/>
         <source>Send Coins</source>
-        <translation type="unfinished"/>
+        <translation>Trimite CaresCoin</translation>
     </message>
 </context>
 <context>
@@ -2266,17 +2266,17 @@ Address: %4
     <message>
         <location line="+0"/>
         <source>Wallet Data (*.dat)</source>
-        <translation type="unfinished"/>
+        <translation>Date portofel (*.dat)</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Backup Failed</source>
-        <translation type="unfinished"/>
+        <translation>Copia de rezerva a esuat</translation>
     </message>
     <message>
         <location line="+0"/>
         <source>There was an error trying to save the wallet data to the new location.</source>
-        <translation type="unfinished"/>
+        <translation>A apărut o eroare la încercarea de a salva datele din portofel intr-o noua locație.</translation>
     </message>
     <message>
         <location line="+4"/>
@@ -2294,82 +2294,82 @@ Address: %4
     <message>
         <location filename="../bitcoinstrings.cpp" line="+98"/>
         <source>CaresCoin version</source>
-        <translation type="unfinished"/>
+        <translation>versiunea CaresCoin</translation>
     </message>
     <message>
         <location line="+104"/>
         <source>Usage:</source>
-        <translation type="unfinished"/>
+        <translation>Uz:</translation>
     </message>
     <message>
         <location line="-30"/>
         <source>Send command to -server or carescoind</source>
-        <translation type="unfinished"/>
+        <translation>Trimite comanda la -server sau carescoind</translation>
     </message>
     <message>
         <location line="-23"/>
         <source>List commands</source>
-        <translation type="unfinished"/>
+        <translation>Listă de comenzi</translation>
     </message>
     <message>
         <location line="-13"/>
         <source>Get help for a command</source>
-        <translation type="unfinished"/>
+        <translation>Ajutor pentru o comandă</translation>
     </message>
     <message>
         <location line="+25"/>
         <source>Options:</source>
-        <translation type="unfinished"/>
+        <translation>Setări:</translation>
     </message>
     <message>
         <location line="+24"/>
         <source>Specify configuration file (default: carescoin.conf)</source>
-        <translation type="unfinished"/>
+        <translation>Specifica-ți configurația fisierului (in mod normal: carescoin.conf)</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Specify pid file (default: carescoind.pid)</source>
-        <translation type="unfinished"/>
+        <translation>Specifica fisierul pid (normal: carescoind.pid)</translation>
     </message>
     <message>
         <location line="-1"/>
         <source>Specify data directory</source>
-        <translation type="unfinished"/>
+        <translation>Specifica datele directorului</translation>
     </message>
     <message>
         <location line="-9"/>
         <source>Set database cache size in megabytes (default: 25)</source>
-        <translation type="unfinished"/>
+        <translation>Seteaza marimea cache a bazei de date in MB (initial: 25)</translation>
     </message>
     <message>
         <location line="-28"/>
         <source>Listen for connections on &lt;port&gt; (default: 20207 or testnet: 30207)</source>
-        <translation type="unfinished"/>
+        <translation>Lista a conectiunile in &lt;port&gt; (initial:  20207 sau testnet: 30207)</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Maintain at most &lt;n&gt; connections to peers (default: 125)</source>
-        <translation type="unfinished"/>
+        <translation>Se menține la cele mai multe conexiuni &lt;n&gt; cu colegii (implicit: 125)</translation>
     </message>
     <message>
         <location line="-49"/>
         <source>Connect to a node to retrieve peer addresses, and disconnect</source>
-        <translation type="unfinished"/>
+        <translation>Conecteaza-te la nod pentru a optine adresa peer, si deconecteaza-te</translation>
     </message>
     <message>
         <location line="+84"/>
         <source>Specify your own public address</source>
-        <translation type="unfinished"/>
+        <translation>Specifica adresa ta publica</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Threshold for disconnecting misbehaving peers (default: 100)</source>
-        <translation type="unfinished"/>
+        <translation>Prag pentru deconectarea colegii funcționează corect (implicit: 100)</translation>
     </message>
     <message>
         <location line="-136"/>
         <source>Number of seconds to keep misbehaving peers from reconnecting (default: 86400)</source>
-        <translation type="unfinished"/>
+        <translation>Numărul de secunde pentru a păstra colegii funcționează corect la reconectare (implicit: 86400)</translation>
     </message>
     <message>
         <location line="-33"/>
@@ -2384,22 +2384,23 @@ Address: %4
     <message>
         <location line="+37"/>
         <source>Accept command line and JSON-RPC commands</source>
-        <translation type="unfinished"/>
+        <translation>Se accepta command line si comenzi JSON-RPC</translation>
     </message>
     <message>
         <location line="+77"/>
         <source>Run in the background as a daemon and accept commands</source>
-        <translation type="unfinished"/>
+        <translation>Ruleaza în background ca un demon și accepta comenzi.</translation>
     </message>
     <message>
         <location line="+38"/>
         <source>Use the test network</source>
-        <translation type="unfinished"/>
+        <translation>Utilizeaza test de retea</translation>
     </message>
     <message>
         <location line="-114"/>
         <source>Accept connections from outside (default: 1 if no -proxy or -connect)</source>
-        <translation type="unfinished"/>
+        <translation>Accepta conexiuni de la straini (initial: 1  if no -proxy or -connect)
+</translation>
     </message>
     <message>
         <location line="-84"/>
@@ -2429,7 +2430,7 @@ for example: alertnotify=echo %%s | mail -s &quot;CaresCoin Alert&quot; admin@fo
     <message>
         <location line="+3"/>
         <source>Cannot obtain a lock on data directory %s. CaresCoin is probably already running.</source>
-        <translation type="unfinished"/>
+        <translation>Nu se poate obține o blocare a directorului de date %s. CaresCoin probabil rulează deja.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -2459,7 +2460,7 @@ for example: alertnotify=echo %%s | mail -s &quot;CaresCoin Alert&quot; admin@fo
     <message>
         <location line="+11"/>
         <source>Set maximum size of high-priority/low-fee transactions in bytes (default: 27000)</source>
-        <translation type="unfinished"/>
+        <translation>Seteaza marimea maxima a tranzactie mare/mica in bytes (initial:27000)</translation>
     </message>
     <message>
         <location line="+6"/>
@@ -2499,12 +2500,12 @@ for example: alertnotify=echo %%s | mail -s &quot;CaresCoin Alert&quot; admin@fo
     <message>
         <location line="+2"/>
         <source>Block creation options:</source>
-        <translation type="unfinished"/>
+        <translation>Optiuni creare block</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Connect only to the specified node(s)</source>
-        <translation type="unfinished"/>
+        <translation>Conecteaza-te doar la nod(urile) specifice</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -2514,7 +2515,7 @@ for example: alertnotify=echo %%s | mail -s &quot;CaresCoin Alert&quot; admin@fo
     <message>
         <location line="+1"/>
         <source>Discover own IP address (default: 1 when listening and no -externalip)</source>
-        <translation type="unfinished"/>
+        <translation>Descopera propria ta adresa IP (intial: 1)</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2544,12 +2545,12 @@ for example: alertnotify=echo %%s | mail -s &quot;CaresCoin Alert&quot; admin@fo
     <message>
         <location line="+2"/>
         <source>Error: Disk space is low!</source>
-        <translation type="unfinished"/>
+        <translation>Eroare: Spațiu pe disc redus!</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Error: Wallet locked, unable to create transaction!</source>
-        <translation type="unfinished"/>
+        <translation>Eroare: Portofel blocat, nu se poate crea o tranzacție!</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2689,7 +2690,7 @@ for example: alertnotify=echo %%s | mail -s &quot;CaresCoin Alert&quot; admin@fo
     <message>
         <location line="+78"/>
         <source>Information</source>
-        <translation type="unfinished"/>
+        <translation>Informație</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -2744,27 +2745,27 @@ for example: alertnotify=echo %%s | mail -s &quot;CaresCoin Alert&quot; admin@fo
     <message>
         <location line="+2"/>
         <source>Prepend debug output with timestamp</source>
-        <translation type="unfinished"/>
+        <translation>Copie de ieșire de depanare cu timestamp</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>SSL options: (see the CaresCoin Wiki for SSL setup instructions)</source>
-        <translation type="unfinished"/>
+        <translation>Optiuni SSl (vezi CaresCoin wiki pentru intructiunile de instalare)</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Select the version of socks proxy to use (4-5, default: 5)</source>
-        <translation type="unfinished"/>
+        <translation>Selecteaza versiunea socks-ului pe care vrei sa il folosesti (4-5, initial: 5)</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Send trace/debug info to console instead of debug.log file</source>
-        <translation type="unfinished"/>
+        <translation>Trimite urmări / debug info la consola loc de debug.log fișier</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Send trace/debug info to debugger</source>
-        <translation type="unfinished"/>
+        <translation>Trimite urmări / debug info la depanatorul</translation>
     </message>
     <message>
         <location line="+5"/>
@@ -2814,12 +2815,12 @@ for example: alertnotify=echo %%s | mail -s &quot;CaresCoin Alert&quot; admin@fo
     <message>
         <location line="+7"/>
         <source>Use UPnP to map the listening port (default: 0)</source>
-        <translation type="unfinished"/>
+        <translation>Foloseste UPnP pentru a vedea porturile (initial: 0)</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Use UPnP to map the listening port (default: 1 when listening)</source>
-        <translation type="unfinished"/>
+        <translation>Foloseste UPnP pentru a vedea porturile (initial: 1 cand listezi)</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2829,12 +2830,12 @@ for example: alertnotify=echo %%s | mail -s &quot;CaresCoin Alert&quot; admin@fo
     <message>
         <location line="+2"/>
         <source>Username for JSON-RPC connections</source>
-        <translation type="unfinished"/>
+        <translation>Username pentru conectiunile JSON-RPC</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Warning</source>
-        <translation type="unfinished"/>
+        <translation>Avertizare</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2844,209 +2845,215 @@ for example: alertnotify=echo %%s | mail -s &quot;CaresCoin Alert&quot; admin@fo
     <message>
         <location line="+2"/>
         <source>wallet.dat corrupt, salvage failed</source>
-        <translation type="unfinished"/>
+        <translation>wallet.dat corupt, recuperare eșuată</translation>
     </message>
     <message>
         <location line="-52"/>
         <source>Password for JSON-RPC connections</source>
-        <translation type="unfinished"/>
+        <translation>Parola pentru conectiunile JSON-RPC</translation>
     </message>
     <message>
         <location line="-68"/>
         <source>Allow JSON-RPC connections from specified IP address</source>
-        <translation type="unfinished"/>
+        <translation>Permiteti conectiunile JSON-RPC de la o adresa IP specifica.</translation>
     </message>
     <message>
         <location line="+77"/>
         <source>Send commands to node running on &lt;ip&gt; (default: 127.0.0.1)</source>
-        <translation type="unfinished"/>
+        <translation>Trimite comenzi la nod, ruland pe ip-ul (initial: 127.0.0.1)</translation>
     </message>
     <message>
         <location line="-121"/>
         <source>Execute command when the best block changes (%s in cmd is replaced by block hash)</source>
-        <translation type="unfinished"/>
+        <translation>Executa comanda cand cel mai bun block se schimba (%s in cmd se inlocuieste cu block hash)</translation>
     </message>
     <message>
         <location line="+149"/>
         <source>Upgrade wallet to latest format</source>
-        <translation type="unfinished"/>
+        <translation>Actualizeaza portofelul la ultimul format</translation>
     </message>
     <message>
         <location line="-22"/>
         <source>Set key pool size to &lt;n&gt; (default: 100)</source>
-        <translation type="unfinished"/>
+        <translation>Setarea marimii cheii bezinului la &lt;n&gt;(initial 100)</translation>
     </message>
     <message>
         <location line="-12"/>
         <source>Rescan the block chain for missing wallet transactions</source>
-        <translation type="unfinished"/>
+        <translation>Rescanare lanțul de bloc pentru tranzacțiile portofel lipsă</translation>
     </message>
     <message>
         <location line="+36"/>
         <source>Use OpenSSL (https) for JSON-RPC connections</source>
-        <translation type="unfinished"/>
+        <translation>Foloseste Open SSL(https) pentru coneciunile JSON-RPC</translation>
     </message>
     <message>
         <location line="-27"/>
         <source>Server certificate file (default: server.cert)</source>
-        <translation type="unfinished"/>
+        <translation>Certificatul serverulu (initial: server.cert)</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Server private key (default: server.pem)</source>
-        <translation type="unfinished"/>
+        <translation>Cheia privata a serverului ( initial: server.pem)</translation>
     </message>
     <message>
         <location line="-156"/>
         <source>Acceptable ciphers (default: TLSv1+HIGH:!SSLv2:!aNULL:!eNULL:!AH:!3DES:@STRENGTH)</source>
-        <translation type="unfinished"/>
+        <translation>Accepta cifruri (initial: TLSv1+HIGH:!SSLv2:!aNULL:!eNULL:!AH:!3DES:@STRENGTH)</translation>
     </message>
     <message>
         <location line="+171"/>
         <source>This help message</source>
-        <translation type="unfinished"/>
+        <translation>Acest mesaj de ajutor.</translation>
     </message>
     <message>
         <location line="+6"/>
         <source>Unable to bind to %s on this computer (bind returned error %d, %s)</source>
-        <translation type="unfinished"/>
+        <translation>Nu se poate lega %s cu acest calculator (retunare eroare legatura %d, %s)
+
+</translation>
     </message>
     <message>
         <location line="-93"/>
         <source>Connect through socks proxy</source>
-        <translation type="unfinished"/>
+        <translation>Conectează prin proxy SOCKS</translation>
     </message>
     <message>
         <location line="-10"/>
         <source>Allow DNS lookups for -addnode, -seednode and -connect</source>
-        <translation type="unfinished"/>
+        <translation>Permite DNS-ului sa se uite dupa -addnode, -seednode si -connect</translation>
     </message>
     <message>
         <location line="+56"/>
         <source>Loading addresses...</source>
-        <translation type="unfinished"/>
+        <translation>Încarc adrese...</translation>
     </message>
     <message>
         <location line="-36"/>
         <source>Error loading wallet.dat: Wallet corrupted</source>
-        <translation type="unfinished"/>
+        <translation>Eroare incarcand wallet.dat: Portofel corupt</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Error loading wallet.dat: Wallet requires newer version of CaresCoin</source>
-        <translation type="unfinished"/>
+        <translation>Eroare incarcare wallet.dat: Portofelul are nevoie de o versiune CaresCoin mai noua</translation>
     </message>
     <message>
         <location line="+96"/>
         <source>Wallet needed to be rewritten: restart CaresCoin to complete</source>
-        <translation type="unfinished"/>
+        <translation>Portofelul trebuie rescris: restarteaza aplicatia carescoin pentru a face asta.</translation>
     </message>
     <message>
         <location line="-98"/>
         <source>Error loading wallet.dat</source>
-        <translation type="unfinished"/>
+        <translation>Eroare incarcand wallet.dat</translation>
     </message>
     <message>
         <location line="+29"/>
         <source>Invalid -proxy address: &apos;%s&apos;</source>
-        <translation type="unfinished"/>
+        <translation>Adresa proxy invalida: &apos;%s&apos;</translation>
     </message>
     <message>
         <location line="+57"/>
         <source>Unknown network specified in -onlynet: &apos;%s&apos;</source>
-        <translation type="unfinished"/>
+        <translation>Retea specificata necunoscuta -onlynet: &apos;%s&apos;</translation>
     </message>
     <message>
         <location line="-1"/>
         <source>Unknown -socks proxy version requested: %i</source>
-        <translation type="unfinished"/>
+        <translation>Necunoscut -socks proxy version requested: %i</translation>
     </message>
     <message>
         <location line="-98"/>
         <source>Cannot resolve -bind address: &apos;%s&apos;</source>
-        <translation type="unfinished"/>
+        <translation>Nu se poate rezolca -bind address: &apos;%s&apos;</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Cannot resolve -externalip address: &apos;%s&apos;</source>
-        <translation type="unfinished"/>
+        <translation>Nu se poate rezolva -externalip address: &apos;%s&apos;</translation>
     </message>
     <message>
         <location line="+45"/>
         <source>Invalid amount for -paytxfee=&lt;amount&gt;: &apos;%s&apos;</source>
-        <translation type="unfinished"/>
+        <translation>Suma invalida pentru -paytxfee=&lt;amount&gt;: &apos;%s&apos;</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Invalid amount</source>
-        <translation type="unfinished"/>
+        <translation>Suma invalida</translation>
     </message>
     <message>
         <location line="-6"/>
         <source>Insufficient funds</source>
-        <translation type="unfinished"/>
+        <translation>Fonduri insuficiente</translation>
     </message>
     <message>
         <location line="+10"/>
         <source>Loading block index...</source>
-        <translation type="unfinished"/>
+        <translation>Încarc indice bloc...</translation>
     </message>
     <message>
         <location line="-58"/>
         <source>Add a node to connect to and attempt to keep the connection open</source>
-        <translation type="unfinished"/>
+        <translation>Add a node to connect to and attempt to keep the connection open
+details suggestions history
+</translation>
     </message>
     <message>
         <location line="-25"/>
         <source>Unable to bind to %s on this computer. CaresCoin is probably already running.</source>
-        <translation type="unfinished"/>
+        <translation>Imposibilitatea de a lega la% s pe acest computer. CaresCoin este, probabil, deja în execuție.</translation>
     </message>
     <message>
         <location line="+64"/>
         <source>Fee per KB to add to transactions you send</source>
-        <translation type="unfinished"/>
+        <translation>Taxa pe kb pentru a adauga tranzactii trimise</translation>
     </message>
     <message>
         <location line="+20"/>
         <source>Loading wallet...</source>
-        <translation type="unfinished"/>
+        <translation>Încarc portofel...</translation>
     </message>
     <message>
         <location line="-53"/>
         <source>Cannot downgrade wallet</source>
-        <translation type="unfinished"/>
+        <translation>Nu se poate face downgrade la portofel</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Cannot write default address</source>
-        <translation type="unfinished"/>
+        <translation>Nu se poate scrie adresa initiala</translation>
     </message>
     <message>
         <location line="+65"/>
         <source>Rescanning...</source>
-        <translation type="unfinished"/>
+        <translation>Rescanez...</translation>
     </message>
     <message>
         <location line="-58"/>
         <source>Done loading</source>
-        <translation type="unfinished"/>
+        <translation>Încărcare terminată</translation>
     </message>
     <message>
         <location line="+84"/>
         <source>To use the %s option</source>
-        <translation type="unfinished"/>
+        <translation>Pentru a folosii optiunea %s</translation>
     </message>
     <message>
         <location line="-76"/>
         <source>Error</source>
-        <translation type="unfinished"/>
+        <translation>Eroare</translation>
     </message>
     <message>
         <location line="-31"/>
         <source>You must set rpcpassword=&lt;password&gt; in the configuration file:
 %s
 If the file does not exist, create it with owner-readable-only file permissions.</source>
-        <translation type="unfinished"/>
+        <translation>Trebuie sa setezi rpzpassword=&lt;password&gt; in fisierul de configuratie:⏎
+%s⏎
+Daca fisierul nu exista, creazal cu permisiunea fisierului proprietar-doar-citire </translation>
     </message>
 </context>
 </TS>

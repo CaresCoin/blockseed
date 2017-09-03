@@ -1,15 +1,15 @@
-<?xml version="1.0" ?><!DOCTYPE TS><TS language="ach" version="2.0">
+<?xml version="1.0" ?><!DOCTYPE TS><TS language="fr_CA" version="2.0">
 <context>
     <name>AboutDialog</name>
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
         <source>About CaresCoin</source>
-        <translation type="unfinished"/>
+        <translation>A propos de CaresCoin</translation>
     </message>
     <message>
         <location line="+39"/>
         <source>&lt;b&gt;CaresCoin&lt;/b&gt; version</source>
-        <translation type="unfinished"/>
+        <translation>&lt;b&gt;CaresCoin&lt;/b&gt; version</translation>
     </message>
     <message>
         <location line="+57"/>
@@ -19,7 +19,12 @@ This is experimental software.
 Distributed under the MIT/X11 software license, see the accompanying file COPYING or http://www.opensource.org/licenses/mit-license.php.
 
 This product includes software developed by the OpenSSL Project for use in the OpenSSL Toolkit (http://www.openssl.org/) and cryptographic software written by Eric Young (eay@cryptsoft.com) and UPnP software written by Thomas Bernard.</source>
-        <translation type="unfinished"/>
+        <translation>
+Ce logiciel est en phase expérimentale.
+
+Distribué sous licence MIT/X11, voir le fichier COPYING ou http://www.opensource.org/licenses/mit-license.php.
+
+Ce produit comprend des logiciels développés par le projet OpenSSL pour être utilisés dans la boîte à outils OpenSSL (http://www.openssl.org/), un logiciel cryptographique écrit par Eric Young (eay@cryptsoft.com) et un logiciel UPnP écrit par Thomas Bernard.</translation>
     </message>
     <message>
         <location filename="../aboutdialog.cpp" line="+14"/>
@@ -37,22 +42,22 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location filename="../forms/addressbookpage.ui" line="+14"/>
         <source>Address Book</source>
-        <translation type="unfinished"/>
+        <translation>Carnet d&apos;adresses</translation>
     </message>
     <message>
         <location line="+19"/>
         <source>Double-click to edit address or label</source>
-        <translation type="unfinished"/>
+        <translation>Double-cliquez afin de modifier l&apos;adress ou l&apos;étiquette</translation>
     </message>
     <message>
         <location line="+27"/>
         <source>Create a new address</source>
-        <translation type="unfinished"/>
+        <translation>Créer une nouvelle adresse</translation>
     </message>
     <message>
         <location line="+14"/>
         <source>Copy the currently selected address to the system clipboard</source>
-        <translation type="unfinished"/>
+        <translation>Copier l&apos;adresse surligné a votre presse-papier</translation>
     </message>
     <message>
         <location line="-11"/>
@@ -62,7 +67,7 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location filename="../addressbookpage.cpp" line="+63"/>
         <source>These are your CaresCoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
-        <translation type="unfinished"/>
+        <translation>Ceux-ci sont vos adresses CaresCoin qui vous permettent de recevoir des paiements.  Vous pouvez en donner une différente à chaque expédieur afin de savoir qui vous payent.</translation>
     </message>
     <message>
         <location filename="../forms/addressbookpage.ui" line="+14"/>
@@ -112,7 +117,7 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="+14"/>
         <source>&amp;Delete</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Supprimer</translation>
     </message>
     <message>
         <location filename="../addressbookpage.cpp" line="-5"/>
@@ -137,7 +142,7 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="+265"/>
         <source>Export Address Book Data</source>
-        <translation type="unfinished"/>
+        <translation>Exporter les données du carnet d&apos;adresses</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -478,7 +483,7 @@ This product includes software developed by the OpenSSL Project for use in the O
         <location line="+23"/>
         <location line="+2"/>
         <source>&amp;About CaresCoin</source>
-        <translation type="unfinished"/>
+        <translation>&amp;A propos de CaresCoin</translation>
     </message>
     <message>
         <location line="+10"/>

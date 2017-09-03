@@ -1,15 +1,15 @@
-<?xml version="1.0" ?><!DOCTYPE TS><TS language="ach" version="2.0">
+<?xml version="1.0" ?><!DOCTYPE TS><TS language="eu_ES" version="2.0">
 <context>
     <name>AboutDialog</name>
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
         <source>About CaresCoin</source>
-        <translation type="unfinished"/>
+        <translation>CaresCoin-i buruz</translation>
     </message>
     <message>
         <location line="+39"/>
         <source>&lt;b&gt;CaresCoin&lt;/b&gt; version</source>
-        <translation type="unfinished"/>
+        <translation>&lt;b&gt;CaresCoin&lt;/b&gt; bertsioa</translation>
     </message>
     <message>
         <location line="+57"/>
@@ -37,22 +37,22 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location filename="../forms/addressbookpage.ui" line="+14"/>
         <source>Address Book</source>
-        <translation type="unfinished"/>
+        <translation>Helbide-liburua</translation>
     </message>
     <message>
         <location line="+19"/>
         <source>Double-click to edit address or label</source>
-        <translation type="unfinished"/>
+        <translation>Klik bikoitza helbidea edo etiketa editatzeko</translation>
     </message>
     <message>
         <location line="+27"/>
         <source>Create a new address</source>
-        <translation type="unfinished"/>
+        <translation>Sortu helbide berria</translation>
     </message>
     <message>
         <location line="+14"/>
         <source>Copy the currently selected address to the system clipboard</source>
-        <translation type="unfinished"/>
+        <translation>Kopiatu hautatutako helbidea sistemaren arbelera</translation>
     </message>
     <message>
         <location line="-11"/>
@@ -72,7 +72,7 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="+11"/>
         <source>Show &amp;QR Code</source>
-        <translation type="unfinished"/>
+        <translation>Erakutsi &amp;QR kodea</translation>
     </message>
     <message>
         <location line="+11"/>
@@ -112,7 +112,7 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="+14"/>
         <source>&amp;Delete</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Ezabatu</translation>
     </message>
     <message>
         <location filename="../addressbookpage.cpp" line="-5"/>
@@ -137,22 +137,22 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="+265"/>
         <source>Export Address Book Data</source>
-        <translation type="unfinished"/>
+        <translation>Esportatu Helbide-liburuaren datuak</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Comma separated file (*.csv)</source>
-        <translation type="unfinished"/>
+        <translation>Komaz bereizitako artxiboa (*.csv)</translation>
     </message>
     <message>
         <location line="+13"/>
         <source>Error exporting</source>
-        <translation type="unfinished"/>
+        <translation>Errorea esportatzean</translation>
     </message>
     <message>
         <location line="+0"/>
         <source>Could not write to file %1.</source>
-        <translation type="unfinished"/>
+        <translation>Ezin idatzi %1 artxiboan.</translation>
     </message>
 </context>
 <context>
@@ -160,17 +160,17 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location filename="../addresstablemodel.cpp" line="+144"/>
         <source>Label</source>
-        <translation type="unfinished"/>
+        <translation>Etiketa</translation>
     </message>
     <message>
         <location line="+0"/>
         <source>Address</source>
-        <translation type="unfinished"/>
+        <translation>Helbidea</translation>
     </message>
     <message>
         <location line="+36"/>
         <source>(no label)</source>
-        <translation type="unfinished"/>
+        <translation>(etiketarik ez)</translation>
     </message>
 </context>
 <context>
@@ -183,62 +183,62 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="+21"/>
         <source>Enter passphrase</source>
-        <translation type="unfinished"/>
+        <translation>Sartu pasahitza</translation>
     </message>
     <message>
         <location line="+14"/>
         <source>New passphrase</source>
-        <translation type="unfinished"/>
+        <translation>Pasahitz berria</translation>
     </message>
     <message>
         <location line="+14"/>
         <source>Repeat new passphrase</source>
-        <translation type="unfinished"/>
+        <translation>Errepikatu pasahitz berria</translation>
     </message>
     <message>
         <location filename="../askpassphrasedialog.cpp" line="+33"/>
         <source>Enter the new passphrase to the wallet.&lt;br/&gt;Please use a passphrase of &lt;b&gt;10 or more random characters&lt;/b&gt;, or &lt;b&gt;eight or more words&lt;/b&gt;.</source>
-        <translation type="unfinished"/>
+        <translation>Sartu zorrorako pasahitz berria.&lt;br/&gt; Mesedez erabili &lt;b&gt;gutxienez ausazko 10 karaktere&lt;/b&gt;, edo &lt;b&gt;gutxienez zortzi hitz&lt;/b&gt; pasahitza osatzeko.</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Encrypt wallet</source>
-        <translation type="unfinished"/>
+        <translation>Enkriptatu zorroa</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>This operation needs your wallet passphrase to unlock the wallet.</source>
-        <translation type="unfinished"/>
+        <translation>Eragiketa honek zorroaren pasahitza behar du zorroa desblokeatzeko.</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Unlock wallet</source>
-        <translation type="unfinished"/>
+        <translation>Desblokeatu zorroa</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>This operation needs your wallet passphrase to decrypt the wallet.</source>
-        <translation type="unfinished"/>
+        <translation>Eragiketa honek zure zorroaren pasahitza behar du, zorroa desenkriptatzeko.</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Decrypt wallet</source>
-        <translation type="unfinished"/>
+        <translation>Desenkriptatu zorroa</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Change passphrase</source>
-        <translation type="unfinished"/>
+        <translation>Aldatu pasahitza</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Enter the old and new passphrase to the wallet.</source>
-        <translation type="unfinished"/>
+        <translation>Sartu zorroaren pasahitz zaharra eta berria.</translation>
     </message>
     <message>
         <location line="+46"/>
         <source>Confirm wallet encryption</source>
-        <translation type="unfinished"/>
+        <translation>Berretsi zorroaren enkriptazioa</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -265,7 +265,7 @@ This product includes software developed by the OpenSSL Project for use in the O
         <location line="-130"/>
         <location line="+58"/>
         <source>Wallet encrypted</source>
-        <translation type="unfinished"/>
+        <translation>Zorroa enkriptatuta</translation>
     </message>
     <message>
         <location line="-56"/>
@@ -278,35 +278,35 @@ This product includes software developed by the OpenSSL Project for use in the O
         <location line="+42"/>
         <location line="+6"/>
         <source>Wallet encryption failed</source>
-        <translation type="unfinished"/>
+        <translation>Zorroaren enkriptazioak huts egin du</translation>
     </message>
     <message>
         <location line="-54"/>
         <source>Wallet encryption failed due to an internal error. Your wallet was not encrypted.</source>
-        <translation type="unfinished"/>
+        <translation>Zorroaren enkriptazioak huts egin du barne-errore baten ondorioz. Zure zorroa ez da enkriptatu.</translation>
     </message>
     <message>
         <location line="+7"/>
         <location line="+48"/>
         <source>The supplied passphrases do not match.</source>
-        <translation type="unfinished"/>
+        <translation>Eman dituzun pasahitzak ez datoz bat.</translation>
     </message>
     <message>
         <location line="-37"/>
         <source>Wallet unlock failed</source>
-        <translation type="unfinished"/>
+        <translation>Zorroaren desblokeoak huts egin du</translation>
     </message>
     <message>
         <location line="+1"/>
         <location line="+11"/>
         <location line="+19"/>
         <source>The passphrase entered for the wallet decryption was incorrect.</source>
-        <translation type="unfinished"/>
+        <translation>Zorroa desenkriptatzeko sartutako pasahitza okerra da.</translation>
     </message>
     <message>
         <location line="-20"/>
         <source>Wallet decryption failed</source>
-        <translation type="unfinished"/>
+        <translation>Zorroaren desenkriptazioak huts egin du</translation>
     </message>
     <message>
         <location line="+14"/>
@@ -324,67 +324,67 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="+246"/>
         <source>Synchronizing with network...</source>
-        <translation type="unfinished"/>
+        <translation>Sarearekin sinkronizatzen...</translation>
     </message>
     <message>
         <location line="-321"/>
         <source>&amp;Overview</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Gainbegiratu</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Show general overview of wallet</source>
-        <translation type="unfinished"/>
+        <translation>Ikusi zorroaren begirada orokorra</translation>
     </message>
     <message>
         <location line="+20"/>
         <source>&amp;Transactions</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Transakzioak</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Browse transaction history</source>
-        <translation type="unfinished"/>
+        <translation>Ikusi transakzioen historia</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>Edit the list of stored addresses and labels</source>
-        <translation type="unfinished"/>
+        <translation>Editatu gordetako helbide eta etiketen zerrenda</translation>
     </message>
     <message>
         <location line="-14"/>
         <source>Show the list of addresses for receiving payments</source>
-        <translation type="unfinished"/>
+        <translation>Erakutsi ordainketak jasotzeko helbideen zerrenda</translation>
     </message>
     <message>
         <location line="+31"/>
         <source>E&amp;xit</source>
-        <translation type="unfinished"/>
+        <translation>Irten</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Quit application</source>
-        <translation type="unfinished"/>
+        <translation>Irten aplikaziotik</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>Show information about CaresCoin</source>
-        <translation type="unfinished"/>
+        <translation>Erakutsi CaresCoin-i buruzko informazioa</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>About &amp;Qt</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Qt-ari buruz</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Show information about Qt</source>
-        <translation type="unfinished"/>
+        <translation>Erakutsi CaresCoin-i buruzko informazioa</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>&amp;Options...</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Aukerak...</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -429,7 +429,7 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="+2"/>
         <source>Change the passphrase used for wallet encryption</source>
-        <translation type="unfinished"/>
+        <translation>Aldatu zorroa enkriptatzeko erabilitako pasahitza</translation>
     </message>
     <message>
         <location line="+6"/>
@@ -509,28 +509,28 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="+28"/>
         <source>&amp;File</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Artxiboa</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>&amp;Settings</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Ezarpenak</translation>
     </message>
     <message>
         <location line="+6"/>
         <source>&amp;Help</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Laguntza</translation>
     </message>
     <message>
         <location line="+9"/>
         <source>Tabs toolbar</source>
-        <translation type="unfinished"/>
+        <translation>Fitxen tresna-barra</translation>
     </message>
     <message>
         <location line="-228"/>
         <location line="+288"/>
         <source>[testnet]</source>
-        <translation type="unfinished"/>
+        <translation>[testnet]</translation>
     </message>
     <message>
         <location line="-5"/>
@@ -541,7 +541,7 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message numerus="yes">
         <location line="+121"/>
         <source>%n active connection(s) to CaresCoin network</source>
-        <translation type="unfinished"><numerusform></numerusform><numerusform></numerusform></translation>
+        <translation><numerusform>Konexio aktibo %n CaresCoin-en sarera</numerusform><numerusform>%n konexio aktibo CaresCoin-en sarera</numerusform></translation>
     </message>
     <message>
         <location line="+22"/>
@@ -611,12 +611,12 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="-140"/>
         <source>Up to date</source>
-        <translation type="unfinished"/>
+        <translation>Egunean</translation>
     </message>
     <message>
         <location line="+31"/>
         <source>Catching up...</source>
-        <translation type="unfinished"/>
+        <translation>Eguneratzen...</translation>
     </message>
     <message>
         <location line="+113"/>
@@ -626,12 +626,12 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="+8"/>
         <source>Sent transaction</source>
-        <translation type="unfinished"/>
+        <translation>Bidalitako transakzioa</translation>
     </message>
     <message>
         <location line="+0"/>
         <source>Incoming transaction</source>
-        <translation type="unfinished"/>
+        <translation>Sarrerako transakzioa</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -657,12 +657,12 @@ Address: %4
     <message>
         <location line="+17"/>
         <source>Wallet is &lt;b&gt;encrypted&lt;/b&gt; and currently &lt;b&gt;unlocked&lt;/b&gt;</source>
-        <translation type="unfinished"/>
+        <translation>Zorroa &lt;b&gt;enkriptatuta&lt;/b&gt; eta &lt;b&gt;desblokeatuta&lt;/b&gt; dago une honetan</translation>
     </message>
     <message>
         <location line="+8"/>
         <source>Wallet is &lt;b&gt;encrypted&lt;/b&gt; and currently &lt;b&gt;locked&lt;/b&gt;</source>
-        <translation type="unfinished"/>
+        <translation>Zorroa &lt;b&gt;enkriptatuta&lt;/b&gt; eta &lt;b&gt;blokeatuta&lt;/b&gt; dago une honetan</translation>
     </message>
     <message>
         <location filename="../bitcoin.cpp" line="+110"/>
@@ -683,52 +683,52 @@ Address: %4
     <message>
         <location filename="../forms/editaddressdialog.ui" line="+14"/>
         <source>Edit Address</source>
-        <translation type="unfinished"/>
+        <translation>Editatu helbidea</translation>
     </message>
     <message>
         <location line="+11"/>
         <source>&amp;Label</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Etiketa</translation>
     </message>
     <message>
         <location line="+10"/>
         <source>The label associated with this address book entry</source>
-        <translation type="unfinished"/>
+        <translation>Helbide-liburuko sarrera honekin lotutako etiketa</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>&amp;Address</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Helbidea</translation>
     </message>
     <message>
         <location line="+10"/>
         <source>The address associated with this address book entry. This can only be modified for sending addresses.</source>
-        <translation type="unfinished"/>
+        <translation>Helbide-liburuko sarrera honekin lotutako helbidea. Bidaltzeko helbideeta soilik alda daiteke.</translation>
     </message>
     <message>
         <location filename="../editaddressdialog.cpp" line="+21"/>
         <source>New receiving address</source>
-        <translation type="unfinished"/>
+        <translation>Jasotzeko helbide berria</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>New sending address</source>
-        <translation type="unfinished"/>
+        <translation>Bidaltzeko helbide berria</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Edit receiving address</source>
-        <translation type="unfinished"/>
+        <translation>Editatu jasotzeko helbidea</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>Edit sending address</source>
-        <translation type="unfinished"/>
+        <translation>Editatu bidaltzeko helbidea</translation>
     </message>
     <message>
         <location line="+76"/>
         <source>The entered address &quot;%1&quot; is already in the address book.</source>
-        <translation type="unfinished"/>
+        <translation>Sartu berri den helbidea, &quot;%1&quot;, helbide-liburuan dago jadanik.</translation>
     </message>
     <message>
         <location line="-5"/>
@@ -738,12 +738,12 @@ Address: %4
     <message>
         <location line="+10"/>
         <source>Could not unlock wallet.</source>
-        <translation type="unfinished"/>
+        <translation>Ezin desblokeatu zorroa.</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>New key generation failed.</source>
-        <translation type="unfinished"/>
+        <translation>Gako berriaren sorrerak huts egin du.</translation>
     </message>
 </context>
 <context>
@@ -876,7 +876,7 @@ Address: %4
     <message>
         <location filename="../forms/optionsdialog.ui" line="+14"/>
         <source>Options</source>
-        <translation type="unfinished"/>
+        <translation>Aukerak</translation>
     </message>
     <message>
         <location line="+16"/>
@@ -1086,7 +1086,7 @@ Address: %4
     <message>
         <location filename="../forms/overviewpage.ui" line="+14"/>
         <source>Form</source>
-        <translation type="unfinished"/>
+        <translation>Inprimakia</translation>
     </message>
     <message>
         <location line="+50"/>
@@ -1097,7 +1097,7 @@ Address: %4
     <message>
         <location line="-131"/>
         <source>Unconfirmed:</source>
-        <translation type="unfinished"/>
+        <translation>Konfirmatu gabe:</translation>
     </message>
     <message>
         <location line="-78"/>
@@ -1142,7 +1142,7 @@ Address: %4
     <message>
         <location line="+53"/>
         <source>&lt;b&gt;Recent transactions&lt;/b&gt;</source>
-        <translation type="unfinished"/>
+        <translation>&lt;b&gt;Azken transakzioak&lt;/b&gt;</translation>
     </message>
     <message>
         <location filename="../overviewpage.cpp" line="+116"/>
@@ -1193,22 +1193,22 @@ Address: %4
     <message>
         <location line="+56"/>
         <source>Amount:</source>
-        <translation type="unfinished"/>
+        <translation>Kopurua</translation>
     </message>
     <message>
         <location line="-44"/>
         <source>Label:</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Etiketa:</translation>
     </message>
     <message>
         <location line="+19"/>
         <source>Message:</source>
-        <translation type="unfinished"/>
+        <translation>Mezua</translation>
     </message>
     <message>
         <location line="+71"/>
         <source>&amp;Save As...</source>
-        <translation type="unfinished"/>
+        <translation>Gorde honela...</translation>
     </message>
     <message>
         <location filename="../qrcodedialog.cpp" line="+64"/>
@@ -1395,12 +1395,12 @@ Address: %4
         <location line="+5"/>
         <location line="+5"/>
         <source>Send Coins</source>
-        <translation type="unfinished"/>
+        <translation>Bidali txanponak</translation>
     </message>
     <message>
         <location line="+50"/>
         <source>Send to multiple recipients at once</source>
-        <translation type="unfinished"/>
+        <translation>Bidali hainbat jasotzaileri batera</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1420,17 +1420,17 @@ Address: %4
     <message>
         <location line="+22"/>
         <source>Balance:</source>
-        <translation type="unfinished"/>
+        <translation>Saldoa:</translation>
     </message>
     <message>
         <location line="+10"/>
         <source>123.456 ABC</source>
-        <translation type="unfinished"/>
+        <translation>123.456 ABC</translation>
     </message>
     <message>
         <location line="+31"/>
         <source>Confirm the send action</source>
-        <translation type="unfinished"/>
+        <translation>Berretsi bidaltzeko ekintza</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1441,22 +1441,22 @@ Address: %4
         <location filename="../sendcoinsdialog.cpp" line="-62"/>
         <location line="+2"/>
         <source>&lt;b&gt;%1&lt;/b&gt; to %2 (%3)</source>
-        <translation type="unfinished"/>
+        <translation>&lt;b&gt;%1&lt;/b&gt; honi: %2 (%3)</translation>
     </message>
     <message>
         <location line="+6"/>
         <source>Confirm send coins</source>
-        <translation type="unfinished"/>
+        <translation>Berretsi txanponak bidaltzea</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Are you sure you want to send %1?</source>
-        <translation type="unfinished"/>
+        <translation>Ziur zaude %1 bidali nahi duzula?</translation>
     </message>
     <message>
         <location line="+0"/>
         <source> and </source>
-        <translation type="unfinished"/>
+        <translation>eta</translation>
     </message>
     <message>
         <location line="+23"/>
@@ -1466,7 +1466,7 @@ Address: %4
     <message>
         <location line="+5"/>
         <source>The amount to pay must be larger than 0.</source>
-        <translation type="unfinished"/>
+        <translation>Ordaintzeko kopurua 0 baino handiagoa izan behar du.</translation>
     </message>
     <message>
         <location line="+5"/>
@@ -1499,17 +1499,17 @@ Address: %4
     <message>
         <location filename="../forms/sendcoinsentry.ui" line="+14"/>
         <source>Form</source>
-        <translation type="unfinished"/>
+        <translation>Inprimakia</translation>
     </message>
     <message>
         <location line="+15"/>
         <source>A&amp;mount:</source>
-        <translation type="unfinished"/>
+        <translation>K&amp;opurua:</translation>
     </message>
     <message>
         <location line="+13"/>
         <source>Pay &amp;To:</source>
-        <translation type="unfinished"/>
+        <translation>Ordaindu &amp;honi:</translation>
     </message>
     <message>
         <location line="+34"/>
@@ -1520,12 +1520,12 @@ Address: %4
         <location line="+60"/>
         <location filename="../sendcoinsentry.cpp" line="+26"/>
         <source>Enter a label for this address to add it to your address book</source>
-        <translation type="unfinished"/>
+        <translation>Sartu etiketa bat helbide honetarako, eta gehitu zure helbide-liburuan</translation>
     </message>
     <message>
         <location line="-78"/>
         <source>&amp;Label:</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Etiketa:</translation>
     </message>
     <message>
         <location line="+28"/>
@@ -1535,27 +1535,27 @@ Address: %4
     <message>
         <location line="+10"/>
         <source>Alt+A</source>
-        <translation type="unfinished"/>
+        <translation>Alt+A</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>Paste address from clipboard</source>
-        <translation type="unfinished"/>
+        <translation>Itsatsi helbidea arbeletik</translation>
     </message>
     <message>
         <location line="+10"/>
         <source>Alt+P</source>
-        <translation type="unfinished"/>
+        <translation>Alt+P</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>Remove this recipient</source>
-        <translation type="unfinished"/>
+        <translation>Ezabatu jasotzaile hau</translation>
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
         <source>Enter a CaresCoin address (e.g. 1NS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</source>
-        <translation type="unfinished"/>
+        <translation>Sartu Bitocin helbide bat (adb.: 1NS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L) </translation>
     </message>
 </context>
 <context>
@@ -1590,17 +1590,17 @@ Address: %4
         <location line="-203"/>
         <location line="+213"/>
         <source>Alt+A</source>
-        <translation type="unfinished"/>
+        <translation>Alt+A</translation>
     </message>
     <message>
         <location line="-203"/>
         <source>Paste address from clipboard</source>
-        <translation type="unfinished"/>
+        <translation>Itsatsi helbidea arbeletik</translation>
     </message>
     <message>
         <location line="+10"/>
         <source>Alt+P</source>
-        <translation type="unfinished"/>
+        <translation>Alt+P</translation>
     </message>
     <message>
         <location line="+12"/>
@@ -1672,7 +1672,7 @@ Address: %4
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
         <source>Enter a CaresCoin address (e.g. 1NS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</source>
-        <translation type="unfinished"/>
+        <translation>Sartu Bitocin helbide bat (adb.: 1NS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L) </translation>
     </message>
     <message>
         <location line="-2"/>
@@ -1769,7 +1769,7 @@ Address: %4
     <message>
         <location filename="../transactiondesc.cpp" line="+20"/>
         <source>Open until %1</source>
-        <translation type="unfinished"/>
+        <translation>Zabalik %1 arte</translation>
     </message>
     <message>
         <location line="+6"/>
@@ -1779,12 +1779,12 @@ Address: %4
     <message>
         <location line="+2"/>
         <source>%1/unconfirmed</source>
-        <translation type="unfinished"/>
+        <translation>%1/konfirmatu gabe</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>%1 confirmations</source>
-        <translation type="unfinished"/>
+        <translation>%1 konfirmazioak</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -1799,7 +1799,7 @@ Address: %4
     <message>
         <location line="+4"/>
         <source>Date</source>
-        <translation type="unfinished"/>
+        <translation>Data</translation>
     </message>
     <message>
         <location line="+7"/>
@@ -1910,7 +1910,7 @@ Address: %4
     <message>
         <location line="+23"/>
         <source>Amount</source>
-        <translation type="unfinished"/>
+        <translation>Kopurua</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1925,7 +1925,7 @@ Address: %4
     <message>
         <location line="-209"/>
         <source>, has not been successfully broadcast yet</source>
-        <translation type="unfinished"/>
+        <translation>, ez da arrakastaz emititu oraindik</translation>
     </message>
     <message numerus="yes">
         <location line="-35"/>
@@ -1935,7 +1935,7 @@ Address: %4
     <message>
         <location line="+70"/>
         <source>unknown</source>
-        <translation type="unfinished"/>
+        <translation>ezezaguna</translation>
     </message>
 </context>
 <context>
@@ -1943,12 +1943,12 @@ Address: %4
     <message>
         <location filename="../forms/transactiondescdialog.ui" line="+14"/>
         <source>Transaction details</source>
-        <translation type="unfinished"/>
+        <translation>Transakzioaren xehetasunak</translation>
     </message>
     <message>
         <location line="+6"/>
         <source>This pane shows a detailed description of the transaction</source>
-        <translation type="unfinished"/>
+        <translation>Panel honek transakzioaren deskribapen xehea erakusten du</translation>
     </message>
 </context>
 <context>
@@ -1956,22 +1956,22 @@ Address: %4
     <message>
         <location filename="../transactiontablemodel.cpp" line="+225"/>
         <source>Date</source>
-        <translation type="unfinished"/>
+        <translation>Data</translation>
     </message>
     <message>
         <location line="+0"/>
         <source>Type</source>
-        <translation type="unfinished"/>
+        <translation>Mota</translation>
     </message>
     <message>
         <location line="+0"/>
         <source>Address</source>
-        <translation type="unfinished"/>
+        <translation>Helbidea</translation>
     </message>
     <message>
         <location line="+0"/>
         <source>Amount</source>
-        <translation type="unfinished"/>
+        <translation>Kopurua</translation>
     </message>
     <message numerus="yes">
         <location line="+57"/>
@@ -1981,12 +1981,12 @@ Address: %4
     <message>
         <location line="+3"/>
         <source>Open until %1</source>
-        <translation type="unfinished"/>
+        <translation>Zabalik %1 arte</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Offline (%1 confirmations)</source>
-        <translation type="unfinished"/>
+        <translation>Offline (%1 konfirmazio)</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1996,7 +1996,7 @@ Address: %4
     <message>
         <location line="+3"/>
         <source>Confirmed (%1 confirmations)</source>
-        <translation type="unfinished"/>
+        <translation>Konfirmatuta (%1 konfirmazio)</translation>
     </message>
     <message numerus="yes">
         <location line="+8"/>
@@ -2006,17 +2006,17 @@ Address: %4
     <message>
         <location line="+5"/>
         <source>This block was not received by any other nodes and will probably not be accepted!</source>
-        <translation type="unfinished"/>
+        <translation>Bloke hau ez du beste inongo nodorik jaso, eta seguruenik ez da onartuko!</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Generated but not accepted</source>
-        <translation type="unfinished"/>
+        <translation>Sortua, baina ez onartua</translation>
     </message>
     <message>
         <location line="+43"/>
         <source>Received with</source>
-        <translation type="unfinished"/>
+        <translation>Jasoa honekin: </translation>
     </message>
     <message>
         <location line="+2"/>
@@ -2026,47 +2026,47 @@ Address: %4
     <message>
         <location line="+3"/>
         <source>Sent to</source>
-        <translation type="unfinished"/>
+        <translation>Honi bidalia: </translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Payment to yourself</source>
-        <translation type="unfinished"/>
+        <translation>Ordainketa zeure buruari</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Mined</source>
-        <translation type="unfinished"/>
+        <translation>Bildua</translation>
     </message>
     <message>
         <location line="+38"/>
         <source>(n/a)</source>
-        <translation type="unfinished"/>
+        <translation>(n/a)</translation>
     </message>
     <message>
         <location line="+199"/>
         <source>Transaction status. Hover over this field to show number of confirmations.</source>
-        <translation type="unfinished"/>
+        <translation>Transakzioaren egoera. Pasatu sagua gainetik konfirmazio kopurua ikusteko.</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Date and time that the transaction was received.</source>
-        <translation type="unfinished"/>
+        <translation>Transakzioa jasotako data eta ordua.</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Type of transaction.</source>
-        <translation type="unfinished"/>
+        <translation>Transakzio mota.</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Destination address of transaction.</source>
-        <translation type="unfinished"/>
+        <translation>Transakzioaren xede-helbidea.</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Amount removed from or added to balance.</source>
-        <translation type="unfinished"/>
+        <translation>Saldoan kendu edo gehitutako kopurua.</translation>
     </message>
 </context>
 <context>
@@ -2075,82 +2075,82 @@ Address: %4
         <location filename="../transactionview.cpp" line="+52"/>
         <location line="+16"/>
         <source>All</source>
-        <translation type="unfinished"/>
+        <translation>Denak</translation>
     </message>
     <message>
         <location line="-15"/>
         <source>Today</source>
-        <translation type="unfinished"/>
+        <translation>Gaur</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>This week</source>
-        <translation type="unfinished"/>
+        <translation>Aste honetan</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>This month</source>
-        <translation type="unfinished"/>
+        <translation>Hil honetan</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Last month</source>
-        <translation type="unfinished"/>
+        <translation>Azken hilean</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>This year</source>
-        <translation type="unfinished"/>
+        <translation>Aurten</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Range...</source>
-        <translation type="unfinished"/>
+        <translation>Muga...</translation>
     </message>
     <message>
         <location line="+11"/>
         <source>Received with</source>
-        <translation type="unfinished"/>
+        <translation>Jasota honekin: </translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Sent to</source>
-        <translation type="unfinished"/>
+        <translation>Hona bidalia: </translation>
     </message>
     <message>
         <location line="+2"/>
         <source>To yourself</source>
-        <translation type="unfinished"/>
+        <translation>Zeure buruari</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Mined</source>
-        <translation type="unfinished"/>
+        <translation>Bildua</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Other</source>
-        <translation type="unfinished"/>
+        <translation>Beste</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>Enter address or label to search</source>
-        <translation type="unfinished"/>
+        <translation>Sartu bilatzeko helbide edo etiketa</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>Min amount</source>
-        <translation type="unfinished"/>
+        <translation>Kopuru minimoa</translation>
     </message>
     <message>
         <location line="+34"/>
         <source>Copy address</source>
-        <translation type="unfinished"/>
+        <translation>Kopiatu helbidea</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Copy label</source>
-        <translation type="unfinished"/>
+        <translation>Kopiatu etiketa</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2175,12 +2175,12 @@ Address: %4
     <message>
         <location line="+143"/>
         <source>Export Transaction Data</source>
-        <translation type="unfinished"/>
+        <translation>Transakzioaren xehetasunak</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Comma separated file (*.csv)</source>
-        <translation type="unfinished"/>
+        <translation>Komaz bereizitako artxiboa (*.csv)</translation>
     </message>
     <message>
         <location line="+8"/>
@@ -2190,27 +2190,27 @@ Address: %4
     <message>
         <location line="+1"/>
         <source>Date</source>
-        <translation type="unfinished"/>
+        <translation>Data</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Type</source>
-        <translation type="unfinished"/>
+        <translation>Mota</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Label</source>
-        <translation type="unfinished"/>
+        <translation>Etiketa</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Address</source>
-        <translation type="unfinished"/>
+        <translation>Helbidea</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Amount</source>
-        <translation type="unfinished"/>
+        <translation>Kopurua</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2220,12 +2220,12 @@ Address: %4
     <message>
         <location line="+4"/>
         <source>Error exporting</source>
-        <translation type="unfinished"/>
+        <translation>Errorea esportatzean</translation>
     </message>
     <message>
         <location line="+0"/>
         <source>Could not write to file %1.</source>
-        <translation type="unfinished"/>
+        <translation>Ezin idatzi %1 artxiboan.</translation>
     </message>
     <message>
         <location line="+100"/>
@@ -2294,7 +2294,7 @@ Address: %4
     <message>
         <location filename="../bitcoinstrings.cpp" line="+98"/>
         <source>CaresCoin version</source>
-        <translation type="unfinished"/>
+        <translation>Botcoin bertsioa</translation>
     </message>
     <message>
         <location line="+104"/>
@@ -2309,27 +2309,27 @@ Address: %4
     <message>
         <location line="-23"/>
         <source>List commands</source>
-        <translation type="unfinished"/>
+        <translation>Komandoen lista</translation>
     </message>
     <message>
         <location line="-13"/>
         <source>Get help for a command</source>
-        <translation type="unfinished"/>
+        <translation>Laguntza komando batean</translation>
     </message>
     <message>
         <location line="+25"/>
         <source>Options:</source>
-        <translation type="unfinished"/>
+        <translation>Aukerak</translation>
     </message>
     <message>
         <location line="+24"/>
         <source>Specify configuration file (default: carescoin.conf)</source>
-        <translation type="unfinished"/>
+        <translation>Ezarpen fitxategia aukeratu (berezkoa: carescoin.conf)</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Specify pid file (default: carescoind.pid)</source>
-        <translation type="unfinished"/>
+        <translation>pid fitxategia aukeratu (berezkoa: carescoind.pid)</translation>
     </message>
     <message>
         <location line="-1"/>
@@ -2904,7 +2904,7 @@ for example: alertnotify=echo %%s | mail -s &quot;CaresCoin Alert&quot; admin@fo
     <message>
         <location line="+171"/>
         <source>This help message</source>
-        <translation type="unfinished"/>
+        <translation>Laguntza mezu hau</translation>
     </message>
     <message>
         <location line="+6"/>
@@ -3024,12 +3024,12 @@ for example: alertnotify=echo %%s | mail -s &quot;CaresCoin Alert&quot; admin@fo
     <message>
         <location line="+65"/>
         <source>Rescanning...</source>
-        <translation type="unfinished"/>
+        <translation>Birbilatzen...</translation>
     </message>
     <message>
         <location line="-58"/>
         <source>Done loading</source>
-        <translation type="unfinished"/>
+        <translation>Zamaketa amaitua</translation>
     </message>
     <message>
         <location line="+84"/>
