@@ -8,7 +8,7 @@ Copyright (c) 2009-2013 CaresCoin Developers
 What is CaresCoin?
 ----------------
 
-CaresCoin is a new digital currency that enables instant payments to
+CaresCoin is a new cryptocurrency that enables instant payments to
 anyone, anywhere in the world. CaresCoin uses peer-to-peer technology to operate
 with no central authority: managing transactions and issuing money are carried
 out collectively by the network. CaresCoin is also the name of the open source
