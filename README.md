@@ -1,7 +1,7 @@
 CaresCoin integration/staging tree
 ================================
 
-http://www.carescoin.com
+https://www.carescoin.com
 
 Copyright (c) 2009-2013 CaresCoin Developers
 
